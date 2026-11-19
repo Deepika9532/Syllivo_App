@@ -24,4 +24,8 @@ Flutter · Dart · Riverpod (state management) · local database · TTS & speech
     flutter run
 
 ## Screenshots
-<img width="720" height="1451" alt="home" src="https://github.com/user-attachments/assets/d71e07bb-d6c0-440d-be09-d86d70c32d25" />
+<img width="720" height="1411" alt="language" src="https://github.com/user-attachments/assets/7d8a4a57-338a-4aa6-9d48-66f634db187e" />
+<img width="720" height="1435" alt="welcome" src="https://github.com/user-attachments/assets/0d4f90b1-4113-42d1-a53a-0329c403184e" />
+<img width="720" height="1406" alt="level" src="https://github.com/user-attachments/assets/12c9f024-994e-4bcc-a5db-b73082fb83f6" />
+<img width="720" height="1451" alt="home" src="https://github.com/user-attachments/assets/c4103c5b-c2fa-4e3d-b101-47de8a8c5258" />
+<img width="1640" height="925" alt="banner" src="https://github.com/user-attachments/assets/a3037d72-9330-4c0e-aa45-c7e4c96bff11" />
