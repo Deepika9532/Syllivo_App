@@ -1,0 +1,1413 @@
+{
+ "id": "de_a1",
+ "lang": "de",
+ "code": "A1",
+ "order": 1,
+ "version": 2,
+ "title": "Beginner",
+ "description": "Greetings, introductions, numbers and time, home and food. Articles, pronouns and the present tense.",
+ "alignment": "Oriented to CEFR A1 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Alphabet & pronunciation",
+  "Greetings & introductions",
+  "Numbers, dates & time",
+  "Family",
+  "Food & drinks",
+  "Articles der/die/das",
+  "Personal pronouns",
+  "Present tense",
+  "Questions & answers"
+ ],
+ "modules": [
+  {
+   "id": "de_a1_vocabulary",
+   "type": "vocabulary",
+   "title": "At home & describing things",
+   "lessons": [
+    {
+     "id": "de_a1_vocabulary_1",
+     "title": "At home & describing things",
+     "summary": "Rooms, furniture, colours and size adjectives. Always learn a noun with its article.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "German nouns are always capitalised and have a gender: der (masculine), die (feminine) or das (neuter). Learn them as a pair: der Tisch, not just Tisch."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "das Haus",
+         "en": "house",
+         "pron": "hows"
+        },
+        {
+         "target": "die Wohnung",
+         "en": "flat / apartment",
+         "pron": "VOH-nung"
+        },
+        {
+         "target": "das Zimmer",
+         "en": "room",
+         "pron": "TSIM-mer"
+        },
+        {
+         "target": "die Küche",
+         "en": "kitchen",
+         "pron": "KÜ-khe"
+        },
+        {
+         "target": "der Tisch",
+         "en": "table",
+         "pron": "tish"
+        },
+        {
+         "target": "der Stuhl",
+         "en": "chair",
+         "pron": "shtool"
+        },
+        {
+         "target": "das Bett",
+         "en": "bed",
+         "pron": "bet"
+        },
+        {
+         "target": "rot",
+         "en": "red",
+         "pron": "roht"
+        },
+        {
+         "target": "blau",
+         "en": "blue",
+         "pron": "blow"
+        },
+        {
+         "target": "grün",
+         "en": "green",
+         "pron": "grün"
+        },
+        {
+         "target": "groß",
+         "en": "big, tall",
+         "pron": "grohs"
+        },
+        {
+         "target": "klein",
+         "en": "small",
+         "pron": "kline",
+         "example": "Die Küche ist klein."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Was bedeutet „die Küche“?",
+       "options": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+       ],
+       "answer": 1,
+       "explanation": "die Küche = the kitchen.",
+       "id": "de_a1_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "der Tisch",
+         "table"
+        ],
+        [
+         "der Stuhl",
+         "chair"
+        ],
+        [
+         "das Bett",
+         "bed"
+        ],
+        [
+         "das Zimmer",
+         "room"
+        ]
+       ],
+       "id": "de_a1_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Das Haus ist ___. (big)",
+       "answers": [
+        "groß",
+        "gross"
+       ],
+       "explanation": "groß = big. ß can be written ss when you have no ß key.",
+       "id": "de_a1_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which article? ___ Zimmer",
+       "options": [
+        "der",
+        "die",
+        "das"
+       ],
+       "answer": 2,
+       "explanation": "Zimmer is neuter: das Zimmer.",
+       "id": "de_a1_vocabulary_1_q4",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What colour is grass?",
+       "options": [
+        "rot",
+        "blau",
+        "grün"
+       ],
+       "answer": 2,
+       "explanation": "Gras ist grün.",
+       "id": "de_a1_vocabulary_1_q5",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “the bed”?",
+       "options": [
+        "das Haus",
+        "der Tisch",
+        "das Bett",
+        "der Stuhl"
+       ],
+       "images": [
+        "house",
+        "table",
+        "bed",
+        "chair"
+       ],
+       "answer": 2,
+       "explanation": "das Bett = the bed.",
+       "skill": "vocabulary",
+       "id": "de_a1_vocabulary_1_q6"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “the chair”?",
+       "options": [
+        "die Küche",
+        "der Stuhl",
+        "das Bett",
+        "das Haus"
+       ],
+       "images": [
+        "kitchen",
+        "chair",
+        "bed",
+        "house"
+       ],
+       "answer": 1,
+       "explanation": "der Stuhl = the chair.",
+       "skill": "vocabulary",
+       "id": "de_a1_vocabulary_1_q7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_grammar",
+   "type": "grammar",
+   "title": "Articles, pronouns and the present tense",
+   "lessons": [
+    {
+     "id": "de_a1_grammar_1",
+     "title": "Articles, pronouns and the present tense",
+     "summary": "der/die/das, ein/eine, personal pronouns, and regular verbs plus sein in the present tense.",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "Every noun has a gender. The definite article (the) is der, die or das; the indefinite article (a) is ein (masculine/neuter) or eine (feminine)."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Gender",
+        "the",
+        "a"
+       ],
+       "rows": [
+        [
+         "masculine",
+         "der Tisch",
+         "ein Tisch"
+        ],
+        [
+         "feminine",
+         "die Küche",
+         "eine Küche"
+        ],
+        [
+         "neuter",
+         "das Bett",
+         "ein Bett"
+        ],
+        [
+         "plural",
+         "die Tische",
+         "– (no article)"
+        ]
+       ]
+      },
+      {
+       "type": "text",
+       "text": "Regular verbs drop -en and add an ending for each person. sein (to be) is irregular and must be memorised."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Pronoun",
+        "wohnen (to live)",
+        "kommen (to come)",
+        "sein (to be)"
+       ],
+       "rows": [
+        [
+         "ich (I)",
+         "wohne",
+         "komme",
+         "bin"
+        ],
+        [
+         "du (you, informal)",
+         "wohnst",
+         "kommst",
+         "bist"
+        ],
+        [
+         "er / sie / es",
+         "wohnt",
+         "kommt",
+         "ist"
+        ],
+        [
+         "wir (we)",
+         "wohnen",
+         "kommen",
+         "sind"
+        ],
+        [
+         "ihr (you all)",
+         "wohnt",
+         "kommt",
+         "seid"
+        ],
+        [
+         "sie / Sie (they / you formal)",
+         "wohnen",
+         "kommen",
+         "sind"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "In a statement the verb is always the second element: Ich wohne in Berlin. / In Berlin wohne ich."
+      },
+      {
+       "type": "example",
+       "target": "Woher kommst du?",
+       "en": "Where are you from?"
+      },
+      {
+       "type": "example",
+       "target": "Ich komme aus Indien.",
+       "en": "I come from India."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Ich ___ in Berlin. (wohnen)",
+       "answers": [
+        "wohne"
+       ],
+       "explanation": "ich → -e: ich wohne.",
+       "id": "de_a1_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "Du ___ sehr nett. (sein)",
+       "answers": [
+        "bist"
+       ],
+       "explanation": "du bist = you are.",
+       "id": "de_a1_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Wir ___ aus Spanien.",
+       "options": [
+        "kommt",
+        "kommen",
+        "komme"
+       ],
+       "answer": 1,
+       "explanation": "wir → -en: wir kommen.",
+       "id": "de_a1_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "Er kommen aus Indien.",
+       "answers": [
+        "Er kommt aus Indien."
+       ],
+       "explanation": "er/sie/es takes -t: er kommt.",
+       "skill": "grammar",
+       "id": "de_a1_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Woher",
+        "kommst",
+        "du?"
+       ],
+       "explanation": "Question words come first, then the verb.",
+       "translation": "Where are you from?",
+       "id": "de_a1_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_reading",
+   "type": "reading",
+   "title": "Reading: Lena introduces herself",
+   "lessons": [
+    {
+     "id": "de_a1_reading_1",
+     "title": "Reading: Lena introduces herself",
+     "summary": "A short personal profile. Read it, then answer the questions.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "Lena stellt sich vor",
+       "target": "Hallo! Ich heiße Lena und ich bin 25 Jahre alt. Ich komme aus Hamburg, aber ich wohne jetzt in München. Ich bin Lehrerin. Meine Wohnung ist klein, aber schön. Am Wochenende spiele ich gern Tennis.",
+       "en": "Hello! My name is Lena and I am 25 years old. I come from Hamburg, but I live in Munich now. I am a teacher. My flat is small but nice. At the weekend I like playing tennis."
+      },
+      {
+       "type": "tip",
+       "text": "„gern“ after a verb means you like doing it: Ich spiele gern Tennis = I like playing tennis."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Woher kommt Lena?",
+       "options": [
+        "München",
+        "Hamburg",
+        "Berlin"
+       ],
+       "answer": 1,
+       "explanation": "„Ich komme aus Hamburg“.",
+       "id": "de_a1_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was ist Lena von Beruf?",
+       "options": [
+        "Ärztin",
+        "Lehrerin",
+        "Studentin"
+       ],
+       "answer": 1,
+       "explanation": "„Ich bin Lehrerin“ = I am a (female) teacher.",
+       "id": "de_a1_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Wie ist ihre Wohnung?",
+       "options": [
+        "groß und alt",
+        "klein, aber schön",
+        "sehr teuer"
+       ],
+       "answer": 1,
+       "explanation": "„Meine Wohnung ist klein, aber schön.“",
+       "id": "de_a1_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "fill",
+       "prompt": "Lena ist ___ Jahre alt.",
+       "answers": [
+        "25",
+        "fünfundzwanzig"
+       ],
+       "explanation": "She says „ich bin 25 Jahre alt“.",
+       "id": "de_a1_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_writing",
+   "type": "writing",
+   "title": "Writing: introduce yourself",
+   "lessons": [
+    {
+     "id": "de_a1_writing_1",
+     "title": "Writing: introduce yourself",
+     "summary": "Build a short self-introduction from fixed sentence patterns.",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "Use these patterns and replace the words in brackets."
+      },
+      {
+       "type": "example",
+       "target": "Ich heiße [Name].",
+       "en": "My name is …"
+      },
+      {
+       "type": "example",
+       "target": "Ich komme aus [Land].",
+       "en": "I come from …"
+      },
+      {
+       "type": "example",
+       "target": "Ich wohne in [Stadt].",
+       "en": "I live in …"
+      },
+      {
+       "type": "example",
+       "target": "Ich bin Student / Studentin.",
+       "en": "I am a student (m / f)."
+      },
+      {
+       "type": "example",
+       "target": "In meiner Freizeit spiele ich gern [Hobby].",
+       "en": "In my free time I like playing …"
+      },
+      {
+       "type": "tip",
+       "text": "Jobs have a masculine and feminine form: Lehrer / Lehrerin, Arzt / Ärztin. No article: Ich bin Lehrer."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Write 3–5 sentences about yourself: your name, where you come from, where you live and a hobby.",
+       "minWords": 15,
+       "keywords": [
+        "ich",
+        "heiße|bin",
+        "komme|wohne"
+       ],
+       "sample": "Ich heiße Ravi. Ich komme aus Indien und wohne in Hyderabad. Ich bin Student. In meiner Freizeit spiele ich gern Cricket.",
+       "skill": "writing",
+       "id": "de_a1_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "Ich ___ aus Indien. (kommen)",
+       "answers": [
+        "komme"
+       ],
+       "explanation": "ich komme.",
+       "id": "de_a1_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "wohne",
+        "in",
+        "Hyderabad."
+       ],
+       "explanation": "Subject – verb – place.",
+       "translation": "I live in Hyderabad.",
+       "id": "de_a1_writing_1_q3",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "A female doctor says:",
+       "options": [
+        "Ich bin ein Arzt.",
+        "Ich bin Ärztin.",
+        "Ich bin die Ärztin."
+       ],
+       "answer": 1,
+       "explanation": "No article with professions, and the female form ends in -in.",
+       "id": "de_a1_writing_1_q4",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_listening",
+   "type": "listening",
+   "title": "Listening: time, prices and orders",
+   "lessons": [
+    {
+     "id": "de_a1_listening_1",
+     "title": "Listening: time, prices and orders",
+     "summary": "Listen for numbers and key words. Tap play as often as you like.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "Es ist drei Uhr.",
+       "en": "It is 3:00."
+      },
+      {
+       "type": "example",
+       "target": "Es ist halb vier.",
+       "en": "It is 3:30.",
+       "note": "halb vier = half (way) to four"
+      },
+      {
+       "type": "example",
+       "target": "Das kostet zwölf Euro.",
+       "en": "That costs 12 euros."
+      },
+      {
+       "type": "tip",
+       "text": "Careful: „halb drei“ is 2:30, not 3:30. German counts toward the next hour."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "dreizehn",
+         "en": "13"
+        },
+        {
+         "target": "vierzehn",
+         "en": "14"
+        },
+        {
+         "target": "fünfzehn",
+         "en": "15"
+        },
+        {
+         "target": "sechzehn",
+         "en": "16"
+        },
+        {
+         "target": "siebzehn",
+         "en": "17"
+        },
+        {
+         "target": "achtzehn",
+         "en": "18"
+        },
+        {
+         "target": "neunzehn",
+         "en": "19"
+        },
+        {
+         "target": "zwanzig",
+         "en": "20"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Es ist halb drei.",
+       "prompt": "Wie spät ist es?",
+       "options": [
+        "3:30",
+        "2:30",
+        "3:00"
+       ],
+       "answer": 1,
+       "explanation": "halb drei = half to three = 2:30.",
+       "skill": "listening",
+       "id": "de_a1_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Das kostet achtzehn Euro.",
+       "prompt": "Wie viel kostet das?",
+       "options": [
+        "8 €",
+        "18 €",
+        "80 €"
+       ],
+       "answer": 1,
+       "explanation": "achtzehn = 18.",
+       "skill": "listening",
+       "id": "de_a1_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Ich möchte einen Kaffee und ein Wasser, bitte.",
+       "prompt": "What does the person order?",
+       "options": [
+        "coffee and water",
+        "tea and water",
+        "coffee and juice"
+       ],
+       "answer": 0,
+       "explanation": "einen Kaffee und ein Wasser.",
+       "skill": "listening",
+       "id": "de_a1_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "Meine Telefonnummer ist null eins fünf sieben.",
+       "prompt": "Which digits do you hear?",
+       "options": [
+        "0157",
+        "0175",
+        "0517"
+       ],
+       "answer": 0,
+       "explanation": "null – eins – fünf – sieben.",
+       "skill": "listening",
+       "id": "de_a1_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_speaking",
+   "type": "speaking",
+   "title": "Speaking: everyday phrases",
+   "lessons": [
+    {
+     "id": "de_a1_speaking_1",
+     "title": "Speaking: everyday phrases",
+     "summary": "Say useful sentences aloud. Listen first, then record yourself.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Formal and informal greetings",
+       "lines": [
+        {
+         "speaker": "A",
+         "target": "Guten Tag, Frau Weber! Wie geht es Ihnen?",
+         "en": "Good afternoon, Ms Weber! How are you? (formal)"
+        },
+        {
+         "speaker": "B",
+         "target": "Danke, gut. Und Ihnen?",
+         "en": "Fine, thanks. And you?"
+        },
+        {
+         "speaker": "C",
+         "target": "Hi Tim, wie geht's dir?",
+         "en": "Hi Tim, how are you? (informal)"
+        },
+        {
+         "speaker": "D",
+         "target": "Super, danke!",
+         "en": "Great, thanks!"
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Use Sie (formal) with strangers, officials and at work; du with friends, family and children."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Ich komme aus Indien.",
+       "translation": "I come from India.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a1_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Wie geht es Ihnen?",
+       "translation": "How are you? (formal)",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a1_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Ich möchte ein Wasser, bitte.",
+       "translation": "I would like a water, please.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a1_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which is the formal “How are you?”",
+       "options": [
+        "Wie geht's dir?",
+        "Wie geht es Ihnen?",
+        "Wie heißt du?"
+       ],
+       "answer": 1,
+       "explanation": "Ihnen is the formal form; dir is informal.",
+       "id": "de_a1_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_pronunciation",
+   "type": "pronunciation",
+   "title": "German sounds: umlauts, ch, ß, ei and ie",
+   "lessons": [
+    {
+     "id": "de_a1_pronunciation_1",
+     "title": "German sounds: umlauts, ch, ß, ei and ie",
+     "summary": "The sounds English speakers find hardest, with a reliable rule for each.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Spelling",
+        "How to say it",
+        "Example"
+       ],
+       "rows": [
+        [
+         "ä",
+         "like e in “bed”",
+         "Mädchen (girl)"
+        ],
+        [
+         "ö",
+         "say “e” with rounded lips",
+         "schön (beautiful)"
+        ],
+        [
+         "ü",
+         "say “ee” with rounded lips",
+         "Brücke (bridge)"
+        ],
+        [
+         "ch after e, i",
+         "soft hiss, like a whispered “h”",
+         "ich (I)"
+        ],
+        [
+         "ch after a, o, u",
+         "from the throat, like Scottish “loch”",
+         "Buch (book)"
+        ],
+        [
+         "ß / ss",
+         "a sharp s",
+         "Straße (street)"
+        ],
+        [
+         "ei",
+         "like “eye”",
+         "Wein (wine)"
+        ],
+        [
+         "ie",
+         "like “ee”",
+         "Wien (Vienna)"
+        ],
+        [
+         "w",
+         "like English v",
+         "Wasser (water)"
+        ],
+        [
+         "v",
+         "usually like f",
+         "Vater (father)"
+        ],
+        [
+         "z",
+         "ts",
+         "Zeit (time)"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Trick for ei / ie: say the SECOND letter’s English name. ei → “eye” (i), ie → “ee” (e)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "schön",
+       "translation": "beautiful",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a1_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Brücke",
+       "translation": "bridge",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a1_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "ich",
+       "translation": "I",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a1_pronunciation_1_q3"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Wein",
+       "translation": "wine",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a1_pronunciation_1_q4"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Wien",
+       "translation": "Vienna",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a1_pronunciation_1_q5"
+      },
+      {
+       "type": "mcq",
+       "prompt": "How is „ei“ in „Wein“ pronounced?",
+       "options": [
+        "like “ee” in see",
+        "like “eye”",
+        "like “ay” in day"
+       ],
+       "answer": 1,
+       "explanation": "ei sounds like the English word “eye”.",
+       "id": "de_a1_pronunciation_1_q6",
+       "skill": "pronunciation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which word has the throat „ch“ sound?",
+       "options": [
+        "ich",
+        "Buch",
+        "nicht"
+       ],
+       "answer": 1,
+       "explanation": "After a, o, u: Buch, Bach, noch.",
+       "id": "de_a1_pronunciation_1_q7",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_conversation",
+   "type": "conversation",
+   "title": "Conversation: at the café",
+   "lessons": [
+    {
+     "id": "de_a1_conversation_1",
+     "title": "Conversation: at the café",
+     "summary": "Order, ask for the bill and pay.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Im Café",
+       "lines": [
+        {
+         "speaker": "Kellner",
+         "target": "Guten Tag! Was möchten Sie?",
+         "en": "Hello! What would you like?"
+        },
+        {
+         "speaker": "Gast",
+         "target": "Ich möchte einen Kaffee, bitte.",
+         "en": "I'd like a coffee, please."
+        },
+        {
+         "speaker": "Kellner",
+         "target": "Mit Milch?",
+         "en": "With milk?"
+        },
+        {
+         "speaker": "Gast",
+         "target": "Ja, gern. Und ein Stück Kuchen.",
+         "en": "Yes, please. And a piece of cake."
+        },
+        {
+         "speaker": "Kellner",
+         "target": "Das macht sechs Euro fünfzig.",
+         "en": "That comes to €6.50."
+        },
+        {
+         "speaker": "Gast",
+         "target": "Hier, bitte. Stimmt so.",
+         "en": "Here you are. Keep the change."
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "„Stimmt so“ = keep the change. Tipping 5–10 % is common in German cafés."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "The waiter asks „Mit Milch?“ Best reply:",
+       "options": [
+        "Ja, gern.",
+        "Ich heiße Paul.",
+        "Es ist drei Uhr."
+       ],
+       "answer": 0,
+       "explanation": "Ja, gern = yes, please.",
+       "id": "de_a1_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "möchte",
+        "einen",
+        "Kaffee,",
+        "bitte."
+       ],
+       "translation": "I'd like a coffee, please.",
+       "id": "de_a1_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Das macht sechs Euro fünfzig“ means:",
+       "options": [
+        "That's €6.50",
+        "It's 6:50",
+        "Six coffees"
+       ],
+       "answer": 0,
+       "explanation": "Das macht … = that comes to …",
+       "id": "de_a1_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "Ich ___ einen Kuchen, bitte. (would like)",
+       "answers": [
+        "möchte"
+       ],
+       "explanation": "ich möchte = I would like.",
+       "id": "de_a1_conversation_1_q4",
+       "skill": "conversation"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “the coffee”?",
+       "options": [
+        "der Kaffee",
+        "der Tee",
+        "das Wasser",
+        "das Brot"
+       ],
+       "images": [
+        "coffee",
+        "tea",
+        "water",
+        "bread"
+       ],
+       "answer": 0,
+       "explanation": "der Kaffee = the coffee.",
+       "skill": "vocabulary",
+       "id": "de_a1_conversation_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: A1 foundations",
+   "lessons": [
+    {
+     "id": "de_a1_exercises_1",
+     "title": "Mixed practice: A1 foundations",
+     "summary": "Pronouns, sein, articles and simple questions together.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Review before you start: verb in position 2, sein is irregular (bin, bist, ist, sind, seid, sind), and nouns carry an article."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Question word",
+        "Meaning"
+       ],
+       "rows": [
+        [
+         "Wer?",
+         "Who?"
+        ],
+        [
+         "Was?",
+         "What?"
+        ],
+        [
+         "Wo?",
+         "Where?"
+        ],
+        [
+         "Woher?",
+         "Where from?"
+        ],
+        [
+         "Wie?",
+         "How?"
+        ],
+        [
+         "Wann?",
+         "When?"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "ich",
+         "bin"
+        ],
+        [
+         "du",
+         "bist"
+        ],
+        [
+         "er",
+         "ist"
+        ],
+        [
+         "wir",
+         "sind"
+        ]
+       ],
+       "explanation": "The forms of sein.",
+       "id": "de_a1_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "I am tired.",
+       "answers": [
+        "Ich bin müde."
+       ],
+       "explanation": "müde = tired.",
+       "skill": "translation",
+       "id": "de_a1_exercises_1_q2"
+      },
+      {
+       "type": "translate",
+       "prompt": "Where do you live?",
+       "answers": [
+        "Wo wohnst du?",
+        "Wo wohnen Sie?"
+       ],
+       "explanation": "Wo = where; wohnen = to live.",
+       "skill": "translation",
+       "id": "de_a1_exercises_1_q3"
+      },
+      {
+       "type": "fill",
+       "prompt": "___ Frau heißt Maria. (The)",
+       "answers": [
+        "Die"
+       ],
+       "explanation": "Frau is feminine: die Frau.",
+       "id": "de_a1_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Wie",
+        "heißt",
+        "du?"
+       ],
+       "translation": "What's your name?",
+       "id": "de_a1_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a1_quiz",
+   "type": "quiz",
+   "title": "A1 quiz",
+   "lessons": [
+    {
+     "id": "de_a1_quiz_1",
+     "title": "A1 quiz",
+     "summary": "Five quick questions across the level.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Answer from memory first, then read the explanation for anything you missed."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Which article? ___ Tisch",
+       "options": [
+        "der",
+        "die",
+        "das"
+       ],
+       "answer": 0,
+       "explanation": "der Tisch (masculine).",
+       "id": "de_a1_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Entschuldigung“ means:",
+       "options": [
+        "Thank you",
+        "Excuse me / sorry",
+        "Goodbye"
+       ],
+       "answer": 1,
+       "explanation": "Use it to get attention or apologise.",
+       "id": "de_a1_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Plural of „das Kind“:",
+       "options": [
+        "die Kinds",
+        "die Kinder",
+        "die Kinden"
+       ],
+       "answer": 1,
+       "explanation": "das Kind → die Kinder.",
+       "id": "de_a1_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Es ist halb zehn“ is:",
+       "options": [
+        "10:30",
+        "9:30",
+        "10:00"
+       ],
+       "answer": 1,
+       "explanation": "halb zehn = half to ten = 9:30.",
+       "id": "de_a1_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which question is correct?",
+       "options": [
+        "Woher kommst du?",
+        "Woher du kommst?",
+        "Du woher kommst?"
+       ],
+       "answer": 0,
+       "explanation": "Question word + verb + subject.",
+       "id": "de_a1_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "Which article? ___ Wohnung",
+   "options": [
+    "der",
+    "die",
+    "das"
+   ],
+   "answer": 1,
+   "explanation": "die Wohnung.",
+   "skill": "vocabulary",
+   "id": "de_a1_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„klein“ is the opposite of:",
+   "options": [
+    "groß",
+    "rot",
+    "neu"
+   ],
+   "answer": 0,
+   "explanation": "klein ↔ groß.",
+   "skill": "vocabulary",
+   "id": "de_a1_exam_q2"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ihr ___ aus Kanada. (sein)",
+   "answers": [
+    "seid"
+   ],
+   "explanation": "ihr seid.",
+   "skill": "grammar",
+   "id": "de_a1_exam_q3"
+  },
+  {
+   "type": "fill",
+   "prompt": "Sie ___ in Köln. (she lives: wohnen)",
+   "answers": [
+    "wohnt"
+   ],
+   "explanation": "sie (she) → wohnt.",
+   "skill": "grammar",
+   "id": "de_a1_exam_q4"
+  },
+  {
+   "type": "correction",
+   "prompt": "Ich bist Student.",
+   "answers": [
+    "Ich bin Student."
+   ],
+   "explanation": "ich bin.",
+   "skill": "grammar",
+   "id": "de_a1_exam_q5"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Tom ist 30. Er kommt aus Dublin und arbeitet als Koch in Wien.“ Where does Tom work?",
+   "options": [
+    "Dublin",
+    "Wien",
+    "Köln"
+   ],
+   "answer": 1,
+   "explanation": "„arbeitet … in Wien“.",
+   "skill": "reading",
+   "id": "de_a1_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Tom ist 30. Er kommt aus Dublin und arbeitet als Koch in Wien.“ What is his job?",
+   "options": [
+    "cook",
+    "teacher",
+    "doctor"
+   ],
+   "answer": 0,
+   "explanation": "Koch = cook.",
+   "skill": "reading",
+   "id": "de_a1_exam_q7"
+  },
+  {
+   "type": "listening",
+   "audio": "Es ist Viertel nach acht.",
+   "prompt": "Wie spät ist es?",
+   "options": [
+    "8:15",
+    "7:45",
+    "8:45"
+   ],
+   "answer": 0,
+   "explanation": "Viertel nach acht = quarter past eight.",
+   "skill": "listening",
+   "id": "de_a1_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Ein Tee kostet zwei Euro vierzig.",
+   "prompt": "How much is the tea?",
+   "options": [
+    "€2.40",
+    "€4.20",
+    "€2.14"
+   ],
+   "answer": 0,
+   "explanation": "zwei Euro vierzig.",
+   "skill": "listening",
+   "id": "de_a1_exam_q9"
+  },
+  {
+   "type": "translate",
+   "prompt": "My name is Anna.",
+   "answers": [
+    "Ich heiße Anna.",
+    "Mein Name ist Anna."
+   ],
+   "explanation": "Ich heiße … / Mein Name ist …",
+   "skill": "writing",
+   "id": "de_a1_exam_q10"
+  },
+  {
+   "type": "order",
+   "prompt": "",
+   "words": [
+    "Wo",
+    "wohnst",
+    "du?"
+   ],
+   "explanation": "Question word – verb – subject.",
+   "translation": "Where do you live?",
+   "skill": "writing",
+   "id": "de_a1_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "In a shop, how do you ask the price?",
+   "options": [
+    "Wie viel kostet das?",
+    "Wie heißt das?",
+    "Wo ist das?"
+   ],
+   "answer": 0,
+   "explanation": "Wie viel kostet das?",
+   "skill": "conversation",
+   "id": "de_a1_exam_q12"
+  }
+ ]
+}

@@ -1,0 +1,1094 @@
+{
+ "id": "de_c2",
+ "lang": "de",
+ "code": "C2",
+ "order": 6,
+ "version": 1,
+ "title": "Proficient",
+ "description": "Near-native comprehension and expression: dense structures, regional variety, irony, nuance and high-level debate.",
+ "alignment": "Oriented to CEFR C2 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Near-native comprehension",
+  "Sophisticated vocabulary",
+  "Idioms & regional expressions",
+  "Complex academic texts",
+  "Advanced professional writing",
+  "Nuanced speaking",
+  "Complex debates",
+  "Natural fluent communication"
+ ],
+ "modules": [
+  {
+   "id": "de_c2_vocabulary",
+   "type": "vocabulary",
+   "title": "Sophisticated vocabulary and regional variants",
+   "lessons": [
+    {
+     "id": "de_c2_vocabulary_1",
+     "title": "Sophisticated vocabulary and regional variants",
+     "summary": "Precise words, plus Austrian and Swiss alternatives you will hear.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "unabdingbar",
+         "en": "indispensable"
+        },
+        {
+         "target": "lapidar",
+         "en": "terse, matter-of-fact"
+        },
+        {
+         "target": "ambivalent",
+         "en": "ambivalent"
+        },
+        {
+         "target": "akribisch",
+         "en": "meticulous"
+        },
+        {
+         "target": "obsolet",
+         "en": "obsolete"
+        },
+        {
+         "target": "prekär",
+         "en": "precarious"
+        },
+        {
+         "target": "der Paradeiser (AT)",
+         "en": "tomato (Germany: die Tomate)"
+        },
+        {
+         "target": "der Erdapfel (AT)",
+         "en": "potato (die Kartoffel)"
+        },
+        {
+         "target": "die Jause (AT)",
+         "en": "snack, light meal"
+        },
+        {
+         "target": "das Velo (CH)",
+         "en": "bicycle (das Fahrrad)"
+        },
+        {
+         "target": "Grüß Gott (AT/S-DE)",
+         "en": "hello"
+        },
+        {
+         "target": "Grüezi (CH)",
+         "en": "hello"
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Regional words are standard in their region — not slang. Recognising them matters more than using them."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„akribisch“ means:",
+       "options": [
+        "meticulous",
+        "aggressive",
+        "ironic"
+       ],
+       "answer": 0,
+       "explanation": "akribisch genau = meticulously precise.",
+       "id": "de_c2_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "der Paradeiser",
+         "die Tomate"
+        ],
+        [
+         "der Erdapfel",
+         "die Kartoffel"
+        ],
+        [
+         "das Velo",
+         "das Fahrrad"
+        ],
+        [
+         "Grüezi",
+         "Guten Tag"
+        ]
+       ],
+       "id": "de_c2_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Eine gute Vorbereitung ist ___. (indispensable)",
+       "answers": [
+        "unabdingbar"
+       ],
+       "explanation": "unabdingbar = indispensable.",
+       "id": "de_c2_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "A „lapidare“ answer is:",
+       "options": [
+        "very brief and plain",
+        "very emotional",
+        "very long"
+       ],
+       "answer": 0,
+       "explanation": "lapidar = terse.",
+       "id": "de_c2_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_grammar",
+   "type": "grammar",
+   "title": "Extended participial attributes and modal particles",
+   "lessons": [
+    {
+     "id": "de_c2_grammar_1",
+     "title": "Extended participial attributes and modal particles",
+     "summary": "Compress clauses into dense noun phrases; colour speech with particles.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Extended participial attributes"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Relative clause",
+        "Participial attribute"
+       ],
+       "rows": [
+        [
+         "die Maßnahmen, die von der Regierung beschlossen wurden",
+         "die von der Regierung beschlossenen Maßnahmen"
+        ],
+        [
+         "der Bedarf, der seit Jahren steigt",
+         "der seit Jahren steigende Bedarf"
+        ],
+        [
+         "das Problem, das gelöst werden muss",
+         "das zu lösende Problem"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Read from the article to the noun, then go back: everything in between describes the noun."
+      },
+      {
+       "type": "heading",
+       "text": "Modal particles"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Particle",
+        "Typical effect",
+        "Example"
+       ],
+       "rows": [
+        [
+         "doch",
+         "contradiction / urging",
+         "Komm doch mit!"
+        ],
+        [
+         "ja",
+         "shared knowledge / surprise",
+         "Das ist ja interessant."
+        ],
+        [
+         "mal",
+         "softens a request",
+         "Schau mal."
+        ],
+        [
+         "eben / halt",
+         "resignation: that's how it is",
+         "Das ist halt so."
+        ],
+        [
+         "wohl",
+         "assumption",
+         "Er ist wohl krank."
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Participial form of „die Gäste, die gestern angekommen sind“:",
+       "options": [
+        "die gestern angekommenen Gäste",
+        "die gestern ankommenden Gäste",
+        "die angekommen gestern Gäste"
+       ],
+       "answer": 0,
+       "explanation": "Past participle + adjective ending.",
+       "id": "de_c2_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "das zu ___ Problem (lösen)",
+       "answers": [
+        "lösende"
+       ],
+       "explanation": "zu + present participle = must be …",
+       "id": "de_c2_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Er ist wohl krank“ expresses:",
+       "options": [
+        "an assumption",
+        "certainty",
+        "a wish"
+       ],
+       "answer": 0,
+       "explanation": "wohl = probably.",
+       "id": "de_c2_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "die gestern angekommenden Gäste",
+       "answers": [
+        "die gestern angekommenen Gäste"
+       ],
+       "explanation": "Use the past participle (angekommen) for a completed action.",
+       "skill": "grammar",
+       "id": "de_c2_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Das",
+        "ist",
+        "halt",
+        "so."
+       ],
+       "translation": "That's just how it is.",
+       "id": "de_c2_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_reading",
+   "type": "reading",
+   "title": "Reading: an essay on language and thought",
+   "lessons": [
+    {
+     "id": "de_c2_reading_1",
+     "title": "Reading: an essay on language and thought",
+     "summary": "Dense, nuanced argumentation with concessions.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "Sprache und Denken",
+       "target": "Wer behauptet, Sprache sei bloß ein Werkzeug, unterschätzt, wie sehr sie unser Denken prägt. Freilich wäre es überzogen, mit der starken Form der Sapir-Whorf-Hypothese anzunehmen, wir könnten nur denken, was unsere Sprache zulässt. Gleichwohl zeigt bereits ein flüchtiger Blick auf Übersetzungen, dass manche Begriffe – man denke an „Heimat“ oder „Gemütlichkeit“ – sich einer exakten Entsprechung hartnäckig entziehen. Es ist ebendiese Widerständigkeit, die das Übersetzen zu einer Kunst und nicht zu einem bloßen Handwerk macht.",
+       "en": "Anyone who claims language is merely a tool underestimates how much it shapes our thinking. Admittedly, it would be excessive to assume, with the strong form of the Sapir–Whorf hypothesis, that we can only think what our language allows. Nevertheless, even a fleeting look at translations shows that some concepts – think of “Heimat” or “Gemütlichkeit” – stubbornly resist an exact equivalent. It is precisely this resistance that makes translation an art and not a mere craft."
+      },
+      {
+       "type": "tip",
+       "text": "Concession pattern: Freilich … Gleichwohl … = Admittedly … Nevertheless … The author concedes a point, then returns to the main claim."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What is the author's position?",
+       "options": [
+        "Language shapes thinking, but not absolutely.",
+        "Language is only a tool.",
+        "We can only think what language allows."
+       ],
+       "answer": 0,
+       "explanation": "Rejects both extremes.",
+       "id": "de_c2_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Gleichwohl“ means:",
+       "options": [
+        "nevertheless",
+        "equally",
+        "therefore"
+       ],
+       "answer": 0,
+       "explanation": "A concessive connector.",
+       "id": "de_c2_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What makes translation an art, according to the text?",
+       "options": [
+        "Some concepts resist exact equivalents.",
+        "Translators are poorly paid.",
+        "Dictionaries are incomplete."
+       ],
+       "answer": 0,
+       "explanation": "„ebendiese Widerständigkeit“.",
+       "id": "de_c2_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„flüchtig“ in „ein flüchtiger Blick“ means:",
+       "options": [
+        "brief, cursory",
+        "escaped",
+        "careful"
+       ],
+       "answer": 0,
+       "explanation": "A quick glance.",
+       "id": "de_c2_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_writing",
+   "type": "writing",
+   "title": "Writing: an argumentative essay",
+   "lessons": [
+    {
+     "id": "de_c2_writing_1",
+     "title": "Writing: an argumentative essay",
+     "summary": "Thesis, concession, counter-argument and conclusion in elevated style.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Move",
+        "Phrase"
+       ],
+       "rows": [
+        [
+         "Thesis",
+         "Es lässt sich nicht von der Hand weisen, dass …"
+        ],
+        [
+         "Concession",
+         "Zwar …, doch …"
+        ],
+        [
+         "Counter-argument",
+         "Dem ist entgegenzuhalten, dass …"
+        ],
+        [
+         "Weighing",
+         "Wägt man die Argumente ab, …"
+        ],
+        [
+         "Conclusion",
+         "Letztlich …"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Vary sentence openings and use nominal style sparingly — C2 writing is precise, not merely complicated."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Should universities teach more in English instead of German? Write an argumentative essay (120+ words) with a concession and a conclusion.",
+       "minWords": 120,
+       "keywords": [
+        "zwar|einerseits",
+        "doch|jedoch|entgegen",
+        "letztlich|abschließend|fazit"
+       ],
+       "sample": "Es lässt sich nicht von der Hand weisen, dass englischsprachige Studiengänge internationale Studierende anziehen. Zwar erleichtert Englisch die Zusammenarbeit in der Forschung, doch droht das Deutsche als Wissenschaftssprache an Bedeutung zu verlieren. Dem ist entgegenzuhalten, dass Mehrsprachigkeit kein Nullsummenspiel ist: Wer auf Englisch publiziert, kann in der Lehre dennoch Deutsch verwenden. Wägt man die Argumente ab, erscheint ein ausgewogenes Modell sinnvoll, in dem Master-Programme auf Englisch und Grundlagenfächer auf Deutsch angeboten werden. Letztlich sollte die Sprache dem Lernziel dienen und nicht umgekehrt.",
+       "skill": "writing",
+       "id": "de_c2_writing_1_q1"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Dem ist entgegenzuhalten, dass …“ introduces:",
+       "options": [
+        "a counter-argument",
+        "an example",
+        "a summary"
+       ],
+       "answer": 0,
+       "explanation": "entgegenhalten = to counter.",
+       "id": "de_c2_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "fill",
+       "prompt": "Es lässt sich nicht von der ___ weisen, dass … (cannot be denied)",
+       "answers": [
+        "Hand"
+       ],
+       "explanation": "nicht von der Hand zu weisen.",
+       "id": "de_c2_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_listening",
+   "type": "listening",
+   "title": "Listening: irony, implication and regional speech",
+   "lessons": [
+    {
+     "id": "de_c2_listening_1",
+     "title": "Listening: irony, implication and regional speech",
+     "summary": "Understand what is meant, not just what is said.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Irony often uses exaggerated praise for a bad situation: „Na, toll!“ usually means the opposite."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Na, das hat ja wunderbar geklappt – jetzt dürfen wir alles noch einmal machen.",
+       "prompt": "What is the speaker's attitude?",
+       "options": [
+        "ironic and annoyed",
+        "genuinely delighted",
+        "neutral"
+       ],
+       "answer": 0,
+       "explanation": "Exaggerated praise + redoing everything = irony.",
+       "skill": "listening",
+       "id": "de_c2_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Ich nehme eine Jause mit, falls wir später Hunger bekommen.",
+       "prompt": "What will the speaker take?",
+       "options": [
+        "a snack",
+        "a jacket",
+        "a map"
+       ],
+       "answer": 0,
+       "explanation": "Jause (Austrian) = snack.",
+       "skill": "listening",
+       "id": "de_c2_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Das Vorhaben ist zwar ambitioniert, dürfte aber an der Finanzierung scheitern.",
+       "prompt": "What does the speaker expect?",
+       "options": [
+        "the project will probably fail due to funding",
+        "the project will succeed",
+        "funding is secured"
+       ],
+       "answer": 0,
+       "explanation": "dürfte … scheitern = will probably fail.",
+       "skill": "listening",
+       "id": "de_c2_listening_1_q3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_speaking",
+   "type": "speaking",
+   "title": "Speaking: nuance and hedging",
+   "lessons": [
+    {
+     "id": "de_c2_speaking_1",
+     "title": "Speaking: nuance and hedging",
+     "summary": "Disagree, concede and qualify with precision.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "Das mag auf den ersten Blick einleuchten, greift aber zu kurz.",
+       "en": "That may seem plausible at first glance, but it falls short."
+      },
+      {
+       "type": "example",
+       "target": "Ich will nicht ausschließen, dass Sie recht haben.",
+       "en": "I won't rule out that you're right."
+      },
+      {
+       "type": "example",
+       "target": "Darüber ließe sich trefflich streiten.",
+       "en": "That's very much open to debate."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Das mag auf den ersten Blick einleuchten, greift aber zu kurz.",
+       "translation": "That may seem plausible at first, but it falls short.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c2_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Ich will nicht ausschließen, dass Sie recht haben.",
+       "translation": "I won't rule out that you're right.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c2_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Darüber ließe sich trefflich streiten.",
+       "translation": "That's very much open to debate.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c2_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„greift zu kurz“ means an argument:",
+       "options": [
+        "doesn't go far enough",
+        "is too long",
+        "is irrelevant"
+       ],
+       "answer": 0,
+       "explanation": "zu kurz greifen = to fall short.",
+       "id": "de_c2_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_pronunciation",
+   "type": "pronunciation",
+   "title": "Natural connected speech",
+   "lessons": [
+    {
+     "id": "de_c2_pronunciation_1",
+     "title": "Natural connected speech",
+     "summary": "How fluent speakers reduce and link words, and long-sentence rhythm.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Careful",
+        "Casual (common in speech)"
+       ],
+       "rows": [
+        [
+         "Hast du mal eine Minute?",
+         "Haste mal 'ne Minute?"
+        ],
+        [
+         "Ist es so?",
+         "Isses so?"
+        ],
+        [
+         "nicht",
+         "nich"
+        ],
+        [
+         "haben wir",
+         "ham wir"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Recognise reductions when listening; in formal speaking keep the careful forms."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "Die von der Kommission vorgeschlagenen Maßnahmen sind umstritten.",
+       "translation": "The measures proposed by the commission are controversial.",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c2_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Eichhörnchen",
+       "translation": "squirrel",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c2_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Streichholzschächtelchen",
+       "translation": "little matchbox",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c2_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Haste mal 'ne Minute?“ is casual for:",
+       "options": [
+        "Hast du mal eine Minute?",
+        "Hast du keine Minute?",
+        "Hattest du eine Minute?"
+       ],
+       "answer": 0,
+       "explanation": "haste = hast du; 'ne = eine.",
+       "id": "de_c2_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_conversation",
+   "type": "conversation",
+   "title": "Conversation: a high-level debate",
+   "lessons": [
+    {
+     "id": "de_c2_conversation_1",
+     "title": "Conversation: a high-level debate",
+     "summary": "Follow and join a complex exchange of views.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Podiumsdiskussion: Künstliche Intelligenz im Unterricht",
+       "lines": [
+        {
+         "speaker": "Prof. Lang",
+         "target": "Es wäre fahrlässig, KI pauschal aus dem Unterricht zu verbannen.",
+         "en": "It would be negligent to ban AI from lessons across the board."
+        },
+        {
+         "speaker": "Dr. Seidel",
+         "target": "Zugegeben, aber wir dürfen die Urteilskraft der Lernenden nicht leichtfertig aufs Spiel setzen.",
+         "en": "Granted, but we mustn't carelessly risk learners' judgement."
+        },
+        {
+         "speaker": "Prof. Lang",
+         "target": "Gerade deshalb plädiere ich für einen reflektierten Einsatz statt eines Verbots.",
+         "en": "That's exactly why I argue for reflective use rather than a ban."
+        },
+        {
+         "speaker": "Dr. Seidel",
+         "target": "Darin sind wir uns einig – strittig bleibt, wie man das in der Praxis gewährleistet.",
+         "en": "We agree on that – what remains contentious is how to ensure it in practice."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What do both speakers agree on?",
+       "options": [
+        "Reflective use is preferable to a ban.",
+        "AI should be banned.",
+        "Nothing at all."
+       ],
+       "answer": 0,
+       "explanation": "„Darin sind wir uns einig“.",
+       "id": "de_c2_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„plädieren für“ means:",
+       "options": [
+        "to argue for",
+        "to complain about",
+        "to plead guilty"
+       ],
+       "answer": 0,
+       "explanation": "plädieren für = advocate.",
+       "id": "de_c2_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Darin",
+        "sind",
+        "wir",
+        "uns",
+        "einig."
+       ],
+       "translation": "On that we agree.",
+       "id": "de_c2_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "___, aber wir dürfen … nicht aufs Spiel setzen. (Granted)",
+       "answers": [
+        "Zugegeben"
+       ],
+       "explanation": "Zugegeben = granted / admittedly.",
+       "id": "de_c2_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: C2 precision",
+   "lessons": [
+    {
+     "id": "de_c2_exercises_1",
+     "title": "Mixed practice: C2 precision",
+     "summary": "Particles, participial attributes, regional words and idioms.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "At C2, accuracy and register matter as much as meaning."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Komm ___ mit! (urging)",
+       "answers": [
+        "doch"
+       ],
+       "explanation": "doch adds urging.",
+       "id": "de_c2_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Rewrite „ein Argument, das nicht zu widerlegen ist“:",
+       "options": [
+        "ein nicht zu widerlegendes Argument",
+        "ein nicht widerlegtes Argument",
+        "ein widerlegendes Argument"
+       ],
+       "answer": 0,
+       "explanation": "zu + present participle.",
+       "id": "de_c2_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "The decision, which was made hastily, was criticised.",
+       "answers": [
+        "Die übereilt getroffene Entscheidung wurde kritisiert.",
+        "Die überstürzt getroffene Entscheidung wurde kritisiert."
+       ],
+       "explanation": "Participial attribute.",
+       "skill": "translation",
+       "id": "de_c2_exercises_1_q3"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "Grüß Gott",
+         "Austria / Bavaria"
+        ],
+        [
+         "Grüezi",
+         "Switzerland"
+        ],
+        [
+         "Moin",
+         "Northern Germany"
+        ],
+        [
+         "Servus",
+         "Austria / Bavaria (informal)"
+        ]
+       ],
+       "id": "de_c2_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„etwas aufs Spiel setzen“:",
+       "options": [
+        "to put something at risk",
+        "to play a game",
+        "to bet on sports"
+       ],
+       "answer": 0,
+       "explanation": "aufs Spiel setzen = jeopardise.",
+       "id": "de_c2_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c2_quiz",
+   "type": "quiz",
+   "title": "C2 quiz",
+   "lessons": [
+    {
+     "id": "de_c2_quiz_1",
+     "title": "C2 quiz",
+     "summary": "Five questions across C2.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Several options may be grammatical — pick the most idiomatic."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„die zu erwartenden Kosten“ means:",
+       "options": [
+        "the costs to be expected",
+        "the expected-for costs",
+        "the costs that expected"
+       ],
+       "answer": 0,
+       "explanation": "zu + present participle.",
+       "id": "de_c2_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Das ist ja interessant!“ — „ja“ signals:",
+       "options": [
+        "surprise",
+        "agreement",
+        "a question"
+       ],
+       "answer": 0,
+       "explanation": "ja = surprise / emphasis.",
+       "id": "de_c2_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„prekär“ means:",
+       "options": [
+        "precarious",
+        "precise",
+        "premature"
+       ],
+       "answer": 0,
+       "explanation": "eine prekäre Lage.",
+       "id": "de_c2_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Freilich …, gleichwohl …“ structures:",
+       "options": [
+        "a concession and counterpoint",
+        "a list",
+        "a cause and effect"
+       ],
+       "answer": 0,
+       "explanation": "Concessive.",
+       "id": "de_c2_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Austrian „Erdapfel“ =",
+       "options": [
+        "Kartoffel",
+        "Apfel",
+        "Erdbeere"
+       ],
+       "answer": 0,
+       "explanation": "potato.",
+       "id": "de_c2_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„obsolet“ means:",
+   "options": [
+    "obsolete",
+    "obvious",
+    "absolute"
+   ],
+   "answer": 0,
+   "explanation": "obsolet = outdated.",
+   "skill": "vocabulary",
+   "id": "de_c2_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Swiss „Velo“ is:",
+   "options": [
+    "a bicycle",
+    "a sail",
+    "a hat"
+   ],
+   "answer": 0,
+   "explanation": "das Velo = das Fahrrad.",
+   "skill": "vocabulary",
+   "id": "de_c2_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„der seit Jahren ___ Bedarf“ (steigen)",
+   "options": [
+    "steigende",
+    "gestiegene",
+    "steigenden"
+   ],
+   "answer": 0,
+   "explanation": "Ongoing → present participle, nominative after der: -e.",
+   "skill": "grammar",
+   "id": "de_c2_exam_q3"
+  },
+  {
+   "type": "fill",
+   "prompt": "Das ist ___ so – da kann man nichts machen. (resignation)",
+   "answers": [
+    "halt",
+    "eben"
+   ],
+   "explanation": "halt/eben express resignation.",
+   "skill": "grammar",
+   "id": "de_c2_exam_q4"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Participial form of „die Studie, die 2020 veröffentlicht wurde“:",
+   "options": [
+    "die 2020 veröffentlichte Studie",
+    "die 2020 veröffentlichende Studie",
+    "die veröffentlicht 2020 Studie"
+   ],
+   "answer": 0,
+   "explanation": "Past participle + ending.",
+   "skill": "grammar",
+   "id": "de_c2_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "Die Kosten sind ein nicht zu unterschätzender Faktor, die man beachten muss.",
+   "answers": [
+    "Die Kosten sind ein nicht zu unterschätzender Faktor, den man beachten muss."
+   ],
+   "explanation": "The relative pronoun refers to „Faktor“ (masculine, accusative) → den.",
+   "skill": "grammar",
+   "id": "de_c2_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Man mag dem Autor vieles vorwerfen – mangelnde Sorgfalt gehört nicht dazu.“ What does the writer think?",
+   "options": [
+    "The author is careful, despite other faults.",
+    "The author is careless.",
+    "The author is faultless."
+   ],
+   "answer": 0,
+   "explanation": "mangelnde Sorgfalt gehört nicht dazu.",
+   "skill": "reading",
+   "id": "de_c2_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Das Ergebnis ist bestenfalls ein Achtungserfolg.“ How good is the result?",
+   "options": [
+    "modest at best",
+    "outstanding",
+    "a disaster"
+   ],
+   "answer": 0,
+   "explanation": "Achtungserfolg = a respectable but modest success.",
+   "skill": "reading",
+   "id": "de_c2_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Na, da hast du dir ja was Schönes eingebrockt.",
+   "prompt": "What does the speaker mean?",
+   "options": [
+    "you've got yourself into trouble",
+    "you've cooked something nice",
+    "you've been lucky"
+   ],
+   "answer": 0,
+   "explanation": "sich etwas einbrocken = get into a mess (ironic „Schönes“).",
+   "skill": "listening",
+   "id": "de_c2_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "Die Entscheidung ist keineswegs so eindeutig, wie sie auf den ersten Blick erscheint.",
+   "prompt": "What does the speaker say?",
+   "options": [
+    "the decision is less clear-cut than it seems",
+    "the decision is obvious",
+    "the decision has been reversed"
+   ],
+   "answer": 0,
+   "explanation": "keineswegs so eindeutig.",
+   "skill": "listening",
+   "id": "de_c2_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "That may seem plausible, but it falls short.",
+   "answers": [
+    "Das mag einleuchten, greift aber zu kurz.",
+    "Das mag plausibel erscheinen, greift aber zu kurz."
+   ],
+   "explanation": "zu kurz greifen.",
+   "skill": "writing",
+   "id": "de_c2_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To concede and then disagree at C2 level:",
+   "options": [
+    "Zugegeben, doch …",
+    "Ja, nein.",
+    "Okay, egal."
+   ],
+   "answer": 0,
+   "explanation": "Concession + counterpoint.",
+   "skill": "conversation",
+   "id": "de_c2_exam_q12"
+  }
+ ]
+}

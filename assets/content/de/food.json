@@ -1,0 +1,66 @@
+{
+ "id": "de_a1_food",
+ "lang": "de",
+ "level": "A1",
+ "title": "Food & Drink",
+ "order": 3,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_wasser",
+   "front": "das Wasser",
+   "back": "water",
+   "example": "Ein Wasser, bitte."
+  },
+  {
+   "id": "de_brot",
+   "front": "das Brot",
+   "back": "bread"
+  },
+  {
+   "id": "de_kaffee",
+   "front": "der Kaffee",
+   "back": "coffee"
+  },
+  {
+   "id": "de_tee",
+   "front": "der Tee",
+   "back": "tea"
+  },
+  {
+   "id": "de_apfel",
+   "front": "der Apfel",
+   "back": "apple"
+  },
+  {
+   "id": "de_fleisch",
+   "front": "das Fleisch",
+   "back": "meat"
+  },
+  {
+   "id": "de_kaese",
+   "front": "der Käse",
+   "back": "cheese"
+  },
+  {
+   "id": "de_hunger",
+   "front": "Ich habe Hunger",
+   "back": "I’m hungry"
+  },
+  {
+   "id": "de_rechnung",
+   "front": "Die Rechnung, bitte",
+   "back": "The bill, please"
+  },
+  {
+   "id": "de_lecker",
+   "front": "Das ist lecker!",
+   "back": "That’s delicious!"
+  },
+  {
+   "id": "de_appetit",
+   "front": "Guten Appetit!",
+   "back": "Enjoy your meal!"
+  }
+ ]
+}

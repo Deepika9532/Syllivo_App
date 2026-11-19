@@ -1,0 +1,77 @@
+{
+ "id": "ko_b1_food",
+ "lang": "ko",
+ "level": "Beginner",
+ "title": "Food & Drink",
+ "order": 5,
+ "version": 1,
+ "cards": [
+  {
+   "id": "ko_mul",
+   "front": "물",
+   "romanization": "mul",
+   "back": "water",
+   "example": "물 주세요. (Water, please.)"
+  },
+  {
+   "id": "ko_bap",
+   "front": "밥",
+   "romanization": "bap",
+   "back": "rice / meal"
+  },
+  {
+   "id": "ko_gimchi",
+   "front": "김치",
+   "romanization": "gimchi",
+   "back": "kimchi"
+  },
+  {
+   "id": "ko_keopi",
+   "front": "커피",
+   "romanization": "keopi",
+   "back": "coffee"
+  },
+  {
+   "id": "ko_cha",
+   "front": "차",
+   "romanization": "cha",
+   "back": "tea"
+  },
+  {
+   "id": "ko_gogi",
+   "front": "고기",
+   "romanization": "gogi",
+   "back": "meat"
+  },
+  {
+   "id": "ko_ppang",
+   "front": "빵",
+   "romanization": "ppang",
+   "back": "bread"
+  },
+  {
+   "id": "ko_gwail",
+   "front": "과일",
+   "romanization": "gwail",
+   "back": "fruit"
+  },
+  {
+   "id": "ko_masisseoyo",
+   "front": "맛있어요",
+   "romanization": "masisseoyo",
+   "back": "It’s delicious"
+  },
+  {
+   "id": "ko_baegopayo",
+   "front": "배고파요",
+   "romanization": "baegopayo",
+   "back": "I’m hungry"
+  },
+  {
+   "id": "ko_menyupan",
+   "front": "메뉴판 주세요",
+   "romanization": "menyupan juseyo",
+   "back": "The menu, please"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+package com.lingo.syllivo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

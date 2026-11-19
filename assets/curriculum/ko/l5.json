@@ -1,0 +1,1079 @@
+{
+ "id": "ko_l5",
+ "lang": "ko",
+ "code": "L5",
+ "order": 5,
+ "version": 1,
+ "title": "Advanced",
+ "description": "Formal Korean, professional and academic vocabulary, news comprehension, advanced grammar, extended writing and complex listening.",
+ "alignment": "Content aligned with TOPIK II, level 5. TOPIK tests reading and listening, plus writing in TOPIK II; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Formal Korean",
+  "Professional vocabulary",
+  "Advanced grammar",
+  "News comprehension",
+  "Academic expressions",
+  "Advanced reading",
+  "Extended writing",
+  "Complex listening"
+ ],
+ "modules": [
+  {
+   "id": "ko_l5_vocabulary",
+   "type": "vocabulary",
+   "title": "News, economy and academic vocabulary",
+   "lessons": [
+    {
+     "id": "ko_l5_vocabulary_1",
+     "title": "News, economy and academic vocabulary",
+     "summary": "Sino-Korean vocabulary used in news and formal writing.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "경제",
+         "en": "economy"
+        },
+        {
+         "target": "정부",
+         "en": "government"
+        },
+        {
+         "target": "정책",
+         "en": "policy"
+        },
+        {
+         "target": "증가하다",
+         "en": "to increase"
+        },
+        {
+         "target": "감소하다",
+         "en": "to decrease"
+        },
+        {
+         "target": "영향",
+         "en": "influence, impact"
+        },
+        {
+         "target": "원인",
+         "en": "cause"
+        },
+        {
+         "target": "결과",
+         "en": "result"
+        },
+        {
+         "target": "조사",
+         "en": "survey, investigation"
+        },
+        {
+         "target": "발표하다",
+         "en": "to announce / present"
+        },
+        {
+         "target": "해결하다",
+         "en": "to solve"
+        },
+        {
+         "target": "대책",
+         "en": "countermeasure"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„감소하다“ means:",
+       "options": [
+        "to decrease",
+        "to increase",
+        "to announce"
+       ],
+       "answer": 0,
+       "explanation": "감소 = decrease.",
+       "id": "ko_l5_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "원인",
+         "cause"
+        ],
+        [
+         "결과",
+         "result"
+        ],
+        [
+         "정책",
+         "policy"
+        ],
+        [
+         "영향",
+         "impact"
+        ]
+       ],
+       "id": "ko_l5_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "인구가 계속 ___하고 있다. (decrease)",
+       "answers": [
+        "감소"
+       ],
+       "explanation": "감소하다.",
+       "id": "ko_l5_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„대책을 마련하다“ means:",
+       "options": [
+        "to prepare countermeasures",
+        "to cancel a policy",
+        "to hold an election"
+       ],
+       "answer": 0,
+       "explanation": "대책 = countermeasure.",
+       "id": "ko_l5_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_grammar",
+   "type": "grammar",
+   "title": "Formal written grammar",
+   "lessons": [
+    {
+     "id": "ko_l5_grammar_1",
+     "title": "Formal written grammar",
+     "summary": "-에 따르면, nominalisers -(으)ㅁ/-기, -는 반면(에), -(으)ㄹ 뿐만 아니라, -에 비해.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Pattern",
+        "Meaning",
+        "Example"
+       ],
+       "rows": [
+        [
+         "-에 따르면",
+         "according to",
+         "조사에 따르면 …"
+        ],
+        [
+         "-(으)ㅁ",
+         "nominaliser (written, notices)",
+         "회의가 연기됨."
+        ],
+        [
+         "-기",
+         "nominaliser (habits, goals)",
+         "운동하기가 어렵다."
+        ],
+        [
+         "-는 반면(에)",
+         "whereas",
+         "가격은 오른 반면 품질은 그대로다."
+        ],
+        [
+         "-(으)ㄹ 뿐만 아니라",
+         "not only … but also",
+         "싸 뿐만 아니라 → 쌀 뿐만 아니라 품질도 좋다."
+        ],
+        [
+         "-에 비해(서)",
+         "compared with",
+         "작년에 비해 증가했다."
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "News headlines often end in nouns: „물가 상승… 정부 대책 발표“ = prices rise… government announces measures."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "조사___ 따르면 응답자의 60%가 찬성했다.",
+       "answers": [
+        "에"
+       ],
+       "explanation": "-에 따르면.",
+       "id": "ko_l5_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "작년___ 비해 수출이 늘었다.",
+       "options": [
+        "에",
+        "을",
+        "이"
+       ],
+       "answer": 0,
+       "explanation": "-에 비해.",
+       "id": "ko_l5_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“not only cheap but also good”:",
+       "options": [
+        "쌀 뿐만 아니라 좋다",
+        "싸는 반면 좋다",
+        "싸기 때문에 좋다"
+       ],
+       "answer": 0,
+       "explanation": "-(으)ㄹ 뿐만 아니라.",
+       "id": "ko_l5_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "도시는 편리하는 반면 시끄럽다.",
+       "answers": [
+        "도시는 편리한 반면 시끄럽다."
+       ],
+       "explanation": "Adjectives take -(으)ㄴ 반면.",
+       "skill": "grammar",
+       "id": "ko_l5_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "정부는",
+        "새로운",
+        "대책을",
+        "발표했다."
+       ],
+       "translation": "The government announced new measures.",
+       "id": "ko_l5_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_reading",
+   "type": "reading",
+   "title": "Reading: a news article",
+   "lessons": [
+    {
+     "id": "ko_l5_reading_1",
+     "title": "Reading: a news article",
+     "summary": "A news report in formal written style.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "1인 가구 증가",
+       "target": "통계청 조사에 따르면 지난해 1인 가구가 전체 가구의 30%를 넘은 것으로 나타났다. 이는 10년 전에 비해 크게 증가한 수치이다. 전문가들은 결혼 연령이 높아지고 고령 인구가 늘어난 것을 주요 원인으로 꼽았다. 1인 가구가 늘어난 반면 이들을 위한 주거 정책은 아직 부족하다는 지적이 나온다. 정부는 소형 주택 공급을 확대하는 대책을 검토하고 있다.",
+       "en": "According to a Statistics Korea survey, single-person households exceeded 30% of all households last year. This is a large increase compared with ten years ago. Experts named rising marriage age and a growing elderly population as the main causes. While single-person households have grown, there is criticism that housing policy for them is still insufficient. The government is reviewing measures to expand the supply of small homes."
+      },
+      {
+       "type": "tip",
+       "text": "This is a practice text; check current figures in real news sources."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What exceeded 30%?",
+       "options": [
+        "single-person households",
+        "elderly population",
+        "small homes"
+       ],
+       "answer": 0,
+       "explanation": "1인 가구.",
+       "id": "ko_l5_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Main causes given:",
+       "options": [
+        "later marriage and an ageing population",
+        "high rent and low wages",
+        "migration abroad"
+       ],
+       "answer": 0,
+       "explanation": "결혼 연령, 고령 인구.",
+       "id": "ko_l5_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What criticism is mentioned?",
+       "options": [
+        "housing policy is insufficient",
+        "too many houses",
+        "taxes are too high"
+       ],
+       "answer": 0,
+       "explanation": "주거 정책이 부족하다.",
+       "id": "ko_l5_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What is the government doing?",
+       "options": [
+        "reviewing more small-home supply",
+        "banning single households",
+        "cutting housing"
+       ],
+       "answer": 0,
+       "explanation": "소형 주택 공급 확대.",
+       "id": "ko_l5_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_writing",
+   "type": "writing",
+   "title": "Writing: describing data (TOPIK II style)",
+   "lessons": [
+    {
+     "id": "ko_l5_writing_1",
+     "title": "Writing: describing data (TOPIK II style)",
+     "summary": "Describe trends in a graph in 200–300 characters of written style.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Function",
+        "Expression"
+       ],
+       "rows": [
+        [
+         "Introduce",
+         "…에 대해 조사한 결과 …"
+        ],
+        [
+         "Increase",
+         "…에서 …로 증가했다"
+        ],
+        [
+         "Decrease",
+         "…로 감소했다"
+        ],
+        [
+         "Reason",
+         "그 원인은 …(으)로 보인다"
+        ],
+        [
+         "Forecast",
+         "앞으로 …(으)ㄹ 것으로 예상된다"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Use the plain -다 style and connect sentences logically. Numbers make the description precise."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Describe this trend in written style (40+ words): smartphone use by people over 60 rose from 30% in 2015 to 75% in 2025. Give a possible reason and a forecast.",
+       "minWords": 40,
+       "keywords": [
+        "증가",
+        "원인|때문",
+        "예상"
+       ],
+       "sample": "60세 이상 노인의 스마트폰 사용률에 대해 조사한 결과, 2015년 30%에서 2025년 75%로 크게 증가한 것으로 나타났다. 그 원인은 스마트폰 사용법이 쉬워지고 은행이나 병원 예약 등 생활 서비스가 모바일로 바뀌었기 때문으로 보인다. 앞으로도 사용률은 계속 증가할 것으로 예상된다.",
+       "skill": "writing",
+       "id": "ko_l5_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "앞으로 계속 증가할 것으로 ___. (is expected)",
+       "answers": [
+        "예상된다"
+       ],
+       "explanation": "-(으)ㄹ 것으로 예상된다.",
+       "id": "ko_l5_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Written-style ending:",
+       "options": [
+        "증가했다",
+        "증가했어요",
+        "증가했어"
+       ],
+       "answer": 0,
+       "explanation": "Plain -다 style.",
+       "id": "ko_l5_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_listening",
+   "type": "listening",
+   "title": "Listening: news and lectures",
+   "lessons": [
+    {
+     "id": "ko_l5_listening_1",
+     "title": "Listening: news and lectures",
+     "summary": "Formal announcements and broadcast style.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "News uses -습니다 and many Sino-Korean nouns. Catch the topic noun, then the verb at the end."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "오늘 서울의 낮 최고 기온은 영하 오 도로 예상됩니다.",
+       "prompt": "What is today's high in Seoul?",
+       "options": [
+        "minus 5 °C",
+        "plus 5 °C",
+        "minus 15 °C"
+       ],
+       "answer": 0,
+       "explanation": "영하 = below zero.",
+       "skill": "listening",
+       "id": "ko_l5_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "정부는 청년 일자리를 늘리기 위한 새로운 정책을 발표했습니다.",
+       "prompt": "What was announced?",
+       "options": [
+        "a policy to increase youth jobs",
+        "a new tax",
+        "a holiday"
+       ],
+       "answer": 0,
+       "explanation": "청년 일자리.",
+       "skill": "listening",
+       "id": "ko_l5_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "이번 연구는 수면 시간이 기억력에 미치는 영향을 분석했습니다.",
+       "prompt": "What did the study analyse?",
+       "options": [
+        "the effect of sleep on memory",
+        "the cost of sleep",
+        "memory in animals"
+       ],
+       "answer": 0,
+       "explanation": "수면 → 기억력.",
+       "skill": "listening",
+       "id": "ko_l5_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "교통사고는 작년에 비해 십 퍼센트 감소했습니다.",
+       "prompt": "What happened to traffic accidents?",
+       "options": [
+        "down 10% on last year",
+        "up 10%",
+        "no change"
+       ],
+       "answer": 0,
+       "explanation": "감소.",
+       "skill": "listening",
+       "id": "ko_l5_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_speaking",
+   "type": "speaking",
+   "title": "Speaking: formal presentations",
+   "lessons": [
+    {
+     "id": "ko_l5_speaking_1",
+     "title": "Speaking: formal presentations",
+     "summary": "Open, structure and close a formal talk.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "지금부터 발표를 시작하겠습니다.",
+       "en": "I will now begin the presentation."
+      },
+      {
+       "type": "example",
+       "target": "다음으로 조사 결과를 말씀드리겠습니다.",
+       "en": "Next, I'll tell you the survey results."
+      },
+      {
+       "type": "example",
+       "target": "이상으로 발표를 마치겠습니다. 감사합니다.",
+       "en": "That concludes my presentation. Thank you."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "지금부터 발표를 시작하겠습니다.",
+       "translation": "I will now begin the presentation.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l5_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "다음으로 조사 결과를 말씀드리겠습니다.",
+       "translation": "Next, I'll present the survey results.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l5_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "이상으로 발표를 마치겠습니다.",
+       "translation": "That concludes my presentation.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l5_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„말씀드리겠습니다“ is:",
+       "options": [
+        "humble formal 'I will tell you'",
+        "a question",
+        "casual speech"
+       ],
+       "answer": 0,
+       "explanation": "말씀드리다 (humble).",
+       "id": "ko_l5_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_pronunciation",
+   "type": "pronunciation",
+   "title": "Pronunciation: liquidisation and formal reading",
+   "lessons": [
+    {
+     "id": "ko_l5_pronunciation_1",
+     "title": "Pronunciation: liquidisation and formal reading",
+     "summary": "ㄴ next to ㄹ becomes ㄹ; reading formal text fluently.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Spelling",
+        "Pronounced"
+       ],
+       "rows": [
+        [
+         "신라",
+         "[실라]"
+        ],
+        [
+         "연락",
+         "[열락]"
+        ],
+        [
+         "설날",
+         "[설랄]"
+        ],
+        [
+         "관련",
+         "[괄련]"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Read news sentences aloud in chunks: noun phrase | verb phrase. Pause at commas, not inside nouns."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "연락",
+       "translation": "contact",
+       "prompt": "Say [열락]",
+       "skill": "pronunciation",
+       "id": "ko_l5_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "관련",
+       "translation": "relation",
+       "prompt": "Say [괄련]",
+       "skill": "pronunciation",
+       "id": "ko_l5_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "정부는 새로운 정책을 발표했습니다.",
+       "translation": "The government announced a new policy.",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "ko_l5_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„설날“ is pronounced:",
+       "options": [
+        "[설랄]",
+        "[선날]",
+        "[설날] with n"
+       ],
+       "answer": 0,
+       "explanation": "ㄹ + ㄴ → ㄹㄹ.",
+       "id": "ko_l5_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_conversation",
+   "type": "conversation",
+   "title": "Conversation: a formal discussion",
+   "lessons": [
+    {
+     "id": "ko_l5_conversation_1",
+     "title": "Conversation: a formal discussion",
+     "summary": "Discuss a policy using formal expressions.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "토론: 대중교통 무료화",
+       "lines": [
+        {
+         "speaker": "사회자",
+         "target": "대중교통 무료화에 대해 어떻게 생각하십니까?",
+         "en": "What do you think about free public transport?"
+        },
+        {
+         "speaker": "김 교수",
+         "target": "환경 측면에서는 긍정적인 효과가 있을 것으로 보입니다.",
+         "en": "From an environmental standpoint, it appears to have positive effects."
+        },
+        {
+         "speaker": "이 연구원",
+         "target": "하지만 재정 부담이 크다는 점도 고려해야 합니다.",
+         "en": "But we must also consider the large financial burden."
+        },
+        {
+         "speaker": "김 교수",
+         "target": "그 점에는 동의합니다. 단계적으로 시행하는 방안을 제안합니다.",
+         "en": "I agree with that. I propose implementing it in stages."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What concern does 이 연구원 raise?",
+       "options": [
+        "financial burden",
+        "safety",
+        "pollution"
+       ],
+       "answer": 0,
+       "explanation": "재정 부담.",
+       "id": "ko_l5_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What does 김 교수 propose?",
+       "options": [
+        "a phased introduction",
+        "cancelling it",
+        "raising fares"
+       ],
+       "answer": 0,
+       "explanation": "단계적으로 시행.",
+       "id": "ko_l5_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "그",
+        "점에는",
+        "동의합니다."
+       ],
+       "translation": "I agree on that point.",
+       "id": "ko_l5_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "재정 부담이 크다는 점도 ___해야 합니다. (consider)",
+       "answers": [
+        "고려"
+       ],
+       "explanation": "고려하다 = consider.",
+       "id": "ko_l5_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: Level 5",
+   "lessons": [
+    {
+     "id": "ko_l5_exercises_1",
+     "title": "Mixed practice: Level 5",
+     "summary": "Written grammar and vocabulary.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Written Korean prefers Sino-Korean nouns + 하다/되다 over everyday verbs."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "“compared with last year”:",
+       "options": [
+        "작년에 비해",
+        "작년에 따르면",
+        "작년 반면"
+       ],
+       "answer": 0,
+       "explanation": "-에 비해.",
+       "id": "ko_l5_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "가격은 오른 ___ 품질은 그대로다. (whereas)",
+       "answers": [
+        "반면"
+       ],
+       "explanation": "-(으)ㄴ 반면.",
+       "id": "ko_l5_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "According to the survey, the number increased.",
+       "answers": [
+        "조사에 따르면 수가 증가했다.",
+        "조사에 따르면 숫자가 증가했다."
+       ],
+       "explanation": "-에 따르면.",
+       "skill": "translation",
+       "id": "ko_l5_exercises_1_q3"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "증가",
+         "increase"
+        ],
+        [
+         "감소",
+         "decrease"
+        ],
+        [
+         "원인",
+         "cause"
+        ],
+        [
+         "대책",
+         "countermeasure"
+        ]
+       ],
+       "id": "ko_l5_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "이는",
+        "작년에",
+        "비해",
+        "크게",
+        "증가한",
+        "수치이다."
+       ],
+       "translation": "This is a large increase compared with last year.",
+       "id": "ko_l5_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l5_quiz",
+   "type": "quiz",
+   "title": "Level 5 quiz",
+   "lessons": [
+    {
+     "id": "ko_l5_quiz_1",
+     "title": "Level 5 quiz",
+     "summary": "Five questions across Level 5.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Think in written style."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„영향을 미치다“ means:",
+       "options": [
+        "to have an influence",
+        "to measure",
+        "to decrease"
+       ],
+       "answer": 0,
+       "explanation": "influence.",
+       "id": "ko_l5_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Nominaliser used in notices:",
+       "options": [
+        "-(으)ㅁ",
+        "-아서",
+        "-고"
+       ],
+       "answer": 0,
+       "explanation": "e.g. 휴업함.",
+       "id": "ko_l5_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„-(으)ㄹ 뿐만 아니라“ =",
+       "options": [
+        "not only … but also",
+        "because",
+        "although"
+       ],
+       "answer": 0,
+       "explanation": "Addition.",
+       "id": "ko_l5_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„연락“ is pronounced:",
+       "options": [
+        "[열락]",
+        "[연낙]",
+        "[연락]"
+       ],
+       "answer": 0,
+       "explanation": "Liquidisation.",
+       "id": "ko_l5_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Formal closing of a talk:",
+       "options": [
+        "이상으로 발표를 마치겠습니다.",
+        "끝!",
+        "그럼 안녕."
+       ],
+       "answer": 0,
+       "explanation": "Formal.",
+       "id": "ko_l5_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„정책“ means:",
+   "options": [
+    "policy",
+    "politics",
+    "election"
+   ],
+   "answer": 0,
+   "explanation": "policy.",
+   "skill": "vocabulary",
+   "id": "ko_l5_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„해결하다“ means:",
+   "options": [
+    "to solve",
+    "to announce",
+    "to cause"
+   ],
+   "answer": 0,
+   "explanation": "solve.",
+   "skill": "vocabulary",
+   "id": "ko_l5_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "전문가의 의견___ 따르면 …",
+   "options": [
+    "에",
+    "을",
+    "과"
+   ],
+   "answer": 0,
+   "explanation": "-에 따르면.",
+   "skill": "grammar",
+   "id": "ko_l5_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "“Exercising is hard.”",
+   "options": [
+    "운동하기가 어렵다.",
+    "운동함이 어렵다.",
+    "운동해서 어렵다."
+   ],
+   "answer": 0,
+   "explanation": "-기 for activities.",
+   "skill": "grammar",
+   "id": "ko_l5_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "서울은 교통이 편리한 ___ 집값이 비싸다. (whereas)",
+   "answers": [
+    "반면"
+   ],
+   "explanation": "-(으)ㄴ 반면.",
+   "skill": "grammar",
+   "id": "ko_l5_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "작년에 비하면서 증가했다.",
+   "answers": [
+    "작년에 비해 증가했다."
+   ],
+   "explanation": "-에 비해(서).",
+   "skill": "grammar",
+   "id": "ko_l5_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „청년 실업률이 하락한 반면 고용의 질은 개선되지 않았다.“ What did NOT improve?",
+   "options": [
+    "job quality",
+    "youth unemployment",
+    "wages"
+   ],
+   "answer": 0,
+   "explanation": "고용의 질.",
+   "skill": "reading",
+   "id": "ko_l5_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: headline „물가 상승… 정부 긴급 대책 발표“",
+   "options": [
+    "Prices rise; government announces urgent measures.",
+    "Prices fall; government resigns.",
+    "Government raises taxes."
+   ],
+   "answer": 0,
+   "explanation": "상승 = rise.",
+   "skill": "reading",
+   "id": "ko_l5_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "내일은 전국에 비가 내리겠으며 기온이 다소 떨어지겠습니다.",
+   "prompt": "Tomorrow's weather?",
+   "options": [
+    "rain nationwide and slightly cooler",
+    "sunny and hot",
+    "snow in the north"
+   ],
+   "answer": 0,
+   "explanation": "비 + 기온 하락.",
+   "skill": "listening",
+   "id": "ko_l5_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "이번 조사 결과는 다음 주 학회에서 발표될 예정입니다.",
+   "prompt": "When will results be presented?",
+   "options": [
+    "at next week's conference",
+    "today",
+    "next year"
+   ],
+   "answer": 0,
+   "explanation": "다음 주 학회.",
+   "skill": "listening",
+   "id": "ko_l5_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "The population decreased compared with last year.",
+   "answers": [
+    "작년에 비해 인구가 감소했다.",
+    "인구가 작년에 비해 감소했다."
+   ],
+   "explanation": "-에 비해 + 감소하다.",
+   "skill": "writing",
+   "id": "ko_l5_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To politely disagree in a formal debate:",
+   "options": [
+    "그 점에 대해서는 생각이 조금 다릅니다.",
+    "틀렸어.",
+    "말도 안 돼."
+   ],
+   "answer": 0,
+   "explanation": "Formal disagreement.",
+   "skill": "conversation",
+   "id": "ko_l5_exam_q12"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "id": "ko_hangul_consonants",
+ "lang": "ko",
+ "level": "Hangul",
+ "title": "Hangul: Basic Consonants",
+ "order": 2,
+ "version": 1,
+ "cards": [
+  {
+   "id": "ko_c_g",
+   "front": "ㄱ",
+   "romanization": "g / k",
+   "back": "consonant g/k",
+   "audio": "가",
+   "example": "가방 (bag)"
+  },
+  {
+   "id": "ko_c_n",
+   "front": "ㄴ",
+   "romanization": "n",
+   "back": "consonant n",
+   "audio": "나",
+   "example": "나무 (tree)"
+  },
+  {
+   "id": "ko_c_d",
+   "front": "ㄷ",
+   "romanization": "d / t",
+   "back": "consonant d/t",
+   "audio": "다"
+  },
+  {
+   "id": "ko_c_r",
+   "front": "ㄹ",
+   "romanization": "r / l",
+   "back": "consonant r/l",
+   "audio": "라",
+   "example": "라면 (ramen)"
+  },
+  {
+   "id": "ko_c_m",
+   "front": "ㅁ",
+   "romanization": "m",
+   "back": "consonant m",
+   "audio": "마",
+   "example": "머리 (head)"
+  },
+  {
+   "id": "ko_c_b",
+   "front": "ㅂ",
+   "romanization": "b / p",
+   "back": "consonant b/p",
+   "audio": "바",
+   "example": "바다 (sea)"
+  },
+  {
+   "id": "ko_c_s",
+   "front": "ㅅ",
+   "romanization": "s",
+   "back": "consonant s",
+   "audio": "사",
+   "example": "사과 (apple)"
+  },
+  {
+   "id": "ko_c_ng",
+   "front": "ㅇ",
+   "romanization": "silent / ng",
+   "back": "silent at the start, “ng” at the end",
+   "audio": "아",
+   "example": "강 (river)"
+  },
+  {
+   "id": "ko_c_j",
+   "front": "ㅈ",
+   "romanization": "j",
+   "back": "consonant j",
+   "audio": "자"
+  },
+  {
+   "id": "ko_c_ch",
+   "front": "ㅊ",
+   "romanization": "ch",
+   "back": "consonant ch (aspirated)",
+   "audio": "차",
+   "example": "차 (car / tea)"
+  },
+  {
+   "id": "ko_c_k",
+   "front": "ㅋ",
+   "romanization": "k",
+   "back": "consonant k (aspirated)",
+   "audio": "카"
+  },
+  {
+   "id": "ko_c_t",
+   "front": "ㅌ",
+   "romanization": "t",
+   "back": "consonant t (aspirated)",
+   "audio": "타"
+  },
+  {
+   "id": "ko_c_p",
+   "front": "ㅍ",
+   "romanization": "p",
+   "back": "consonant p (aspirated)",
+   "audio": "파"
+  },
+  {
+   "id": "ko_c_h",
+   "front": "ㅎ",
+   "romanization": "h",
+   "back": "consonant h",
+   "audio": "하",
+   "example": "하나 (one)"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "ko_hangul_vowels",
+ "lang": "ko",
+ "level": "Hangul",
+ "title": "Hangul: Basic Vowels",
+ "order": 1,
+ "version": 1,
+ "cards": [
+  {
+   "id": "ko_v_a",
+   "front": "ㅏ",
+   "romanization": "a",
+   "back": "vowel “a” as in father",
+   "audio": "아",
+   "example": "아이 (child)"
+  },
+  {
+   "id": "ko_v_ya",
+   "front": "ㅑ",
+   "romanization": "ya",
+   "back": "vowel “ya”",
+   "audio": "야"
+  },
+  {
+   "id": "ko_v_eo",
+   "front": "ㅓ",
+   "romanization": "eo",
+   "back": "vowel “eo”, like the u in “up”",
+   "audio": "어",
+   "example": "어머니 (mother)"
+  },
+  {
+   "id": "ko_v_yeo",
+   "front": "ㅕ",
+   "romanization": "yeo",
+   "back": "vowel “yeo”",
+   "audio": "여"
+  },
+  {
+   "id": "ko_v_o",
+   "front": "ㅗ",
+   "romanization": "o",
+   "back": "vowel “o” as in “go”",
+   "audio": "오",
+   "example": "오이 (cucumber)"
+  },
+  {
+   "id": "ko_v_yo",
+   "front": "ㅛ",
+   "romanization": "yo",
+   "back": "vowel “yo”",
+   "audio": "요"
+  },
+  {
+   "id": "ko_v_u",
+   "front": "ㅜ",
+   "romanization": "u",
+   "back": "vowel “u” as in “moon”",
+   "audio": "우",
+   "example": "우유 (milk)"
+  },
+  {
+   "id": "ko_v_yu",
+   "front": "ㅠ",
+   "romanization": "yu",
+   "back": "vowel “yu”",
+   "audio": "유"
+  },
+  {
+   "id": "ko_v_eu",
+   "front": "ㅡ",
+   "romanization": "eu",
+   "back": "vowel “eu”, lips spread flat",
+   "audio": "으"
+  },
+  {
+   "id": "ko_v_i",
+   "front": "ㅣ",
+   "romanization": "i",
+   "back": "vowel “i” as in “see”",
+   "audio": "이"
+  },
+  {
+   "id": "ko_v_ae",
+   "front": "ㅐ",
+   "romanization": "ae",
+   "back": "vowel “ae”, like the e in “bed”",
+   "audio": "애"
+  },
+  {
+   "id": "ko_v_e",
+   "front": "ㅔ",
+   "romanization": "e",
+   "back": "vowel “e” as in “bed”",
+   "audio": "에"
+  }
+ ]
+}

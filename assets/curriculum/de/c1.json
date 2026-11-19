@@ -1,0 +1,1146 @@
+{
+ "id": "de_c1",
+ "lang": "de",
+ "code": "C1",
+ "order": 5,
+ "version": 1,
+ "title": "Advanced",
+ "description": "Academic and professional German: nominal style, reported speech, presentations, idioms and critical reading.",
+ "alignment": "Oriented to CEFR C1 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Academic German",
+  "Professional presentations",
+  "Advanced grammar",
+  "Nuanced vocabulary",
+  "Idiomatic expressions",
+  "Academic writing",
+  "Critical reading",
+  "Advanced listening",
+  "Formal discussions"
+ ],
+ "modules": [
+  {
+   "id": "de_c1_vocabulary",
+   "type": "vocabulary",
+   "title": "Academic and professional vocabulary",
+   "lessons": [
+    {
+     "id": "de_c1_vocabulary_1",
+     "title": "Academic and professional vocabulary",
+     "summary": "Words you meet in studies, reports and presentations.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "die Hypothese",
+         "en": "hypothesis"
+        },
+        {
+         "target": "die Untersuchung",
+         "en": "study / investigation"
+        },
+        {
+         "target": "belegen",
+         "en": "to prove / substantiate"
+        },
+        {
+         "target": "die Erkenntnis",
+         "en": "finding / insight"
+        },
+        {
+         "target": "erheblich",
+         "en": "considerable"
+        },
+        {
+         "target": "maßgeblich",
+         "en": "decisive / significant"
+        },
+        {
+         "target": "berücksichtigen",
+         "en": "to take into account"
+        },
+        {
+         "target": "die Voraussetzung",
+         "en": "prerequisite"
+        },
+        {
+         "target": "gewährleisten",
+         "en": "to guarantee / ensure"
+        },
+        {
+         "target": "in Frage stellen",
+         "en": "to call into question"
+        },
+        {
+         "target": "die Schlussfolgerung",
+         "en": "conclusion"
+        },
+        {
+         "target": "hinsichtlich (+ Gen.)",
+         "en": "with regard to"
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Many academic verbs pair with fixed nouns: eine These vertreten, einen Beitrag leisten, eine Frage aufwerfen, Kritik üben."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„erheblich“ means:",
+       "options": [
+        "considerable",
+        "obvious",
+        "eligible"
+       ],
+       "answer": 0,
+       "explanation": "ein erheblicher Unterschied = a considerable difference.",
+       "id": "de_c1_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "belegen",
+         "to substantiate"
+        ],
+        [
+         "gewährleisten",
+         "to ensure"
+        ],
+        [
+         "berücksichtigen",
+         "to take into account"
+        ],
+        [
+         "die Erkenntnis",
+         "finding"
+        ]
+       ],
+       "id": "de_c1_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Die Ergebnisse stellen die bisherige Theorie in ___. (call into question)",
+       "answers": [
+        "Frage"
+       ],
+       "explanation": "in Frage stellen.",
+       "id": "de_c1_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which noun goes with „vertreten“?",
+       "options": [
+        "eine These",
+        "einen Tisch",
+        "eine Reise"
+       ],
+       "answer": 0,
+       "explanation": "eine These vertreten = to hold a position.",
+       "id": "de_c1_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_grammar",
+   "type": "grammar",
+   "title": "Nominal style and indirect speech",
+   "lessons": [
+    {
+     "id": "de_c1_grammar_1",
+     "title": "Nominal style and indirect speech",
+     "summary": "Academic German prefers nouns; reported speech uses Konjunktiv I.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Nominal style"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Verbal style",
+        "Nominal style"
+       ],
+       "rows": [
+        [
+         "weil die Preise steigen",
+         "aufgrund steigender Preise"
+        ],
+        [
+         "nachdem das Projekt abgeschlossen wurde",
+         "nach Abschluss des Projekts"
+        ],
+        [
+         "wenn man das Gesetz ändert",
+         "bei einer Änderung des Gesetzes"
+        ],
+        [
+         "obwohl es Kritik gab",
+         "trotz der Kritik"
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Konjunktiv I (indirect speech)"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Verb",
+        "er / sie / es",
+        "Note"
+       ],
+       "rows": [
+        [
+         "sein",
+         "sei",
+         "sie seien (plural)"
+        ],
+        [
+         "haben",
+         "habe",
+         "plural uses hätten (habe = indicative)"
+        ],
+        [
+         "können",
+         "könne",
+         ""
+        ],
+        [
+         "werden",
+         "werde",
+         "future in reported speech"
+        ],
+        [
+         "kommen",
+         "komme",
+         "stem + e"
+        ]
+       ]
+      },
+      {
+       "type": "example",
+       "target": "Die Ministerin sagte, sie sei mit dem Ergebnis zufrieden.",
+       "en": "The minister said she was satisfied with the result."
+      },
+      {
+       "type": "tip",
+       "text": "Konjunktiv I signals that the writer is reporting, not claiming. It is standard in news and academic texts."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Der Minister sagte, er ___ zufrieden. (sein)",
+       "answers": [
+        "sei"
+       ],
+       "explanation": "Konjunktiv I of sein: sei.",
+       "id": "de_c1_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "aufgrund ___ Preise",
+       "options": [
+        "steigender",
+        "steigende",
+        "steigenden"
+       ],
+       "answer": 0,
+       "explanation": "Genitive plural without article: strong ending -er.",
+       "id": "de_c1_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Nominal form of „nachdem das Projekt abgeschlossen wurde“:",
+       "options": [
+        "nach Abschluss des Projekts",
+        "nach dem Abschluss der Projekt",
+        "nach den Abschluss des Projekts"
+       ],
+       "answer": 0,
+       "explanation": "nach + dative; des Projekts (genitive).",
+       "id": "de_c1_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "Laut dem Bericht, die Zahl ist gestiegen.",
+       "answers": [
+        "Laut dem Bericht ist die Zahl gestiegen."
+       ],
+       "explanation": "„Laut dem Bericht“ fills position 1; the verb follows directly, no comma.",
+       "skill": "grammar",
+       "id": "de_c1_grammar_1_q4"
+      },
+      {
+       "type": "fill",
+       "prompt": "Sie behauptete, sie ___ keine Zeit gehabt. (haben)",
+       "answers": [
+        "habe"
+       ],
+       "explanation": "Konjunktiv I: sie habe.",
+       "id": "de_c1_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_reading",
+   "type": "reading",
+   "title": "Reading: a research abstract",
+   "lessons": [
+    {
+     "id": "de_c1_reading_1",
+     "title": "Reading: a research abstract",
+     "summary": "Academic register, hedging and reported findings.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "Mehrsprachigkeit und kognitive Flexibilität",
+       "target": "Die vorliegende Untersuchung geht der Frage nach, inwiefern Mehrsprachigkeit die kognitive Flexibilität von Kindern beeinflusst. Hierzu wurden 120 Grundschulkinder mit unterschiedlichem sprachlichem Hintergrund getestet. Die Ergebnisse deuten darauf hin, dass mehrsprachige Kinder bei Aufgaben, die einen schnellen Wechsel zwischen Regeln erfordern, tendenziell besser abschneiden. Allerdings lassen sich aufgrund der geringen Stichprobengröße keine allgemeingültigen Schlussfolgerungen ziehen. Weitere Studien seien notwendig, so die Autorinnen.",
+       "en": "This study examines to what extent multilingualism influences children's cognitive flexibility. For this purpose, 120 primary school children with different language backgrounds were tested. The results suggest that multilingual children tend to perform better on tasks requiring a quick switch between rules. However, owing to the small sample size, no generally valid conclusions can be drawn. Further studies are necessary, according to the authors."
+      },
+      {
+       "type": "tip",
+       "text": "Hedging language — deuten darauf hin, tendenziell, lassen sich keine … ziehen — shows how certain the authors are."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Was wird untersucht?",
+       "options": [
+        "Einfluss von Mehrsprachigkeit auf kognitive Flexibilität",
+        "Schulnoten mehrsprachiger Kinder",
+        "Lehrmethoden in Grundschulen"
+       ],
+       "answer": 0,
+       "explanation": "„geht der Frage nach, inwiefern …“.",
+       "id": "de_c1_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was schränkt die Aussagekraft ein?",
+       "options": [
+        "die geringe Stichprobengröße",
+        "das Alter der Autorinnen",
+        "fehlende Ergebnisse"
+       ],
+       "answer": 0,
+       "explanation": "„aufgrund der geringen Stichprobengröße“.",
+       "id": "de_c1_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Warum steht „seien“ im Konjunktiv I?",
+       "options": [
+        "Es ist indirekte Rede.",
+        "Es ist eine Bitte.",
+        "Es ist Vergangenheit."
+       ],
+       "answer": 0,
+       "explanation": "The authors' view is reported.",
+       "id": "de_c1_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„tendenziell“ means:",
+       "options": [
+        "tending to / on the whole",
+        "definitely",
+        "never"
+       ],
+       "answer": 0,
+       "explanation": "A hedge: a tendency, not a certainty.",
+       "id": "de_c1_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_writing",
+   "type": "writing",
+   "title": "Writing: summarising an academic text",
+   "lessons": [
+    {
+     "id": "de_c1_writing_1",
+     "title": "Writing: summarising an academic text",
+     "summary": "Neutral, concise summaries with reporting verbs.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Function",
+        "Phrase"
+       ],
+       "rows": [
+        [
+         "Topic",
+         "Der Text befasst sich mit … / Im Mittelpunkt steht …"
+        ],
+        [
+         "Author's position",
+         "Die Autorin vertritt die These, dass …"
+        ],
+        [
+         "Method",
+         "Hierzu wurden … untersucht."
+        ],
+        [
+         "Result",
+         "Die Ergebnisse zeigen / deuten darauf hin, dass …"
+        ],
+        [
+         "Limitation",
+         "Einschränkend ist anzumerken, dass …"
+        ],
+        [
+         "Conclusion",
+         "Zusammenfassend lässt sich festhalten, dass …"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "A summary reports — it does not judge. Use Konjunktiv I or reporting verbs, and keep your own opinion out."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Summarise the research abstract from the Reading module in 80+ words, in neutral academic German.",
+       "minWords": 80,
+       "keywords": [
+        "befasst|untersucht|thema|mittelpunkt",
+        "ergebnis",
+        "zusammenfassend|insgesamt|einschränkend"
+       ],
+       "sample": "Der Text befasst sich mit der Frage, ob Mehrsprachigkeit die kognitive Flexibilität von Kindern beeinflusst. Hierzu wurden 120 Grundschulkinder mit unterschiedlichem sprachlichem Hintergrund getestet. Die Ergebnisse deuten darauf hin, dass mehrsprachige Kinder bei Aufgaben mit Regelwechseln tendenziell besser abschneiden. Einschränkend ist anzumerken, dass die Stichprobe klein war. Zusammenfassend lässt sich festhalten, dass weitere Studien notwendig sind, um die Befunde zu bestätigen.",
+       "skill": "writing",
+       "id": "de_c1_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "Zusammenfassend lässt sich ___, dass … (state)",
+       "answers": [
+        "festhalten",
+        "sagen",
+        "feststellen"
+       ],
+       "explanation": "Zusammenfassend lässt sich festhalten …",
+       "id": "de_c1_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which sentence is neutral?",
+       "options": [
+        "Die Autorin vertritt die These, dass …",
+        "Die Autorin hat völlig recht, dass …",
+        "Leider glaubt die Autorin, dass …"
+       ],
+       "answer": 0,
+       "explanation": "Report without evaluating.",
+       "id": "de_c1_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_listening",
+   "type": "listening",
+   "title": "Listening: lectures and seminars",
+   "lessons": [
+    {
+     "id": "de_c1_listening_1",
+     "title": "Listening: lectures and seminars",
+     "summary": "Signposting language in academic talks.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Signpost",
+        "Meaning"
+       ],
+       "rows": [
+        [
+         "zunächst",
+         "first of all"
+        ],
+        [
+         "im Gegensatz zu",
+         "in contrast to"
+        ],
+        [
+         "darüber hinaus",
+         "furthermore"
+        ],
+        [
+         "abschließend",
+         "finally"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Lassen Sie mich zunächst auf die methodischen Einschränkungen eingehen, bevor ich die Ergebnisse vorstelle.",
+       "prompt": "What will the speaker do first?",
+       "options": [
+        "discuss methodological limitations",
+        "present the results",
+        "take questions"
+       ],
+       "answer": 0,
+       "explanation": "zunächst … bevor …",
+       "skill": "listening",
+       "id": "de_c1_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Im Gegensatz zur ursprünglichen Annahme stieg die Nachfrage nicht, sondern sie blieb konstant.",
+       "prompt": "What happened to demand?",
+       "options": [
+        "it stayed constant",
+        "it rose as expected",
+        "it fell"
+       ],
+       "answer": 0,
+       "explanation": "nicht …, sondern … konstant.",
+       "skill": "listening",
+       "id": "de_c1_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Die Frist für die Abgabe der Hausarbeit wurde um zwei Wochen verlängert.",
+       "prompt": "What changed?",
+       "options": [
+        "the essay deadline was extended by two weeks",
+        "the essay was cancelled",
+        "the deadline was moved earlier"
+       ],
+       "answer": 0,
+       "explanation": "verlängert = extended.",
+       "skill": "listening",
+       "id": "de_c1_listening_1_q3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_speaking",
+   "type": "speaking",
+   "title": "Speaking: presentations",
+   "lessons": [
+    {
+     "id": "de_c1_speaking_1",
+     "title": "Speaking: presentations",
+     "summary": "Open, structure and close a presentation.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Stage",
+        "Phrase"
+       ],
+       "rows": [
+        [
+         "Open",
+         "Ich möchte Ihnen heute … vorstellen."
+        ],
+        [
+         "Structure",
+         "Mein Vortrag gliedert sich in drei Teile."
+        ],
+        [
+         "Transition",
+         "Damit komme ich zum nächsten Punkt."
+        ],
+        [
+         "Close",
+         "Abschließend möchte ich festhalten, dass …"
+        ],
+        [
+         "Questions",
+         "Gibt es dazu noch Fragen?"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Ich möchte Ihnen heute die Ergebnisse unserer Studie vorstellen.",
+       "translation": "Today I'd like to present the results of our study.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c1_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Damit komme ich zum nächsten Punkt.",
+       "translation": "That brings me to the next point.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c1_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Gibt es dazu noch Fragen?",
+       "translation": "Are there any questions about that?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_c1_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which sentence announces the structure?",
+       "options": [
+        "Mein Vortrag gliedert sich in drei Teile.",
+        "Gibt es Fragen?",
+        "Vielen Dank."
+       ],
+       "answer": 0,
+       "explanation": "gliedern = to structure.",
+       "id": "de_c1_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_pronunciation",
+   "type": "pronunciation",
+   "title": "Fluency: consonant clusters and compound stress",
+   "lessons": [
+    {
+     "id": "de_c1_pronunciation_1",
+     "title": "Fluency: consonant clusters and compound stress",
+     "summary": "Long words and dense consonants without hesitation.",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "Compounds stress the FIRST part: BAHNhof, KRANkenversicherung, HAUSaufgabe. Practise clusters slowly, then at normal speed: Herbst (autumn), du sprichst, der Strumpf (sock)."
+      },
+      {
+       "type": "tip",
+       "text": "Break a long compound into its parts first: Kranken-ver-sicherung → then join them."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "Herbst",
+       "translation": "autumn",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c1_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "du sprichst",
+       "translation": "you speak",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c1_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "die Krankenversicherung",
+       "translation": "health insurance",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_c1_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Stress in „Hausaufgabe“:",
+       "options": [
+        "HAUSaufgabe",
+        "hausAUFgabe",
+        "hausaufGAbe"
+       ],
+       "answer": 0,
+       "explanation": "Compound: first element stressed.",
+       "id": "de_c1_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_conversation",
+   "type": "conversation",
+   "title": "Conversation: negotiating in a meeting",
+   "lessons": [
+    {
+     "id": "de_c1_conversation_1",
+     "title": "Conversation: negotiating in a meeting",
+     "summary": "Diplomatic language for proposals, concerns and agreement.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Projektbesprechung",
+       "lines": [
+        {
+         "speaker": "Frau Klein",
+         "target": "Wir sollten die Frist realistisch ansetzen.",
+         "en": "We should set a realistic deadline."
+        },
+        {
+         "speaker": "Herr Roth",
+         "target": "Ich gebe zu bedenken, dass der Kunde bereits Druck macht.",
+         "en": "I'd point out that the client is already putting on pressure."
+        },
+        {
+         "speaker": "Frau Klein",
+         "target": "Könnten wir uns darauf einigen, die erste Phase bis Ende Mai abzuschließen?",
+         "en": "Could we agree to finish the first phase by the end of May?"
+        },
+        {
+         "speaker": "Herr Roth",
+         "target": "Damit wäre ich einverstanden, sofern wir zusätzliche Unterstützung bekommen.",
+         "en": "I'd agree to that, provided we get additional support."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„Ich gebe zu bedenken, dass …“ is used to:",
+       "options": [
+        "raise a concern",
+        "agree fully",
+        "end the meeting"
+       ],
+       "answer": 0,
+       "explanation": "zu bedenken geben = point out a concern.",
+       "id": "de_c1_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Könnten",
+        "wir",
+        "uns",
+        "darauf",
+        "einigen?"
+       ],
+       "translation": "Could we agree on that?",
+       "id": "de_c1_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "Damit wäre ich ___, sofern … (in agreement)",
+       "answers": [
+        "einverstanden"
+       ],
+       "explanation": "einverstanden sein = agree.",
+       "id": "de_c1_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„sofern“ means:",
+       "options": [
+        "provided that",
+        "although",
+        "because"
+       ],
+       "answer": 0,
+       "explanation": "A condition.",
+       "id": "de_c1_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: idioms and C1 grammar",
+   "lessons": [
+    {
+     "id": "de_c1_exercises_1",
+     "title": "Mixed practice: idioms and C1 grammar",
+     "summary": "Idiomatic expressions in context, plus nominal style.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Idiom",
+        "Meaning"
+       ],
+       "rows": [
+        [
+         "etwas auf die lange Bank schieben",
+         "to put something off"
+        ],
+        [
+         "den Nagel auf den Kopf treffen",
+         "to hit the nail on the head"
+        ],
+        [
+         "ins Fettnäpfchen treten",
+         "to put your foot in it"
+        ],
+        [
+         "jemandem reinen Wein einschenken",
+         "to tell someone the plain truth"
+        ],
+        [
+         "Tomaten auf den Augen haben",
+         "to not see the obvious"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "auf die lange Bank schieben",
+         "to put off"
+        ],
+        [
+         "den Nagel auf den Kopf treffen",
+         "to be exactly right"
+        ],
+        [
+         "ins Fettnäpfchen treten",
+         "to make a faux pas"
+        ],
+        [
+         "Tomaten auf den Augen haben",
+         "to miss the obvious"
+        ]
+       ],
+       "id": "de_c1_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "Wir dürfen die Entscheidung nicht auf die lange ___ schieben.",
+       "answers": [
+        "Bank"
+       ],
+       "explanation": "auf die lange Bank schieben.",
+       "id": "de_c1_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "Due to the rain, the event was cancelled.",
+       "answers": [
+        "Aufgrund des Regens wurde die Veranstaltung abgesagt.",
+        "Wegen des Regens wurde die Veranstaltung abgesagt."
+       ],
+       "explanation": "Nominal style with genitive.",
+       "skill": "translation",
+       "id": "de_c1_exercises_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Sie sagte, sie ___ morgen. (kommen, Konj. I)",
+       "options": [
+        "komme",
+        "kommt",
+        "käme"
+       ],
+       "answer": 0,
+       "explanation": "Konjunktiv I: sie komme.",
+       "id": "de_c1_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Die",
+        "Ergebnisse",
+        "deuten",
+        "darauf",
+        "hin."
+       ],
+       "translation": "The results suggest it.",
+       "id": "de_c1_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_c1_quiz",
+   "type": "quiz",
+   "title": "C1 quiz",
+   "lessons": [
+    {
+     "id": "de_c1_quiz_1",
+     "title": "C1 quiz",
+     "summary": "Five questions across C1.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Choose the most precise and register-appropriate option."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Nominal form of „weil es regnete“:",
+       "options": [
+        "aufgrund des Regens",
+        "aufgrund der Regen",
+        "weil Regen"
+       ],
+       "answer": 0,
+       "explanation": "aufgrund + genitive.",
+       "id": "de_c1_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Indirect speech: Er sagt: „Ich bin krank.“ →",
+       "options": [
+        "Er sagt, er sei krank.",
+        "Er sagt, er ist krank sei.",
+        "Er sagt, ich bin krank."
+       ],
+       "answer": 0,
+       "explanation": "Konjunktiv I.",
+       "id": "de_c1_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„maßgeblich“ means:",
+       "options": [
+        "decisive / significant",
+        "measurable",
+        "moderate"
+       ],
+       "answer": 0,
+       "explanation": "maßgeblich beteiligt = significantly involved.",
+       "id": "de_c1_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„ins Fettnäpfchen treten“:",
+       "options": [
+        "make a social blunder",
+        "lose weight",
+        "cook badly"
+       ],
+       "answer": 0,
+       "explanation": "A faux pas.",
+       "id": "de_c1_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which is academic register?",
+       "options": [
+        "Die Daten legen nahe, dass …",
+        "Die Daten sagen halt, dass …",
+        "Echt jetzt, die Daten …"
+       ],
+       "answer": 0,
+       "explanation": "nahelegen = suggest.",
+       "id": "de_c1_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„die Voraussetzung“ is:",
+   "options": [
+    "prerequisite",
+    "forecast",
+    "assumption"
+   ],
+   "answer": 0,
+   "explanation": "Voraussetzung = prerequisite.",
+   "skill": "vocabulary",
+   "id": "de_c1_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„gewährleisten“ means:",
+   "options": [
+    "to ensure",
+    "to allow",
+    "to lend"
+   ],
+   "answer": 0,
+   "explanation": "Sicherheit gewährleisten.",
+   "skill": "vocabulary",
+   "id": "de_c1_exam_q2"
+  },
+  {
+   "type": "fill",
+   "prompt": "Die Sprecherin erklärte, das Unternehmen ___ keine Fehler gemacht. (haben, Konj. I)",
+   "answers": [
+    "habe"
+   ],
+   "explanation": "das Unternehmen habe.",
+   "skill": "grammar",
+   "id": "de_c1_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "trotz ___ Kritik",
+   "options": [
+    "der",
+    "die",
+    "den"
+   ],
+   "answer": 0,
+   "explanation": "trotz + genitive: der Kritik.",
+   "skill": "grammar",
+   "id": "de_c1_exam_q4"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Nominal: „wenn man die Regeln ändert“ →",
+   "options": [
+    "bei einer Änderung der Regeln",
+    "bei ändern der Regeln",
+    "mit Änderung die Regeln"
+   ],
+   "answer": 0,
+   "explanation": "bei + dative noun + genitive.",
+   "skill": "grammar",
+   "id": "de_c1_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "Hinsichtlich dem Budget gibt es Fragen.",
+   "answers": [
+    "Hinsichtlich des Budgets gibt es Fragen."
+   ],
+   "explanation": "hinsichtlich + genitive.",
+   "skill": "grammar",
+   "id": "de_c1_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Die Befunde lassen allenfalls vorsichtige Rückschlüsse zu.“ How certain are the authors?",
+   "options": [
+    "only cautiously certain",
+    "completely certain",
+    "they have no findings"
+   ],
+   "answer": 0,
+   "explanation": "allenfalls vorsichtig = at most cautious.",
+   "skill": "reading",
+   "id": "de_c1_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Während Studie A einen Zusammenhang belegt, konnte Studie B diesen nicht replizieren.“ What did Study B find?",
+   "options": [
+    "it could not replicate the link",
+    "it confirmed the link",
+    "it found a stronger link"
+   ],
+   "answer": 0,
+   "explanation": "nicht replizieren.",
+   "skill": "reading",
+   "id": "de_c1_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Darüber hinaus möchte ich auf einen Aspekt hinweisen, der bisher kaum beachtet wurde.",
+   "prompt": "What is the speaker doing?",
+   "options": [
+    "adding an overlooked point",
+    "concluding the talk",
+    "repeating an earlier point"
+   ],
+   "answer": 0,
+   "explanation": "darüber hinaus = furthermore; kaum beachtet = barely noticed.",
+   "skill": "listening",
+   "id": "de_c1_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "Abschließend lässt sich sagen, dass die Maßnahmen nur teilweise wirksam waren.",
+   "prompt": "What's the conclusion?",
+   "options": [
+    "the measures were only partly effective",
+    "the measures failed completely",
+    "the measures were fully effective"
+   ],
+   "answer": 0,
+   "explanation": "nur teilweise wirksam.",
+   "skill": "listening",
+   "id": "de_c1_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "The study calls the theory into question.",
+   "answers": [
+    "Die Studie stellt die Theorie in Frage.",
+    "Die Untersuchung stellt die Theorie in Frage."
+   ],
+   "explanation": "in Frage stellen.",
+   "skill": "writing",
+   "id": "de_c1_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To raise a concern diplomatically in a meeting:",
+   "options": [
+    "Ich gebe zu bedenken, dass …",
+    "Das ist Quatsch.",
+    "Mir egal."
+   ],
+   "answer": 0,
+   "explanation": "zu bedenken geben.",
+   "skill": "conversation",
+   "id": "de_c1_exam_q12"
+  }
+ ]
+}

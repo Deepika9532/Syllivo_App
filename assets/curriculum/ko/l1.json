@@ -1,0 +1,1317 @@
+{
+ "id": "ko_l1",
+ "lang": "ko",
+ "code": "L1",
+ "order": 1,
+ "version": 2,
+ "title": "Absolute Beginner",
+ "description": "Hangul vowels and consonants, syllable blocks, batchim, pronunciation, greetings, self-introduction and numbers.",
+ "alignment": "Content aligned with TOPIK I, level 1 (entry). TOPIK tests reading and listening; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Hangul vowels",
+  "Hangul consonants",
+  "Syllable formation",
+  "Batchim fundamentals",
+  "Pronunciation",
+  "Greetings",
+  "Self-introduction",
+  "Numbers",
+  "Essential vocabulary"
+ ],
+ "modules": [
+  {
+   "id": "ko_l1_vocabulary",
+   "type": "vocabulary",
+   "title": "People, places and things",
+   "lessons": [
+    {
+     "id": "ko_l1_vocabulary_1",
+     "title": "People, places and things",
+     "summary": "First nouns for introducing yourself. Read the Hangul first; romanization is only a guide.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Try to read each word in Hangul before looking at the romanization. You can hide romanization in Settings."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "학교",
+         "en": "school",
+         "pron": "hak-gyo"
+        },
+        {
+         "target": "학생",
+         "en": "student",
+         "pron": "hak-saeng"
+        },
+        {
+         "target": "선생님",
+         "en": "teacher",
+         "pron": "seon-saeng-nim"
+        },
+        {
+         "target": "친구",
+         "en": "friend",
+         "pron": "chin-gu"
+        },
+        {
+         "target": "집",
+         "en": "house, home",
+         "pron": "jip"
+        },
+        {
+         "target": "책",
+         "en": "book",
+         "pron": "chaek"
+        },
+        {
+         "target": "사람",
+         "en": "person",
+         "pron": "sa-ram"
+        },
+        {
+         "target": "이름",
+         "en": "name",
+         "pron": "i-reum"
+        },
+        {
+         "target": "나라",
+         "en": "country",
+         "pron": "na-ra"
+        },
+        {
+         "target": "한국",
+         "en": "Korea",
+         "pron": "han-guk"
+        },
+        {
+         "target": "인도",
+         "en": "India",
+         "pron": "in-do"
+        },
+        {
+         "target": "회사원",
+         "en": "office worker",
+         "pron": "hoe-sa-won"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„선생님“ means:",
+       "options": [
+        "student",
+        "teacher",
+        "friend"
+       ],
+       "answer": 1,
+       "explanation": "선생님 = teacher (님 is an honorific).",
+       "id": "ko_l1_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "학교",
+         "school"
+        ],
+        [
+         "친구",
+         "friend"
+        ],
+        [
+         "책",
+         "book"
+        ],
+        [
+         "집",
+         "home"
+        ]
+       ],
+       "id": "ko_l1_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which word means “name”?",
+       "options": [
+        "이름",
+        "나라",
+        "사람"
+       ],
+       "answer": 0,
+       "explanation": "이름 = name.",
+       "id": "ko_l1_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "인도 ___ (Indian person: India + person)",
+       "answers": [
+        "사람"
+       ],
+       "explanation": "Nationality = country + 사람: 인도 사람.",
+       "id": "ko_l1_vocabulary_1_q4",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “book”?",
+       "options": [
+        "학교",
+        "책",
+        "집",
+        "친구"
+       ],
+       "images": [
+        "school",
+        "book",
+        "house",
+        "friends"
+       ],
+       "answer": 1,
+       "explanation": "책 = book.",
+       "skill": "vocabulary",
+       "id": "ko_l1_vocabulary_1_q5"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “teacher”?",
+       "options": [
+        "선생님",
+        "학생",
+        "집",
+        "책"
+       ],
+       "images": [
+        "teacher",
+        "person",
+        "house",
+        "book"
+       ],
+       "answer": 0,
+       "explanation": "선생님 = teacher.",
+       "skill": "vocabulary",
+       "id": "ko_l1_vocabulary_1_q6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_grammar",
+   "type": "grammar",
+   "title": "Syllable blocks and N이에요/예요",
+   "lessons": [
+    {
+     "id": "ko_l1_grammar_1",
+     "title": "Syllable blocks and N이에요/예요",
+     "summary": "How Hangul letters combine, and how to say “I am …”.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Building syllables"
+      },
+      {
+       "type": "text",
+       "text": "Every syllable block has an initial consonant and a vowel, and may have a final consonant (batchim). A syllable that starts with a vowel sound uses the silent ㅇ."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Parts",
+        "Block",
+        "Sound"
+       ],
+       "rows": [
+        [
+         "ㄱ + ㅏ",
+         "가",
+         "ga"
+        ],
+        [
+         "ㅇ + ㅗ",
+         "오",
+         "o"
+        ],
+        [
+         "ㅎ + ㅏ + ㄴ",
+         "한",
+         "han"
+        ],
+        [
+         "ㄱ + ㅡ + ㄹ",
+         "글",
+         "geul"
+        ],
+        [
+         "ㅂ + ㅏ + ㅂ",
+         "밥",
+         "bap"
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "N이에요 / N예요 — “(it) is N”"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Noun ends in",
+        "Ending",
+        "Example"
+       ],
+       "rows": [
+        [
+         "a consonant",
+         "이에요",
+         "학생이에요 (I'm a student)"
+        ],
+        [
+         "a vowel",
+         "예요",
+         "의사예요 (I'm a doctor)"
+        ]
+       ]
+      },
+      {
+       "type": "example",
+       "target": "저는 학생이에요.",
+       "en": "I am a student.",
+       "pron": "jeo-neun hak-saeng-i-e-yo"
+      },
+      {
+       "type": "tip",
+       "text": "저 = I (polite). 는 marks the topic: “as for me”."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "ㅎ + ㅏ + ㄴ =",
+       "options": [
+        "한",
+        "학",
+        "하"
+       ],
+       "answer": 0,
+       "explanation": "ㅎ+ㅏ = 하, add final ㄴ → 한.",
+       "id": "ko_l1_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "저는 학생___.",
+       "options": [
+        "이에요",
+        "예요"
+       ],
+       "answer": 0,
+       "explanation": "학생 ends in a consonant (ㅇ) → 이에요.",
+       "id": "ko_l1_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "저는 의사___. (I am a doctor)",
+       "answers": [
+        "예요"
+       ],
+       "explanation": "의사 ends in a vowel → 예요.",
+       "id": "ko_l1_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "저는",
+        "인도",
+        "사람이에요."
+       ],
+       "explanation": "Topic – noun – 이에요.",
+       "translation": "I am Indian.",
+       "id": "ko_l1_grammar_1_q4",
+       "skill": "grammar"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "ㅂ + ㅏ + ㅂ",
+         "밥"
+        ],
+        [
+         "ㄱ + ㅡ + ㄹ",
+         "글"
+        ],
+        [
+         "ㅇ + ㅗ",
+         "오"
+        ],
+        [
+         "ㄱ + ㅏ",
+         "가"
+        ]
+       ],
+       "id": "ko_l1_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_reading",
+   "type": "reading",
+   "title": "Reading: Minsu introduces himself",
+   "lessons": [
+    {
+     "id": "ko_l1_reading_1",
+     "title": "Reading: Minsu introduces himself",
+     "summary": "A first short text in Hangul.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "자기소개",
+       "target": "안녕하세요? 저는 민수예요. 한국 사람이에요. 저는 대학생이에요. 제 친구는 마리아예요. 마리아는 스페인 사람이에요. 마리아도 학생이에요.",
+       "en": "Hello! I'm Minsu. I'm Korean. I'm a university student. My friend is Maria. Maria is Spanish. Maria is a student too."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "대학생",
+         "en": "university student",
+         "pron": "dae-hak-saeng"
+        },
+        {
+         "target": "제",
+         "en": "my (polite)",
+         "pron": "je"
+        },
+        {
+         "target": "스페인",
+         "en": "Spain",
+         "pron": "seu-pe-in"
+        },
+        {
+         "target": "-도",
+         "en": "also, too",
+         "pron": "do"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "민수는 어느 나라 사람이에요?",
+       "options": [
+        "한국 사람",
+        "스페인 사람",
+        "인도 사람"
+       ],
+       "answer": 0,
+       "explanation": "„한국 사람이에요“.",
+       "id": "ko_l1_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "마리아는 누구예요?",
+       "options": [
+        "Minsu's friend",
+        "Minsu's teacher",
+        "Minsu's sister"
+       ],
+       "answer": 0,
+       "explanation": "„제 친구는 마리아예요“.",
+       "id": "ko_l1_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What does „마리아도 학생이에요“ tell you?",
+       "options": [
+        "Maria is also a student.",
+        "Maria is a teacher.",
+        "Maria is not a student."
+       ],
+       "answer": 0,
+       "explanation": "도 = also.",
+       "id": "ko_l1_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "민수는 ___이에요.",
+       "options": [
+        "대학생",
+        "선생님",
+        "회사원"
+       ],
+       "answer": 0,
+       "explanation": "„저는 대학생이에요“.",
+       "id": "ko_l1_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_writing",
+   "type": "writing",
+   "title": "Writing: a self-introduction in Hangul",
+   "lessons": [
+    {
+     "id": "ko_l1_writing_1",
+     "title": "Writing: a self-introduction in Hangul",
+     "summary": "Write four short sentences using fixed patterns.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "안녕하세요. 저는 [이름]이에요/예요.",
+       "en": "Hello. I'm [name]."
+      },
+      {
+       "type": "example",
+       "target": "[나라] 사람이에요.",
+       "en": "I'm from [country]."
+      },
+      {
+       "type": "example",
+       "target": "[직업]이에요/예요.",
+       "en": "I'm a [job]."
+      },
+      {
+       "type": "example",
+       "target": "만나서 반갑습니다.",
+       "en": "Nice to meet you."
+      },
+      {
+       "type": "tip",
+       "text": "Choose 이에요 after a consonant and 예요 after a vowel: 라비예요, 민준이에요."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Introduce yourself in Hangul: greeting, name, nationality and job (at least 5 words).",
+       "minWords": 5,
+       "keywords": [
+        "저는",
+        "이에요|예요"
+       ],
+       "sample": "안녕하세요. 저는 라비예요. 인도 사람이에요. 학생이에요. 만나서 반갑습니다.",
+       "skill": "writing",
+       "id": "ko_l1_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "저는 미국 ___이에요. (American: America + person)",
+       "answers": [
+        "사람"
+       ],
+       "explanation": "미국 사람 = American.",
+       "id": "ko_l1_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which is correct for the name 라비?",
+       "options": [
+        "라비예요",
+        "라비이에요"
+       ],
+       "answer": 0,
+       "explanation": "Ends in a vowel → 예요.",
+       "id": "ko_l1_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_listening",
+   "type": "listening",
+   "title": "Listening: names, jobs and prices",
+   "lessons": [
+    {
+     "id": "ko_l1_listening_1",
+     "title": "Listening: names, jobs and prices",
+     "summary": "Sino-Korean numbers are used for money: 천 = 1,000, 만 = 10,000.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "천",
+         "en": "1,000",
+         "pron": "cheon"
+        },
+        {
+         "target": "만",
+         "en": "10,000",
+         "pron": "man"
+        },
+        {
+         "target": "원",
+         "en": "won (currency)",
+         "pron": "won"
+        },
+        {
+         "target": "얼마예요?",
+         "en": "How much is it?",
+         "pron": "eol-ma-ye-yo"
+        }
+       ]
+      },
+      {
+       "type": "example",
+       "target": "이 책은 삼천 원이에요.",
+       "en": "This book is 3,000 won.",
+       "pron": "i chae-geun sam-cheon wo-ni-e-yo"
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "안녕하세요. 저는 지민이에요.",
+       "prompt": "What's the speaker's name?",
+       "options": [
+        "지민",
+        "지수",
+        "민지"
+       ],
+       "answer": 0,
+       "explanation": "저는 지민이에요.",
+       "skill": "listening",
+       "id": "ko_l1_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "이 책은 삼천 원이에요.",
+       "prompt": "How much is the book?",
+       "options": [
+        "3,000 won",
+        "300 won",
+        "30,000 won"
+       ],
+       "answer": 0,
+       "explanation": "삼천 = 3 × 1,000.",
+       "skill": "listening",
+       "id": "ko_l1_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "저는 회사원이에요.",
+       "prompt": "What is the speaker's job?",
+       "options": [
+        "office worker",
+        "student",
+        "teacher"
+       ],
+       "answer": 0,
+       "explanation": "회사원 = office worker.",
+       "skill": "listening",
+       "id": "ko_l1_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "감사합니다.",
+       "prompt": "What did the speaker say?",
+       "options": [
+        "Thank you",
+        "Sorry",
+        "Goodbye"
+       ],
+       "answer": 0,
+       "explanation": "감사합니다 = thank you.",
+       "skill": "listening",
+       "id": "ko_l1_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_speaking",
+   "type": "speaking",
+   "title": "Speaking: greetings and introductions",
+   "lessons": [
+    {
+     "id": "ko_l1_speaking_1",
+     "title": "Speaking: greetings and introductions",
+     "summary": "Say your first Korean sentences.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "첫 만남 (First meeting)",
+       "lines": [
+        {
+         "speaker": "A",
+         "target": "안녕하세요. 저는 민수예요.",
+         "en": "Hello. I'm Minsu.",
+         "pron": "an-nyeong-ha-se-yo. jeo-neun min-su-ye-yo"
+        },
+        {
+         "speaker": "B",
+         "target": "안녕하세요. 저는 라비예요.",
+         "en": "Hello. I'm Ravi.",
+         "pron": "an-nyeong-ha-se-yo. jeo-neun ra-bi-ye-yo"
+        },
+        {
+         "speaker": "A",
+         "target": "만나서 반갑습니다.",
+         "en": "Nice to meet you.",
+         "pron": "man-na-seo ban-gap-seum-ni-da"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "안녕하세요. 저는 학생이에요.",
+       "translation": "Hello. I'm a student.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l1_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "만나서 반갑습니다.",
+       "translation": "Nice to meet you.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l1_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "이름이 뭐예요?",
+       "translation": "What's your name?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l1_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "You meet someone for the first time. You say:",
+       "options": [
+        "만나서 반갑습니다.",
+        "안녕히 계세요.",
+        "괜찮아요."
+       ],
+       "answer": 0,
+       "explanation": "Nice to meet you.",
+       "id": "ko_l1_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_pronunciation",
+   "type": "pronunciation",
+   "title": "Batchim basics and sound linking",
+   "lessons": [
+    {
+     "id": "ko_l1_pronunciation_1",
+     "title": "Batchim basics and sound linking",
+     "summary": "Final consonants reduce to seven sounds, and they slide onto a following vowel.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Final letter(s)",
+        "Sounds like",
+        "Example"
+       ],
+       "rows": [
+        [
+         "ㄱ ㅋ ㄲ",
+         "[k]",
+         "책 [chaek]"
+        ],
+        [
+         "ㄴ",
+         "[n]",
+         "산 [san]"
+        ],
+        [
+         "ㄷ ㅅ ㅆ ㅈ ㅊ ㅌ ㅎ",
+         "[t]",
+         "옷 [ot]"
+        ],
+        [
+         "ㄹ",
+         "[l]",
+         "물 [mul]"
+        ],
+        [
+         "ㅁ",
+         "[m]",
+         "밤 [bam]"
+        ],
+        [
+         "ㅂ ㅍ",
+         "[p]",
+         "밥 [bap]"
+        ],
+        [
+         "ㅇ",
+         "[ng]",
+         "강 [gang]"
+        ]
+       ]
+      },
+      {
+       "type": "text",
+       "text": "Linking (연음): when a syllable with a final consonant is followed by one starting with ㅇ, the consonant moves across: 한국어 → [한구거], 음악 → [으막], 옷이 → [오시]."
+      },
+      {
+       "type": "tip",
+       "text": "Write it as spelled, say it as linked. Spelling stays the same."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "한국어",
+       "translation": "Korean language",
+       "prompt": "Say it linked: [한구거]",
+       "skill": "pronunciation",
+       "id": "ko_l1_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "음악",
+       "translation": "music",
+       "prompt": "Linked: [으막]",
+       "skill": "pronunciation",
+       "id": "ko_l1_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "옷",
+       "translation": "clothes",
+       "prompt": "Final ㅅ sounds like [t]",
+       "skill": "pronunciation",
+       "id": "ko_l1_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„옷“ on its own is pronounced:",
+       "options": [
+        "ot",
+        "os",
+        "oj"
+       ],
+       "answer": 0,
+       "explanation": "Final ㅅ → [t].",
+       "id": "ko_l1_pronunciation_1_q4",
+       "skill": "pronunciation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "How is „음악“ pronounced?",
+       "options": [
+        "[으막]",
+        "[음악] with a pause",
+        "[으망]"
+       ],
+       "answer": 0,
+       "explanation": "ㅁ links onto the next vowel.",
+       "id": "ko_l1_pronunciation_1_q5",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_conversation",
+   "type": "conversation",
+   "title": "Conversation: meeting someone new",
+   "lessons": [
+    {
+     "id": "ko_l1_conversation_1",
+     "title": "Conversation: meeting someone new",
+     "summary": "Ask and answer name and nationality.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "어느 나라 사람이에요?",
+       "lines": [
+        {
+         "speaker": "민수",
+         "target": "안녕하세요. 저는 민수예요.",
+         "en": "Hello, I'm Minsu.",
+         "pron": "an-nyeong-ha-se-yo. jeo-neun min-su-ye-yo"
+        },
+        {
+         "speaker": "라비",
+         "target": "안녕하세요. 저는 라비예요.",
+         "en": "Hello, I'm Ravi.",
+         "pron": "an-nyeong-ha-se-yo. jeo-neun ra-bi-ye-yo"
+        },
+        {
+         "speaker": "민수",
+         "target": "라비 씨는 어느 나라 사람이에요?",
+         "en": "Which country are you from, Ravi?",
+         "pron": "ra-bi ssi-neun eo-neu na-ra sa-ra-mi-e-yo"
+        },
+        {
+         "speaker": "라비",
+         "target": "인도 사람이에요.",
+         "en": "I'm Indian.",
+         "pron": "in-do sa-ra-mi-e-yo"
+        },
+        {
+         "speaker": "민수",
+         "target": "만나서 반가워요.",
+         "en": "Nice to meet you.",
+         "pron": "man-na-seo ban-ga-wo-yo"
+        },
+        {
+         "speaker": "라비",
+         "target": "저도 반가워요.",
+         "en": "Nice to meet you too.",
+         "pron": "jeo-do ban-ga-wo-yo"
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "씨 after a name is polite (like Mr/Ms). Never use 씨 with your own name."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„어느 나라 사람이에요?“ asks about:",
+       "options": [
+        "nationality",
+        "age",
+        "job"
+       ],
+       "answer": 0,
+       "explanation": "어느 나라 = which country.",
+       "id": "ko_l1_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "저는",
+        "인도",
+        "사람이에요."
+       ],
+       "translation": "I'm Indian.",
+       "id": "ko_l1_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "저___ 반가워요. (me too)",
+       "answers": [
+        "도"
+       ],
+       "explanation": "저도 = me too.",
+       "id": "ko_l1_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Polite way to address Ravi:",
+       "options": [
+        "라비 씨",
+        "라비 님 저",
+        "라비야"
+       ],
+       "answer": 0,
+       "explanation": "Name + 씨.",
+       "id": "ko_l1_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: reading Hangul",
+   "lessons": [
+    {
+     "id": "ko_l1_exercises_1",
+     "title": "Mixed practice: reading Hangul",
+     "summary": "Vowels, consonants, batchim and your first sentences.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Vowel",
+        "Sound"
+       ],
+       "rows": [
+        [
+         "ㅏ",
+         "a"
+        ],
+        [
+         "ㅓ",
+         "eo"
+        ],
+        [
+         "ㅗ",
+         "o"
+        ],
+        [
+         "ㅜ",
+         "u"
+        ],
+        [
+         "ㅡ",
+         "eu"
+        ],
+        [
+         "ㅣ",
+         "i"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "ㅓ (eo) is like the u in “up”; ㅗ (o) is like the o in “go”. These two are the ones most often confused."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Which vowel sounds like “eo” (u in “up”)?",
+       "options": [
+        "ㅓ",
+        "ㅗ",
+        "ㅜ"
+       ],
+       "answer": 0,
+       "explanation": "ㅓ = eo.",
+       "id": "ko_l1_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "나무",
+         "tree"
+        ],
+        [
+         "바다",
+         "sea"
+        ],
+        [
+         "우유",
+         "milk"
+        ],
+        [
+         "사과",
+         "apple"
+        ]
+       ],
+       "id": "ko_l1_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which word has a batchim?",
+       "options": [
+        "학교",
+        "나라",
+        "바다"
+       ],
+       "answer": 0,
+       "explanation": "학 has final ㄱ.",
+       "id": "ko_l1_exercises_1_q3",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "저는 회사원___. (I'm an office worker)",
+       "answers": [
+        "이에요"
+       ],
+       "explanation": "회사원 ends in ㄴ → 이에요.",
+       "id": "ko_l1_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "이름이",
+        "뭐예요?"
+       ],
+       "translation": "What's your name?",
+       "id": "ko_l1_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l1_quiz",
+   "type": "quiz",
+   "title": "Level 1 quiz",
+   "lessons": [
+    {
+     "id": "ko_l1_quiz_1",
+     "title": "Level 1 quiz",
+     "summary": "Five questions across Level 1.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Read the Hangul in each option before deciding."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "ㅁ + ㅜ + ㄹ =",
+       "options": [
+        "물",
+        "문",
+        "몰"
+       ],
+       "answer": 0,
+       "explanation": "무 + ㄹ = 물 (water).",
+       "id": "ko_l1_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„감사합니다“ means:",
+       "options": [
+        "Thank you",
+        "Hello",
+        "Sorry"
+       ],
+       "answer": 0,
+       "explanation": "Formal thank you.",
+       "id": "ko_l1_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Final ㅂ sounds like:",
+       "options": [
+        "[p]",
+        "[b]",
+        "[m]"
+       ],
+       "answer": 0,
+       "explanation": "ㅂ/ㅍ at the end → [p].",
+       "id": "ko_l1_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Correct sentence:",
+       "options": [
+        "저는 선생님이에요.",
+        "저는 선생님예요.",
+        "저는 이에요 선생님."
+       ],
+       "answer": 0,
+       "explanation": "Consonant ending → 이에요.",
+       "id": "ko_l1_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„안녕히 가세요“ is said to someone who is:",
+       "options": [
+        "leaving",
+        "staying",
+        "arriving"
+       ],
+       "answer": 0,
+       "explanation": "Go in peace.",
+       "id": "ko_l1_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„친구“ means:",
+   "options": [
+    "friend",
+    "teacher",
+    "family"
+   ],
+   "answer": 0,
+   "explanation": "친구 = friend.",
+   "skill": "vocabulary",
+   "id": "ko_l1_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Which means “Korea”?",
+   "options": [
+    "한국",
+    "인도",
+    "미국"
+   ],
+   "answer": 0,
+   "explanation": "한국.",
+   "skill": "vocabulary",
+   "id": "ko_l1_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "ㅅ + ㅏ + ㄴ =",
+   "options": [
+    "산",
+    "삼",
+    "상"
+   ],
+   "answer": 0,
+   "explanation": "사 + ㄴ = 산 (mountain).",
+   "skill": "reading",
+   "id": "ko_l1_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "저는 의사___.",
+   "options": [
+    "예요",
+    "이에요"
+   ],
+   "answer": 0,
+   "explanation": "의사 ends in a vowel.",
+   "skill": "grammar",
+   "id": "ko_l1_exam_q4"
+  },
+  {
+   "type": "mcq",
+   "prompt": "저는 학생___.",
+   "options": [
+    "이에요",
+    "예요"
+   ],
+   "answer": 0,
+   "explanation": "학생 ends in a consonant.",
+   "skill": "grammar",
+   "id": "ko_l1_exam_q5"
+  },
+  {
+   "type": "fill",
+   "prompt": "저는 회사원___. (I am an office worker)",
+   "answers": [
+    "이에요"
+   ],
+   "explanation": "Consonant ending → 이에요.",
+   "skill": "grammar",
+   "id": "ko_l1_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „저는 지수예요. 중국 사람이에요.“ Where is Jisu from?",
+   "options": [
+    "China",
+    "Korea",
+    "Japan"
+   ],
+   "answer": 0,
+   "explanation": "중국 = China.",
+   "skill": "reading",
+   "id": "ko_l1_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "How is „음악“ pronounced?",
+   "options": [
+    "[으막]",
+    "[음아크]",
+    "[음낙]"
+   ],
+   "answer": 0,
+   "explanation": "Linking.",
+   "skill": "pronunciation",
+   "id": "ko_l1_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "오천 원이에요.",
+   "prompt": "How much?",
+   "options": [
+    "5,000 won",
+    "500 won",
+    "50,000 won"
+   ],
+   "answer": 0,
+   "explanation": "오천 = 5,000.",
+   "skill": "listening",
+   "id": "ko_l1_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "저는 선생님이에요.",
+   "prompt": "The speaker is a…",
+   "options": [
+    "teacher",
+    "student",
+    "doctor"
+   ],
+   "answer": 0,
+   "explanation": "선생님.",
+   "skill": "listening",
+   "id": "ko_l1_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "I am a student.",
+   "answers": [
+    "저는 학생이에요.",
+    "학생이에요."
+   ],
+   "explanation": "저는 학생이에요.",
+   "skill": "writing",
+   "id": "ko_l1_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Reply to „만나서 반가워요“:",
+   "options": [
+    "저도 반가워요.",
+    "안녕히 계세요.",
+    "얼마예요?"
+   ],
+   "answer": 0,
+   "explanation": "Me too.",
+   "skill": "conversation",
+   "id": "ko_l1_exam_q12"
+  }
+ ]
+}

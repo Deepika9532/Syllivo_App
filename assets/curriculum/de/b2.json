@@ -1,0 +1,1119 @@
+{
+ "id": "de_b2",
+ "lang": "de",
+ "code": "B2",
+ "order": 4,
+ "version": 1,
+ "title": "Upper Intermediate",
+ "description": "Complex grammar, the passive, professional and formal communication, news and debates, and longer texts.",
+ "alignment": "Oriented to CEFR B2 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Passive voice",
+  "Advanced connectors",
+  "Professional communication",
+  "News & current affairs",
+  "Formal & informal writing",
+  "Discussions & debates",
+  "Longer listening",
+  "Complex texts"
+ ],
+ "modules": [
+  {
+   "id": "de_b2_vocabulary",
+   "type": "vocabulary",
+   "title": "News, society and the environment",
+   "lessons": [
+    {
+     "id": "de_b2_vocabulary_1",
+     "title": "News, society and the environment",
+     "summary": "Vocabulary for current affairs and discussions.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "die Umfrage",
+         "en": "survey / poll"
+        },
+        {
+         "target": "die Regierung",
+         "en": "government"
+        },
+        {
+         "target": "die Maßnahme",
+         "en": "measure / step"
+        },
+        {
+         "target": "die Auswirkung",
+         "en": "effect / impact"
+        },
+        {
+         "target": "zunehmen",
+         "en": "to increase"
+        },
+        {
+         "target": "abnehmen",
+         "en": "to decrease"
+        },
+        {
+         "target": "der Klimawandel",
+         "en": "climate change"
+        },
+        {
+         "target": "die Nachhaltigkeit",
+         "en": "sustainability"
+        },
+        {
+         "target": "erneuerbare Energien",
+         "en": "renewable energy"
+        },
+        {
+         "target": "die Wirtschaft",
+         "en": "economy"
+        },
+        {
+         "target": "die Arbeitslosigkeit",
+         "en": "unemployment"
+        },
+        {
+         "target": "der Beschluss",
+         "en": "decision / resolution"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„die Nachhaltigkeit“ means:",
+       "options": [
+        "sustainability",
+        "night shift",
+        "neighbourhood"
+       ],
+       "answer": 0,
+       "explanation": "nachhaltig = sustainable.",
+       "id": "de_b2_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "die Regierung",
+         "government"
+        ],
+        [
+         "die Auswirkung",
+         "impact"
+        ],
+        [
+         "die Umfrage",
+         "survey"
+        ],
+        [
+         "der Beschluss",
+         "decision"
+        ]
+       ],
+       "id": "de_b2_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Die Zahl der Elektroautos hat stark ___. (increased)",
+       "answers": [
+        "zugenommen"
+       ],
+       "explanation": "zunehmen → hat zugenommen.",
+       "id": "de_b2_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Eine „Maßnahme“ ist:",
+       "options": [
+        "a measure / step taken",
+        "a measuring tape",
+        "a meal"
+       ],
+       "answer": 0,
+       "explanation": "Maßnahmen ergreifen = take measures.",
+       "id": "de_b2_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_grammar",
+   "type": "grammar",
+   "title": "The passive voice and advanced connectors",
+   "lessons": [
+    {
+     "id": "de_b2_grammar_1",
+     "title": "The passive voice and advanced connectors",
+     "summary": "Focus on actions rather than people, and link complex ideas.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Tense",
+        "Passive (werden + participle)"
+       ],
+       "rows": [
+        [
+         "Present",
+         "Das Haus wird gebaut."
+        ],
+        [
+         "Präteritum",
+         "Das Haus wurde gebaut."
+        ],
+        [
+         "Perfect",
+         "Das Haus ist gebaut worden."
+        ],
+        [
+         "With modal",
+         "Das Haus muss gebaut werden."
+        ],
+        [
+         "State (sein-passive)",
+         "Das Haus ist gebaut."
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "In the perfect passive the participle of werden is „worden“ (not „geworden“)."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Connector",
+        "Meaning",
+        "Example"
+       ],
+       "rows": [
+        [
+         "je … desto",
+         "the … the",
+         "Je mehr man liest, desto besser schreibt man."
+        ],
+        [
+         "indem",
+         "by (doing)",
+         "Man spart Energie, indem man das Licht ausmacht."
+        ],
+        [
+         "sodass",
+         "so that (result)",
+         "Es regnete, sodass das Spiel ausfiel."
+        ],
+        [
+         "(an)statt … zu",
+         "instead of",
+         "Statt zu lernen, schlief er."
+        ],
+        [
+         "während",
+         "while / whereas",
+         "Während sie arbeitet, kocht er."
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Die Brücke ___ 1990 gebaut. (Präteritum passive)",
+       "answers": [
+        "wurde"
+       ],
+       "explanation": "wurde + participle.",
+       "id": "de_b2_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "Das Problem muss sofort gelöst ___.",
+       "answers": [
+        "werden"
+       ],
+       "explanation": "modal + participle + werden.",
+       "id": "de_b2_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Je mehr man übt, ___ besser spricht man.",
+       "options": [
+        "desto",
+        "als",
+        "wie"
+       ],
+       "answer": 0,
+       "explanation": "je … desto.",
+       "id": "de_b2_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "Das Haus wurde renoviert worden.",
+       "answers": [
+        "Das Haus ist renoviert worden.",
+        "Das Haus wurde renoviert."
+       ],
+       "explanation": "Perfect passive: ist … worden; Präteritum passive: wurde …",
+       "skill": "grammar",
+       "id": "de_b2_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Man",
+        "lernt",
+        "am",
+        "besten,",
+        "indem",
+        "man",
+        "viel",
+        "spricht."
+       ],
+       "translation": "You learn best by speaking a lot.",
+       "id": "de_b2_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_reading",
+   "type": "reading",
+   "title": "Reading: the four-day week",
+   "lessons": [
+    {
+     "id": "de_b2_reading_1",
+     "title": "Reading: the four-day week",
+     "summary": "A news-style text with arguments for and against.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "Kommt die Vier-Tage-Woche?",
+       "target": "In mehreren Unternehmen wird derzeit die Vier-Tage-Woche getestet. Die Beschäftigten arbeiten dabei weniger Stunden, erhalten aber das gleiche Gehalt. Befürworter argumentieren, dass ausgeruhte Mitarbeitende produktiver seien und seltener krank würden. Kritiker hingegen befürchten, dass nicht alle Branchen dieses Modell umsetzen können, etwa die Pflege oder der Einzelhandel. Ob sich die Vier-Tage-Woche durchsetzt, hängt vermutlich davon ab, wie die Ergebnisse der Pilotprojekte ausfallen.",
+       "en": "Several companies are currently testing the four-day week. Employees work fewer hours but receive the same salary. Supporters argue that rested staff are more productive and get ill less often. Critics, on the other hand, fear that not all sectors can implement this model, for example care or retail. Whether the four-day week catches on probably depends on the results of the pilot projects."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Was bleibt bei der Vier-Tage-Woche gleich?",
+       "options": [
+        "das Gehalt",
+        "die Arbeitszeit",
+        "die Branche"
+       ],
+       "answer": 0,
+       "explanation": "„erhalten aber das gleiche Gehalt“.",
+       "id": "de_b2_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Welches Argument nennen die Befürworter?",
+       "options": [
+        "Ausgeruhte Mitarbeitende sind produktiver.",
+        "Firmen sparen Geld.",
+        "Die Pflege profitiert besonders."
+       ],
+       "answer": 0,
+       "explanation": "„produktiver seien“.",
+       "id": "de_b2_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Warum sind Kritiker skeptisch?",
+       "options": [
+        "Nicht alle Branchen können es umsetzen.",
+        "Es ist zu teuer für Mitarbeitende.",
+        "Niemand will weniger arbeiten."
+       ],
+       "answer": 0,
+       "explanation": "Pflege, Einzelhandel.",
+       "id": "de_b2_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„hingegen“ signals:",
+       "options": [
+        "contrast",
+        "cause",
+        "time"
+       ],
+       "answer": 0,
+       "explanation": "hingegen = on the other hand.",
+       "id": "de_b2_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_writing",
+   "type": "writing",
+   "title": "Writing: a formal complaint",
+   "lessons": [
+    {
+     "id": "de_b2_writing_1",
+     "title": "Writing: a formal complaint",
+     "summary": "Formal register, clear structure, polite but firm requests.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Part",
+        "Formal phrase"
+       ],
+       "rows": [
+        [
+         "Opening",
+         "Sehr geehrte Damen und Herren,"
+        ],
+        [
+         "Reason",
+         "ich wende mich an Sie, weil …"
+        ],
+        [
+         "Details",
+         "Am 3. Mai habe ich … bestellt. Leider …"
+        ],
+        [
+         "Request",
+         "Ich bitte Sie daher, … / Ich erwarte …"
+        ],
+        [
+         "Close",
+         "Für eine baldige Antwort wäre ich Ihnen dankbar."
+        ],
+        [
+         "Sign-off",
+         "Mit freundlichen Grüßen"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "In formal letters use Sie/Ihnen (capitalised) and avoid contractions and slang."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Write a formal complaint (80+ words): an order you placed three weeks ago has not arrived. Ask for delivery or a refund.",
+       "minWords": 80,
+       "keywords": [
+        "sehr geehrte",
+        "bitte|bitten",
+        "freundlichen grüßen"
+       ],
+       "sample": "Sehr geehrte Damen und Herren, ich wende mich an Sie, weil meine Bestellung vom 3. Mai (Nr. 4581) bis heute nicht angekommen ist. Laut Ihrer Website sollte die Lieferung innerhalb von fünf Werktagen erfolgen. Leider habe ich auf meine E-Mail vom 15. Mai keine Antwort erhalten. Ich bitte Sie daher, mir die Ware bis Ende dieser Woche zu liefern oder mir den Kaufpreis zu erstatten. Für eine baldige Antwort wäre ich Ihnen dankbar. Mit freundlichen Grüßen, Priya Sharma",
+       "skill": "writing",
+       "id": "de_b2_writing_1_q1"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Formal opening when you don't know the name:",
+       "options": [
+        "Sehr geehrte Damen und Herren,",
+        "Liebe Leute,",
+        "Hallo zusammen,"
+       ],
+       "answer": 0,
+       "explanation": "Standard formal opening.",
+       "id": "de_b2_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "fill",
+       "prompt": "Mit ___ Grüßen",
+       "answers": [
+        "freundlichen"
+       ],
+       "explanation": "Mit freundlichen Grüßen.",
+       "id": "de_b2_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_listening",
+   "type": "listening",
+   "title": "Listening: radio news",
+   "lessons": [
+    {
+     "id": "de_b2_listening_1",
+     "title": "Listening: radio news",
+     "summary": "Short news items: strikes, weather and local decisions.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "der Streik",
+         "en": "strike"
+        },
+        {
+         "target": "ausfallen",
+         "en": "to be cancelled"
+        },
+        {
+         "target": "sperren",
+         "en": "to close (off)"
+        },
+        {
+         "target": "der Stadtrat",
+         "en": "city council"
+        },
+        {
+         "target": "steigen",
+         "en": "to rise"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Wegen eines Streiks fallen morgen zahlreiche Flüge in Frankfurt und München aus.",
+       "prompt": "What is happening tomorrow?",
+       "options": [
+        "many flights are cancelled due to a strike",
+        "airports close because of weather",
+        "trains are delayed"
+       ],
+       "answer": 0,
+       "explanation": "ausfallen = be cancelled.",
+       "skill": "listening",
+       "id": "de_b2_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Die Temperaturen steigen bis zum Wochenende auf über dreißig Grad.",
+       "prompt": "What's the forecast?",
+       "options": [
+        "above 30 °C by the weekend",
+        "rain at the weekend",
+        "cooler by the weekend"
+       ],
+       "answer": 0,
+       "explanation": "über dreißig Grad.",
+       "skill": "listening",
+       "id": "de_b2_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Der Stadtrat hat beschlossen, die Innenstadt ab Januar für Autos zu sperren.",
+       "prompt": "What did the council decide?",
+       "options": [
+        "to close the city centre to cars from January",
+        "to build a car park",
+        "to lower bus fares"
+       ],
+       "answer": 0,
+       "explanation": "für Autos sperren = close to cars.",
+       "skill": "listening",
+       "id": "de_b2_listening_1_q3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_speaking",
+   "type": "speaking",
+   "title": "Speaking: agreeing and disagreeing politely",
+   "lessons": [
+    {
+     "id": "de_b2_speaking_1",
+     "title": "Speaking: agreeing and disagreeing politely",
+     "summary": "Discussion phrases at B2 level.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Function",
+        "Phrase"
+       ],
+       "rows": [
+        [
+         "Agree",
+         "Da stimme ich Ihnen völlig zu."
+        ],
+        [
+         "Partly agree",
+         "Da haben Sie teilweise recht, aber …"
+        ],
+        [
+         "Disagree politely",
+         "Das sehe ich etwas anders."
+        ],
+        [
+         "Contradict",
+         "Da muss ich Ihnen widersprechen."
+        ],
+        [
+         "Summarise",
+         "Lassen Sie mich das kurz zusammenfassen."
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Da muss ich Ihnen widersprechen.",
+       "translation": "I have to disagree with you there.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b2_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Das sehe ich etwas anders.",
+       "translation": "I see that a little differently.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b2_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Lassen Sie mich das kurz zusammenfassen.",
+       "translation": "Let me summarise briefly.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b2_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "The most diplomatic way to disagree:",
+       "options": [
+        "Das sehe ich etwas anders.",
+        "Das ist falsch.",
+        "Unsinn!"
+       ],
+       "answer": 0,
+       "explanation": "Softened disagreement.",
+       "id": "de_b2_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_pronunciation",
+   "type": "pronunciation",
+   "title": "Sentence melody and the glottal stop",
+   "lessons": [
+    {
+     "id": "de_b2_pronunciation_1",
+     "title": "Sentence melody and the glottal stop",
+     "summary": "Intonation and the small catch before vowels that makes German sound German.",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "Statements and W-questions fall at the end. Yes/no questions rise. A glottal stop (a tiny catch) comes before a word or syllable starting with a vowel: be|antworten, ver|eisen (to ice over) vs. verreisen (to go on a trip)."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Type",
+        "Melody",
+        "Example"
+       ],
+       "rows": [
+        [
+         "Statement",
+         "falls ↘",
+         "Ich komme morgen."
+        ],
+        [
+         "W-question",
+         "falls ↘",
+         "Woher kommen Sie?"
+        ],
+        [
+         "Yes/no question",
+         "rises ↗",
+         "Haben Sie heute Zeit?"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "Haben Sie heute Zeit?",
+       "translation": "Do you have time today?",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b2_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Woher kommen Sie?",
+       "translation": "Where are you from?",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b2_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Wir verreisen morgen.",
+       "translation": "We're going away tomorrow.",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b2_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "In a yes/no question the melody usually:",
+       "options": [
+        "rises at the end",
+        "falls at the end",
+        "stays flat"
+       ],
+       "answer": 0,
+       "explanation": "Yes/no questions rise.",
+       "id": "de_b2_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_conversation",
+   "type": "conversation",
+   "title": "Conversation: debate on a car-free city centre",
+   "lessons": [
+    {
+     "id": "de_b2_conversation_1",
+     "title": "Conversation: debate on a car-free city centre",
+     "summary": "Follow a moderated discussion and use discussion strategies.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Diskussion: Autofreie Innenstadt?",
+       "lines": [
+        {
+         "speaker": "Moderatorin",
+         "target": "Frau Yilmaz, was spricht für eine autofreie Innenstadt?",
+         "en": "Ms Yilmaz, what speaks for a car-free centre?"
+        },
+        {
+         "speaker": "Frau Yilmaz",
+         "target": "Die Luft wird sauberer, und die Straßen werden für Fußgänger attraktiver.",
+         "en": "The air becomes cleaner and streets more attractive for pedestrians."
+        },
+        {
+         "speaker": "Herr Bauer",
+         "target": "Das ist ein wichtiger Punkt, aber viele Geschäfte befürchten weniger Kunden.",
+         "en": "That's an important point, but many shops fear fewer customers."
+        },
+        {
+         "speaker": "Frau Yilmaz",
+         "target": "Studien aus anderen Städten zeigen eher das Gegenteil.",
+         "en": "Studies from other cities tend to show the opposite."
+        },
+        {
+         "speaker": "Herr Bauer",
+         "target": "Ich verstehe Ihren Standpunkt, trotzdem brauchen wir gute Alternativen.",
+         "en": "I understand your position; still, we need good alternatives."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Which phrase acknowledges before disagreeing?",
+       "options": [
+        "Das ist ein wichtiger Punkt, aber …",
+        "Nein.",
+        "Ich weiß nicht."
+       ],
+       "answer": 0,
+       "explanation": "Acknowledge, then contrast.",
+       "id": "de_b2_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "verstehe",
+        "Ihren",
+        "Standpunkt."
+       ],
+       "translation": "I understand your position.",
+       "id": "de_b2_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What do shops fear, according to Herr Bauer?",
+       "options": [
+        "fewer customers",
+        "higher rent",
+        "more noise"
+       ],
+       "answer": 0,
+       "explanation": "„weniger Kunden“.",
+       "id": "de_b2_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "Da stimme ich Ihnen ___ zu. (completely)",
+       "answers": [
+        "völlig",
+        "vollkommen",
+        "ganz"
+       ],
+       "explanation": "völlig/vollkommen zustimmen.",
+       "id": "de_b2_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: B2 structures",
+   "lessons": [
+    {
+     "id": "de_b2_exercises_1",
+     "title": "Mixed practice: B2 structures",
+     "summary": "Passive, connectors and register.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Remember: worden in the perfect passive; „statt … zu“ needs zu + infinitive."
+      }
+     ],
+     "questions": [
+      {
+       "type": "translate",
+       "prompt": "The letter was written yesterday.",
+       "answers": [
+        "Der Brief wurde gestern geschrieben."
+       ],
+       "explanation": "Präteritum passive.",
+       "skill": "translation",
+       "id": "de_b2_exercises_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "Es regnete stark, ___ das Konzert ausfiel. (so that)",
+       "answers": [
+        "sodass"
+       ],
+       "explanation": "sodass = so that (result).",
+       "id": "de_b2_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "correction",
+       "prompt": "Anstatt lernen, hat er gespielt.",
+       "answers": [
+        "Anstatt zu lernen, hat er gespielt."
+       ],
+       "explanation": "anstatt … zu + infinitive.",
+       "skill": "grammar",
+       "id": "de_b2_exercises_1_q3"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Je",
+        "früher",
+        "wir",
+        "anfangen,",
+        "desto",
+        "besser."
+       ],
+       "translation": "The earlier we start, the better.",
+       "id": "de_b2_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Formal register:",
+       "options": [
+        "Ich würde Sie bitten, mir zu antworten.",
+        "Schreib mir mal zurück.",
+        "Antworte halt."
+       ],
+       "answer": 0,
+       "explanation": "Konjunktiv II + Sie.",
+       "id": "de_b2_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b2_quiz",
+   "type": "quiz",
+   "title": "B2 quiz",
+   "lessons": [
+    {
+     "id": "de_b2_quiz_1",
+     "title": "B2 quiz",
+     "summary": "Five questions across B2.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Read every option fully — differences are small at this level."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Perfect passive:",
+       "options": [
+        "Das Auto ist repariert worden.",
+        "Das Auto ist repariert geworden.",
+        "Das Auto hat repariert worden."
+       ],
+       "answer": 0,
+       "explanation": "ist … worden.",
+       "id": "de_b2_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„indem“ expresses:",
+       "options": [
+        "the means / how",
+        "a time",
+        "a contrast"
+       ],
+       "answer": 0,
+       "explanation": "by doing …",
+       "id": "de_b2_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„die Arbeitslosigkeit“:",
+       "options": [
+        "unemployment",
+        "workload",
+        "laziness"
+       ],
+       "answer": 0,
+       "explanation": "arbeitslos = unemployed.",
+       "id": "de_b2_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Formal letter sign-off:",
+       "options": [
+        "Mit freundlichen Grüßen",
+        "Bis bald!",
+        "Tschüss"
+       ],
+       "answer": 0,
+       "explanation": "Standard formal closing.",
+       "id": "de_b2_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„befürchten“ means:",
+       "options": [
+        "to fear",
+        "to support",
+        "to explain"
+       ],
+       "answer": 0,
+       "explanation": "befürchten = to fear (that something will happen).",
+       "id": "de_b2_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„die Auswirkung“ is closest to:",
+   "options": [
+    "effect",
+    "exit",
+    "exception"
+   ],
+   "answer": 0,
+   "explanation": "Auswirkung = effect.",
+   "skill": "vocabulary",
+   "id": "de_b2_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„abnehmen“ (numbers) means:",
+   "options": [
+    "to decrease",
+    "to pick up",
+    "to accept"
+   ],
+   "answer": 0,
+   "explanation": "Die Zahl nimmt ab.",
+   "skill": "vocabulary",
+   "id": "de_b2_exam_q2"
+  },
+  {
+   "type": "fill",
+   "prompt": "Der Vertrag ___ gestern unterschrieben. (Präteritum passive)",
+   "answers": [
+    "wurde"
+   ],
+   "explanation": "wurde unterschrieben.",
+   "skill": "grammar",
+   "id": "de_b2_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Die Rechnung muss bis Freitag bezahlt ___.",
+   "options": [
+    "werden",
+    "worden",
+    "geworden"
+   ],
+   "answer": 0,
+   "explanation": "modal + participle + werden.",
+   "skill": "grammar",
+   "id": "de_b2_exam_q4"
+  },
+  {
+   "type": "mcq",
+   "prompt": "___ mehr ich darüber nachdenke, desto unsicherer werde ich.",
+   "options": [
+    "Je",
+    "Wie",
+    "Als"
+   ],
+   "answer": 0,
+   "explanation": "je … desto.",
+   "skill": "grammar",
+   "id": "de_b2_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "Statt anrufen, schrieb sie eine E-Mail.",
+   "answers": [
+    "Statt anzurufen, schrieb sie eine E-Mail."
+   ],
+   "explanation": "Separable verb: an-zu-rufen.",
+   "skill": "grammar",
+   "id": "de_b2_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Trotz steigender Preise ist die Nachfrage stabil geblieben.“ What happened to demand?",
+   "options": [
+    "it stayed stable",
+    "it rose",
+    "it fell"
+   ],
+   "answer": 0,
+   "explanation": "stabil geblieben.",
+   "skill": "reading",
+   "id": "de_b2_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Die Maßnahme ist umstritten: Während Umweltverbände sie begrüßen, lehnt die Industrie sie ab.“ Who opposes it?",
+   "options": [
+    "industry",
+    "environmental groups",
+    "nobody"
+   ],
+   "answer": 0,
+   "explanation": "lehnt … ab = rejects.",
+   "skill": "reading",
+   "id": "de_b2_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Aufgrund technischer Störungen verzögert sich der Abflug um etwa vierzig Minuten.",
+   "prompt": "What's the delay?",
+   "options": [
+    "about 40 minutes",
+    "about 14 minutes",
+    "four hours"
+   ],
+   "answer": 0,
+   "explanation": "vierzig Minuten.",
+   "skill": "listening",
+   "id": "de_b2_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "Die Umfrage zeigt, dass zwei Drittel der Befragten mehr Radwege wollen.",
+   "prompt": "What do two thirds want?",
+   "options": [
+    "more cycle paths",
+    "more car parks",
+    "cheaper tickets"
+   ],
+   "answer": 0,
+   "explanation": "Radwege = cycle paths.",
+   "skill": "listening",
+   "id": "de_b2_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "The museum is being renovated.",
+   "answers": [
+    "Das Museum wird renoviert.",
+    "Das Museum wird gerade renoviert."
+   ],
+   "explanation": "Present passive.",
+   "skill": "writing",
+   "id": "de_b2_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "In a debate, to disagree politely you say:",
+   "options": [
+    "Das sehe ich etwas anders.",
+    "Sie haben keine Ahnung.",
+    "Egal."
+   ],
+   "answer": 0,
+   "explanation": "Diplomatic disagreement.",
+   "skill": "conversation",
+   "id": "de_b2_exam_q12"
+  }
+ ]
+}

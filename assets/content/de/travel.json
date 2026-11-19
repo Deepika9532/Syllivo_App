@@ -1,0 +1,65 @@
+{
+ "id": "de_a1_travel",
+ "lang": "de",
+ "level": "A1",
+ "title": "Getting Around",
+ "order": 5,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_bahnhof",
+   "front": "Wo ist der Bahnhof?",
+   "back": "Where is the train station?"
+  },
+  {
+   "id": "de_toilette",
+   "front": "Wo ist die Toilette?",
+   "back": "Where is the restroom?"
+  },
+  {
+   "id": "de_kostet",
+   "front": "Wie viel kostet das?",
+   "back": "How much does that cost?"
+  },
+  {
+   "id": "de_flughafen",
+   "front": "der Flughafen",
+   "back": "airport"
+  },
+  {
+   "id": "de_fahrkarte",
+   "front": "die Fahrkarte",
+   "back": "ticket"
+  },
+  {
+   "id": "de_links",
+   "front": "links",
+   "back": "left"
+  },
+  {
+   "id": "de_rechts",
+   "front": "rechts",
+   "back": "right"
+  },
+  {
+   "id": "de_geradeaus",
+   "front": "geradeaus",
+   "back": "straight ahead"
+  },
+  {
+   "id": "de_englisch",
+   "front": "Sprechen Sie Englisch?",
+   "back": "Do you speak English?"
+  },
+  {
+   "id": "de_kein_deutsch",
+   "front": "Ich spreche kein Deutsch",
+   "back": "I don’t speak German"
+  },
+  {
+   "id": "de_hilfe",
+   "front": "Hilfe!",
+   "back": "Help!"
+  }
+ ]
+}

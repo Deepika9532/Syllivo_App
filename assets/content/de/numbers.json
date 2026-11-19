@@ -1,0 +1,60 @@
+{
+ "id": "de_a1_numbers",
+ "lang": "de",
+ "level": "A1",
+ "title": "Numbers 1–10",
+ "order": 2,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_eins",
+   "front": "eins",
+   "back": "one"
+  },
+  {
+   "id": "de_zwei",
+   "front": "zwei",
+   "back": "two"
+  },
+  {
+   "id": "de_drei",
+   "front": "drei",
+   "back": "three"
+  },
+  {
+   "id": "de_vier",
+   "front": "vier",
+   "back": "four"
+  },
+  {
+   "id": "de_fuenf",
+   "front": "fünf",
+   "back": "five"
+  },
+  {
+   "id": "de_sechs",
+   "front": "sechs",
+   "back": "six"
+  },
+  {
+   "id": "de_sieben",
+   "front": "sieben",
+   "back": "seven"
+  },
+  {
+   "id": "de_acht",
+   "front": "acht",
+   "back": "eight"
+  },
+  {
+   "id": "de_neun",
+   "front": "neun",
+   "back": "nine"
+  },
+  {
+   "id": "de_zehn",
+   "front": "zehn",
+   "back": "ten"
+  }
+ ]
+}

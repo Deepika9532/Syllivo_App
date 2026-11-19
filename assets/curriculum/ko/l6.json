@@ -1,0 +1,1090 @@
+{
+ "id": "ko_l6",
+ "lang": "ko",
+ "code": "L6",
+ "order": 6,
+ "version": 1,
+ "title": "Advanced Proficiency",
+ "description": "Nuanced expression, advanced honorifics, idioms, natural conversation, academic and professional Korean, debate and advanced writing.",
+ "alignment": "Content aligned with TOPIK II, level 6. TOPIK tests reading and listening, plus writing in TOPIK II; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Nuanced expression",
+  "Advanced honorifics",
+  "Idiomatic expressions",
+  "Natural conversation",
+  "Academic & professional Korean",
+  "Complex debates",
+  "Advanced writing",
+  "TOPIK II advanced preparation"
+ ],
+ "modules": [
+  {
+   "id": "ko_l6_vocabulary",
+   "type": "vocabulary",
+   "title": "Idioms and proverbs",
+   "lessons": [
+    {
+     "id": "ko_l6_vocabulary_1",
+     "title": "Idioms and proverbs",
+     "summary": "Common idioms (관용어) and proverbs (속담) native speakers use.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Idioms are fixed: change a word and the meaning is lost. The literal meaning is shown under each one."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "발이 넓다",
+         "en": "to know many people",
+         "example": "literally: feet are wide"
+        },
+        {
+         "target": "눈이 높다",
+         "en": "to have high standards",
+         "example": "literally: eyes are high"
+        },
+        {
+         "target": "미역국을 먹다",
+         "en": "to fail an exam",
+         "example": "literally: to eat seaweed soup"
+        },
+        {
+         "target": "식은 죽 먹기",
+         "en": "a piece of cake (very easy)",
+         "example": "literally: eating cold porridge"
+        },
+        {
+         "target": "손이 크다",
+         "en": "to be generous (with portions)",
+         "example": "literally: hands are big"
+        },
+        {
+         "target": "가는 말이 고와야 오는 말이 곱다",
+         "en": "treat others as you want to be treated",
+         "example": "literally: kind words out, kind words back"
+        },
+        {
+         "target": "원숭이도 나무에서 떨어진다",
+         "en": "anyone can make mistakes",
+         "example": "literally: even monkeys fall from trees"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„발이 넓다“ means:",
+       "options": [
+        "to know many people",
+        "to walk fast",
+        "to have big feet"
+       ],
+       "answer": 0,
+       "explanation": "Wide network.",
+       "id": "ko_l6_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "눈이 높다",
+         "high standards"
+        ],
+        [
+         "식은 죽 먹기",
+         "very easy"
+        ],
+        [
+         "미역국을 먹다",
+         "to fail an exam"
+        ],
+        [
+         "손이 크다",
+         "generous"
+        ]
+       ],
+       "id": "ko_l6_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Someone made a rare mistake. You say:",
+       "options": [
+        "원숭이도 나무에서 떨어진다.",
+        "가는 말이 고와야 오는 말이 곱다.",
+        "식은 죽 먹기다."
+       ],
+       "answer": 0,
+       "explanation": "Even experts slip.",
+       "id": "ko_l6_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "그 시험은 식은 죽 ___였어요. (a piece of cake)",
+       "answers": [
+        "먹기"
+       ],
+       "explanation": "식은 죽 먹기.",
+       "id": "ko_l6_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_grammar",
+   "type": "grammar",
+   "title": "Advanced honorifics and nuanced endings",
+   "lessons": [
+    {
+     "id": "ko_l6_grammar_1",
+     "title": "Advanced honorifics and nuanced endings",
+     "summary": "Humble verbs and endings that add feeling: -더라고요, -잖아요, -거든요, -네요.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Plain",
+        "Humble / honorific",
+        "Use"
+       ],
+       "rows": [
+        [
+         "주다",
+         "드리다",
+         "give to a senior"
+        ],
+        [
+         "묻다",
+         "여쭙다 / 여쭈다",
+         "ask a senior"
+        ],
+        [
+         "보다 (meet)",
+         "뵙다",
+         "meet a senior"
+        ],
+        [
+         "말하다",
+         "말씀드리다",
+         "speak to a senior"
+        ],
+        [
+         "데리고 가다",
+         "모시고 가다",
+         "take/escort a senior"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "head": [
+        "Ending",
+        "Nuance",
+        "Example"
+       ],
+       "rows": [
+        [
+         "-더라고요",
+         "reporting what you personally saw/felt",
+         "그 식당 정말 맛있더라고요."
+        ],
+        [
+         "-잖아요",
+         "“you know …” (shared knowledge)",
+         "내일 시험이잖아요."
+        ],
+        [
+         "-거든요",
+         "giving background / reason",
+         "오늘 바쁘거든요."
+        ],
+        [
+         "-네요",
+         "realisation / surprise",
+         "한국어 잘하시네요!"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Humble form of „묻다“ (ask a professor):",
+       "options": [
+        "여쭙다",
+        "물으시다",
+        "말씀하다"
+       ],
+       "answer": 0,
+       "explanation": "여쭙다.",
+       "id": "ko_l6_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“I'll see you (a senior) tomorrow”:",
+       "options": [
+        "내일 뵙겠습니다.",
+        "내일 보겠어.",
+        "내일 보세요."
+       ],
+       "answer": 0,
+       "explanation": "뵙다.",
+       "id": "ko_l6_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "어제 가 봤는데 정말 좋___. (personal observation)",
+       "answers": [
+        "더라고요"
+       ],
+       "explanation": "-더라고요.",
+       "id": "ko_l6_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“Because I'm busy today, you see…” (background):",
+       "options": [
+        "오늘 바쁘거든요.",
+        "오늘 바쁘네요.",
+        "오늘 바쁘더라고요."
+       ],
+       "answer": 0,
+       "explanation": "-거든요 gives a reason.",
+       "id": "ko_l6_grammar_1_q4",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "교수님께 질문을 물어봤어요.",
+       "answers": [
+        "교수님께 질문을 여쭤봤어요.",
+        "교수님께 여쭤봤어요."
+       ],
+       "explanation": "Use 여쭙다 for a professor.",
+       "skill": "grammar",
+       "id": "ko_l6_grammar_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_reading",
+   "type": "reading",
+   "title": "Reading: an essay on honorific culture",
+   "lessons": [
+    {
+     "id": "ko_l6_reading_1",
+     "title": "Reading: an essay on honorific culture",
+     "summary": "Nuanced argumentation about language and society.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "높임말, 거리인가 존중인가",
+       "target": "높임말은 흔히 상대를 존중하는 장치로 여겨진다. 그러나 지나친 높임말은 오히려 사람 사이에 보이지 않는 벽을 쌓기도 한다. 실제로 일부 기업에서는 직급 대신 '님'이나 영어 이름을 쓰도록 해 수평적인 소통을 꾀하고 있다. 물론 이러한 변화가 위계 자체를 없애지는 못한다는 비판도 만만치 않다. 결국 언어 형식보다 중요한 것은 그 말에 담긴 태도일 것이다.",
+       "en": "Honorifics are often regarded as a device for respecting others. However, excessive honorifics can actually build invisible walls between people. In fact, some companies have people use '님' or English names instead of titles to encourage horizontal communication. Of course, criticism that such changes cannot remove hierarchy itself is considerable. In the end, what matters more than linguistic form is probably the attitude contained in the words."
+      },
+      {
+       "type": "tip",
+       "text": "만만치 않다 = considerable, not to be underestimated. -기도 하다 = can also / sometimes."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What can excessive honorifics do, according to the text?",
+       "options": [
+        "build invisible walls",
+        "remove hierarchy",
+        "improve grammar"
+       ],
+       "answer": 0,
+       "explanation": "보이지 않는 벽.",
+       "id": "ko_l6_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Why do some companies use '님' or English names?",
+       "options": [
+        "to encourage horizontal communication",
+        "to save time",
+        "to follow the law"
+       ],
+       "answer": 0,
+       "explanation": "수평적인 소통.",
+       "id": "ko_l6_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "The author's conclusion:",
+       "options": [
+        "attitude matters more than form",
+        "honorifics should be banned",
+        "titles are best"
+       ],
+       "answer": 0,
+       "explanation": "언어 형식보다 … 태도.",
+       "id": "ko_l6_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„비판도 만만치 않다“ means criticism is:",
+       "options": [
+        "considerable",
+        "weak",
+        "unfair"
+       ],
+       "answer": 0,
+       "explanation": "Not to be underestimated.",
+       "id": "ko_l6_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_writing",
+   "type": "writing",
+   "title": "Writing: an argumentative essay (TOPIK II Q54 style)",
+   "lessons": [
+    {
+     "id": "ko_l6_writing_1",
+     "title": "Writing: an argumentative essay (TOPIK II Q54 style)",
+     "summary": "A structured essay of 600–700 characters on a social issue.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Part",
+        "Expression"
+       ],
+       "rows": [
+        [
+         "Introduction",
+         "최근 …이/가 사회적 문제로 떠오르고 있다."
+        ],
+        [
+         "Argument",
+         "첫째, … 둘째, …"
+        ],
+        [
+         "Counter-view",
+         "물론 …다는 의견도 있다. 그러나 …"
+        ],
+        [
+         "Conclusion",
+         "따라서 …아/어야 할 것이다."
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "TOPIK II essays are marked on content, structure and language. Use plain -다 style throughout."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Write an argumentative essay (80+ words) on: “Should children under 13 be allowed smartphones?” Include a counter-view and a conclusion.",
+       "minWords": 80,
+       "keywords": [
+        "첫째|먼저",
+        "물론|반면",
+        "따라서|결론적으로"
+       ],
+       "sample": "최근 어린이의 스마트폰 사용이 사회적 문제로 떠오르고 있다. 나는 13세 미만 어린이의 스마트폰 사용을 제한해야 한다고 생각한다. 첫째, 지나친 사용은 수면과 집중력에 나쁜 영향을 미칠 수 있다. 둘째, 어린이는 유해한 정보로부터 스스로를 보호하기 어렵다. 물론 안전을 위해 연락 수단이 필요하다는 의견도 있다. 그러나 이는 기본 기능만 있는 휴대폰으로도 충분히 해결할 수 있다. 따라서 부모와 학교가 함께 올바른 사용 습관을 길러 주어야 할 것이다.",
+       "skill": "writing",
+       "id": "ko_l6_writing_1_q1"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which phrase introduces a counter-view?",
+       "options": [
+        "물론 …다는 의견도 있다.",
+        "따라서 …",
+        "첫째, …"
+       ],
+       "answer": 0,
+       "explanation": "Concession.",
+       "id": "ko_l6_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "fill",
+       "prompt": "따라서 우리는 대책을 마련해야 할 ___이다. (we should)",
+       "answers": [
+        "것"
+       ],
+       "explanation": "-아/어야 할 것이다.",
+       "id": "ko_l6_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_listening",
+   "type": "listening",
+   "title": "Listening: nuance and implication",
+   "lessons": [
+    {
+     "id": "ko_l6_listening_1",
+     "title": "Listening: nuance and implication",
+     "summary": "Understand indirect refusals, irony and attitude.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Korean often refuses indirectly: „생각해 볼게요“ (I'll think about it) frequently means no."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "그 제안은 좋은데요, 이번에는 좀 어려울 것 같아요.",
+       "prompt": "What is the speaker doing?",
+       "options": [
+        "politely declining",
+        "accepting",
+        "asking a question"
+       ],
+       "answer": 0,
+       "explanation": "Soft refusal.",
+       "skill": "listening",
+       "id": "ko_l6_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "역시 김 대리는 발이 넓네요. 모르는 사람이 없어요.",
+       "prompt": "What does the speaker mean about 김 대리?",
+       "options": [
+        "he knows many people",
+        "he walks a lot",
+        "he is tall"
+       ],
+       "answer": 0,
+       "explanation": "발이 넓다.",
+       "skill": "listening",
+       "id": "ko_l6_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "말씀하신 내용은 충분히 이해합니다만, 현실적으로 실행이 쉽지 않아 보입니다.",
+       "prompt": "The speaker thinks the idea is…",
+       "options": [
+        "understood but hard to implement",
+        "excellent and easy",
+        "unclear"
+       ],
+       "answer": 0,
+       "explanation": "-습니다만 = but (formal).",
+       "skill": "listening",
+       "id": "ko_l6_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "그렇게 쉬운 문제였으면 벌써 누군가 해결했겠죠.",
+       "prompt": "Speaker's attitude?",
+       "options": [
+        "sceptical: it's not that easy",
+        "enthusiastic",
+        "confused"
+       ],
+       "answer": 0,
+       "explanation": "Counterfactual + 겠죠.",
+       "skill": "listening",
+       "id": "ko_l6_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_speaking",
+   "type": "speaking",
+   "title": "Speaking: debate and diplomacy",
+   "lessons": [
+    {
+     "id": "ko_l6_speaking_1",
+     "title": "Speaking: debate and diplomacy",
+     "summary": "High-level discussion phrases.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "말씀하신 부분에 일리가 있다고 생각합니다.",
+       "en": "I think what you said makes sense."
+      },
+      {
+       "type": "example",
+       "target": "다만 한 가지 짚고 넘어가고 싶은 점이 있습니다.",
+       "en": "However, there's one point I'd like to address."
+      },
+      {
+       "type": "example",
+       "target": "그 문제는 좀 더 다각도로 검토할 필요가 있습니다.",
+       "en": "That issue needs to be examined from more angles."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "말씀하신 부분에 일리가 있다고 생각합니다.",
+       "translation": "I think what you said makes sense.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l6_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "다만 한 가지 짚고 넘어가고 싶은 점이 있습니다.",
+       "translation": "However, there's one point I'd like to address.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l6_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "그 문제는 좀 더 다각도로 검토할 필요가 있습니다.",
+       "translation": "That issue needs to be examined from more angles.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l6_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„일리가 있다“ means:",
+       "options": [
+        "to make sense / have a point",
+        "to be one mile away",
+        "to be wrong"
+       ],
+       "answer": 0,
+       "explanation": "Has a point.",
+       "id": "ko_l6_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_pronunciation",
+   "type": "pronunciation",
+   "title": "Natural intonation and ㄴ-insertion",
+   "lessons": [
+    {
+     "id": "ko_l6_pronunciation_1",
+     "title": "Natural intonation and ㄴ-insertion",
+     "summary": "Compound words that add a ㄴ sound, and sentence-final intonation.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Spelling",
+        "Pronounced",
+        "Note"
+       ],
+       "rows": [
+        [
+         "색연필",
+         "[생년필]",
+         "ㄴ inserted, then nasalisation"
+        ],
+        [
+         "한여름",
+         "[한녀름]",
+         "ㄴ inserted"
+        ],
+        [
+         "물약",
+         "[물략]",
+         "inserted ㄴ → ㄹ"
+        ],
+        [
+         "서울역",
+         "[서울력]",
+         "inserted ㄴ → ㄹ"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "-네요 rises slightly in surprise; -잖아요 often falls; -거든요 rises at the end when giving background."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "색연필",
+       "translation": "coloured pencil",
+       "prompt": "Say [생년필]",
+       "skill": "pronunciation",
+       "id": "ko_l6_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "서울역",
+       "translation": "Seoul Station",
+       "prompt": "Say [서울력]",
+       "skill": "pronunciation",
+       "id": "ko_l6_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "한국어 정말 잘하시네요!",
+       "translation": "Your Korean is really good!",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "ko_l6_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„한여름“ is pronounced:",
+       "options": [
+        "[한녀름]",
+        "[하녀름]",
+        "[한여름]"
+       ],
+       "answer": 0,
+       "explanation": "ㄴ-insertion.",
+       "id": "ko_l6_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_conversation",
+   "type": "conversation",
+   "title": "Conversation: a nuanced workplace discussion",
+   "lessons": [
+    {
+     "id": "ko_l6_conversation_1",
+     "title": "Conversation: a nuanced workplace discussion",
+     "summary": "Disagree and negotiate while preserving relationships.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "기획 회의",
+       "lines": [
+        {
+         "speaker": "팀장",
+         "target": "이번 프로젝트 일정은 다음 달 말까지로 하는 게 어떨까요?",
+         "en": "How about setting the project schedule to the end of next month?"
+        },
+        {
+         "speaker": "서연",
+         "target": "팀장님 말씀도 일리가 있지만, 인력을 고려하면 조금 빠듯할 것 같습니다.",
+         "en": "You have a point, but considering staffing, it seems a bit tight."
+        },
+        {
+         "speaker": "팀장",
+         "target": "그럼 우선순위를 다시 정해 볼까요?",
+         "en": "Then shall we re-prioritise?"
+        },
+        {
+         "speaker": "서연",
+         "target": "네, 그렇게 하면 일정을 맞출 수 있을 것 같습니다. 자료는 제가 정리해서 드리겠습니다.",
+         "en": "Yes, then we can probably meet the schedule. I'll organise the materials for you."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Seoyeon's concern:",
+       "options": [
+        "the schedule is tight given staffing",
+        "the budget is too high",
+        "the client is unhappy"
+       ],
+       "answer": 0,
+       "explanation": "빠듯하다 = tight.",
+       "id": "ko_l6_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "How does Seoyeon disagree?",
+       "options": [
+        "acknowledges, then gives a reason",
+        "refuses directly",
+        "changes the topic"
+       ],
+       "answer": 0,
+       "explanation": "일리가 있지만 …",
+       "id": "ko_l6_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "자료는",
+        "제가",
+        "정리해서",
+        "드리겠습니다."
+       ],
+       "translation": "I'll organise the materials and give them to you.",
+       "id": "ko_l6_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "우선순위를 다시 정해 ___? (shall we)",
+       "answers": [
+        "볼까요"
+       ],
+       "explanation": "-아/어 볼까요?",
+       "id": "ko_l6_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: Level 6",
+   "lessons": [
+    {
+     "id": "ko_l6_exercises_1",
+     "title": "Mixed practice: Level 6",
+     "summary": "Idioms, humble forms and nuance.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Nuance endings change attitude, not meaning. Choose the one that fits the situation."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "“You know, tomorrow's a holiday.”",
+       "options": [
+        "내일 휴일이잖아요.",
+        "내일 휴일이더라고요.",
+        "내일 휴일이네요."
+       ],
+       "answer": 0,
+       "explanation": "-잖아요.",
+       "id": "ko_l6_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "교수님을 내일 ___겠습니다. (meet, humble)",
+       "answers": [
+        "뵙"
+       ],
+       "explanation": "뵙다.",
+       "id": "ko_l6_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "Your Korean is really good!",
+       "answers": [
+        "한국어 정말 잘하시네요!",
+        "한국어를 정말 잘하시네요!"
+       ],
+       "explanation": "-시네요.",
+       "skill": "translation",
+       "id": "ko_l6_exercises_1_q3"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "발이 넓다",
+         "well-connected"
+        ],
+        [
+         "눈이 높다",
+         "picky"
+        ],
+        [
+         "식은 죽 먹기",
+         "very easy"
+        ],
+        [
+         "원숭이도 나무에서 떨어진다",
+         "anyone can err"
+        ]
+       ],
+       "id": "ko_l6_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "correction",
+       "prompt": "할아버지를 데리고 갔어요.",
+       "answers": [
+        "할아버지를 모시고 갔어요."
+       ],
+       "explanation": "Use 모시다 for elders.",
+       "skill": "grammar",
+       "id": "ko_l6_exercises_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l6_quiz",
+   "type": "quiz",
+   "title": "Level 6 quiz",
+   "lessons": [
+    {
+     "id": "ko_l6_quiz_1",
+     "title": "Level 6 quiz",
+     "summary": "Five questions across Level 6.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Several answers may be grammatical; choose the most natural."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„미역국을 먹었어요“ after an exam means:",
+       "options": [
+        "I failed",
+        "I celebrated",
+        "I was hungry"
+       ],
+       "answer": 0,
+       "explanation": "Idiom.",
+       "id": "ko_l6_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Humble form of „주다“:",
+       "options": [
+        "드리다",
+        "주시다",
+        "올리시다"
+       ],
+       "answer": 0,
+       "explanation": "드리다.",
+       "id": "ko_l6_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„-더라고요“ reports:",
+       "options": [
+        "something you personally experienced",
+        "a future plan",
+        "a command"
+       ],
+       "answer": 0,
+       "explanation": "Personal observation.",
+       "id": "ko_l6_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„서울역“ is pronounced:",
+       "options": [
+        "[서울력]",
+        "[서우력]",
+        "[서울역]"
+       ],
+       "answer": 0,
+       "explanation": "ㄴ-insertion → ㄹ.",
+       "id": "ko_l6_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„생각해 볼게요“ in a negotiation often means:",
+       "options": [
+        "a polite no",
+        "a definite yes",
+        "I'm confused"
+       ],
+       "answer": 0,
+       "explanation": "Indirect refusal.",
+       "id": "ko_l6_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„눈이 높다“ means:",
+   "options": [
+    "to have high standards",
+    "to be tall",
+    "to have good eyesight"
+   ],
+   "answer": 0,
+   "explanation": "Idiom.",
+   "skill": "vocabulary",
+   "id": "ko_l6_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„손이 크다“ describes someone who:",
+   "options": [
+    "is generous with portions",
+    "is a thief",
+    "is strong"
+   ],
+   "answer": 0,
+   "explanation": "Idiom.",
+   "skill": "vocabulary",
+   "id": "ko_l6_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To ask a professor (humble):",
+   "options": [
+    "교수님께 여쭤보겠습니다.",
+    "교수님한테 물어볼게.",
+    "교수님이 물어봐요."
+   ],
+   "answer": 0,
+   "explanation": "여쭙다.",
+   "skill": "grammar",
+   "id": "ko_l6_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Background reason ending:",
+   "options": [
+    "-거든요",
+    "-네요",
+    "-세요"
+   ],
+   "answer": 0,
+   "explanation": "-거든요.",
+   "skill": "grammar",
+   "id": "ko_l6_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "사장님을 공항까지 ___고 갔어요. (escort, humble)",
+   "answers": [
+    "모시"
+   ],
+   "explanation": "모시다.",
+   "skill": "grammar",
+   "id": "ko_l6_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "부모님께 선물을 줬어요.",
+   "answers": [
+    "부모님께 선물을 드렸어요."
+   ],
+   "explanation": "드리다 for parents.",
+   "skill": "grammar",
+   "id": "ko_l6_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „그의 제안은 참신하지만 현실성이 떨어진다는 평가를 받았다.“",
+   "options": [
+    "original but unrealistic",
+    "realistic but boring",
+    "rejected for cost"
+   ],
+   "answer": 0,
+   "explanation": "참신 vs 현실성.",
+   "skill": "reading",
+   "id": "ko_l6_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „이번 결정은 신중을 기했다기보다는 시간에 쫓긴 결과로 보인다.“ The decision seems…",
+   "options": [
+    "rushed",
+    "carefully considered",
+    "postponed"
+   ],
+   "answer": 0,
+   "explanation": "시간에 쫓긴 결과.",
+   "skill": "reading",
+   "id": "ko_l6_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "좋은 말씀 감사합니다만, 저희 입장에서는 수용하기 어렵습니다.",
+   "prompt": "What is the speaker doing?",
+   "options": [
+    "politely rejecting",
+    "accepting",
+    "apologising"
+   ],
+   "answer": 0,
+   "explanation": "수용하기 어렵다.",
+   "skill": "listening",
+   "id": "ko_l6_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "그 사람 정말 손이 크더라고요. 음식을 열 명분이나 준비했어요.",
+   "prompt": "What does the speaker say?",
+   "options": [
+    "the person prepared lots of food",
+    "the person has big hands",
+    "the person was late"
+   ],
+   "answer": 0,
+   "explanation": "손이 크다.",
+   "skill": "listening",
+   "id": "ko_l6_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "Anyone can make mistakes.",
+   "answers": [
+    "원숭이도 나무에서 떨어진다.",
+    "누구나 실수할 수 있다.",
+    "누구나 실수할 수 있어요."
+   ],
+   "explanation": "Proverb or plain statement.",
+   "skill": "writing",
+   "id": "ko_l6_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To acknowledge before disagreeing, formally:",
+   "options": [
+    "말씀하신 부분에 일리가 있지만 …",
+    "아니요, 틀렸어요.",
+    "몰라요."
+   ],
+   "answer": 0,
+   "explanation": "Diplomatic.",
+   "skill": "conversation",
+   "id": "ko_l6_exam_q12"
+  }
+ ]
+}

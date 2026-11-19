@@ -1,0 +1,66 @@
+{
+ "id": "de_a1_family",
+ "lang": "de",
+ "level": "A1",
+ "title": "Family",
+ "order": 4,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_familie",
+   "front": "die Familie",
+   "back": "family"
+  },
+  {
+   "id": "de_mutter",
+   "front": "die Mutter",
+   "back": "mother"
+  },
+  {
+   "id": "de_vater",
+   "front": "der Vater",
+   "back": "father"
+  },
+  {
+   "id": "de_eltern",
+   "front": "die Eltern",
+   "back": "parents"
+  },
+  {
+   "id": "de_bruder",
+   "front": "der Bruder",
+   "back": "brother",
+   "example": "Ich habe einen Bruder."
+  },
+  {
+   "id": "de_schwester",
+   "front": "die Schwester",
+   "back": "sister"
+  },
+  {
+   "id": "de_sohn",
+   "front": "der Sohn",
+   "back": "son"
+  },
+  {
+   "id": "de_tochter",
+   "front": "die Tochter",
+   "back": "daughter"
+  },
+  {
+   "id": "de_kind",
+   "front": "das Kind",
+   "back": "child"
+  },
+  {
+   "id": "de_grossmutter",
+   "front": "die Großmutter",
+   "back": "grandmother"
+  },
+  {
+   "id": "de_grossvater",
+   "front": "der Großvater",
+   "back": "grandfather"
+  }
+ ]
+}

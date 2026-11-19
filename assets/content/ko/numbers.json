@@ -1,0 +1,70 @@
+{
+ "id": "ko_b1_numbers",
+ "lang": "ko",
+ "level": "Beginner",
+ "title": "Sino-Korean Numbers 1–10",
+ "order": 4,
+ "version": 2,
+ "cards": [
+  {
+   "id": "ko_il",
+   "front": "일",
+   "romanization": "il",
+   "back": "one"
+  },
+  {
+   "id": "ko_i",
+   "front": "이",
+   "romanization": "i",
+   "back": "two"
+  },
+  {
+   "id": "ko_sam",
+   "front": "삼",
+   "romanization": "sam",
+   "back": "three"
+  },
+  {
+   "id": "ko_sa",
+   "front": "사",
+   "romanization": "sa",
+   "back": "four"
+  },
+  {
+   "id": "ko_o",
+   "front": "오",
+   "romanization": "o",
+   "back": "five"
+  },
+  {
+   "id": "ko_yuk",
+   "front": "육",
+   "romanization": "yuk",
+   "back": "six"
+  },
+  {
+   "id": "ko_chil",
+   "front": "칠",
+   "romanization": "chil",
+   "back": "seven"
+  },
+  {
+   "id": "ko_pal",
+   "front": "팔",
+   "romanization": "pal",
+   "back": "eight"
+  },
+  {
+   "id": "ko_gu",
+   "front": "구",
+   "romanization": "gu",
+   "back": "nine"
+  },
+  {
+   "id": "ko_sip",
+   "front": "십",
+   "romanization": "sip",
+   "back": "ten"
+  }
+ ]
+}

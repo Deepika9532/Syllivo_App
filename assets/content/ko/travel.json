@@ -1,0 +1,70 @@
+{
+ "id": "ko_b1_travel",
+ "lang": "ko",
+ "level": "Beginner",
+ "title": "Getting Around",
+ "order": 7,
+ "version": 1,
+ "cards": [
+  {
+   "id": "ko_hwajangsil",
+   "front": "화장실이 어디예요?",
+   "romanization": "hwajangsiri eodiyeyo?",
+   "back": "Where is the restroom?"
+  },
+  {
+   "id": "ko_eolma",
+   "front": "얼마예요?",
+   "romanization": "eolmayeyo?",
+   "back": "How much is it?"
+  },
+  {
+   "id": "ko_yeok",
+   "front": "역",
+   "romanization": "yeok",
+   "back": "station"
+  },
+  {
+   "id": "ko_jihacheol",
+   "front": "지하철",
+   "romanization": "jihacheol",
+   "back": "subway"
+  },
+  {
+   "id": "ko_beoseu",
+   "front": "버스",
+   "romanization": "beoseu",
+   "back": "bus"
+  },
+  {
+   "id": "ko_gonghang",
+   "front": "공항",
+   "romanization": "gonghang",
+   "back": "airport"
+  },
+  {
+   "id": "ko_oenjjok",
+   "front": "왼쪽",
+   "romanization": "oenjjok",
+   "back": "left"
+  },
+  {
+   "id": "ko_oreunjjok",
+   "front": "오른쪽",
+   "romanization": "oreunjjok",
+   "back": "right"
+  },
+  {
+   "id": "ko_dowajuseyo",
+   "front": "도와주세요",
+   "romanization": "dowajuseyo",
+   "back": "Please help me"
+  },
+  {
+   "id": "ko_jal_mot",
+   "front": "한국어 잘 못해요",
+   "romanization": "hangugeo jal mothaeyo",
+   "back": "I don’t speak Korean well"
+  }
+ ]
+}

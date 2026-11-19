@@ -1,0 +1,1239 @@
+{
+ "id": "de_a2",
+ "lang": "de",
+ "code": "A2",
+ "order": 2,
+ "version": 2,
+ "title": "Elementary",
+ "description": "Daily routines, shopping, restaurants and directions. Modal and separable verbs, accusative and dative, perfect tense and comparisons.",
+ "alignment": "Oriented to CEFR A2 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Daily routines",
+  "Shopping & restaurants",
+  "Travel & directions",
+  "Modal verbs",
+  "Accusative & dative",
+  "Separable verbs",
+  "Perfect tense",
+  "Comparative & superlative"
+ ],
+ "modules": [
+  {
+   "id": "de_a2_vocabulary",
+   "type": "vocabulary",
+   "title": "Daily routine & shopping",
+   "lessons": [
+    {
+     "id": "de_a2_vocabulary_1",
+     "title": "Daily routine & shopping",
+     "summary": "Words for your day, appointments and buying things.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "aufstehen",
+         "en": "to get up (separable)",
+         "pron": "OWF-shtay-en",
+         "example": "Ich stehe um 7 Uhr auf."
+        },
+        {
+         "target": "frühstücken",
+         "en": "to have breakfast"
+        },
+        {
+         "target": "einkaufen",
+         "en": "to go shopping (separable)"
+        },
+        {
+         "target": "die Kasse",
+         "en": "checkout / till"
+        },
+        {
+         "target": "das Angebot",
+         "en": "special offer"
+        },
+        {
+         "target": "billig",
+         "en": "cheap"
+        },
+        {
+         "target": "teuer",
+         "en": "expensive",
+         "pron": "TOY-er"
+        },
+        {
+         "target": "der Termin",
+         "en": "appointment"
+        },
+        {
+         "target": "pünktlich",
+         "en": "on time"
+        },
+        {
+         "target": "anprobieren",
+         "en": "to try on (clothes)"
+        },
+        {
+         "target": "die Größe",
+         "en": "size"
+        },
+        {
+         "target": "umtauschen",
+         "en": "to exchange (an item)"
+        }
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Separable verbs split in the present tense: aufstehen → Ich stehe … auf. The prefix goes to the end."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„teuer“ is the opposite of:",
+       "options": [
+        "billig",
+        "groß",
+        "pünktlich"
+       ],
+       "answer": 0,
+       "explanation": "teuer (expensive) ↔ billig (cheap).",
+       "id": "de_a2_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "die Kasse",
+         "checkout"
+        ],
+        [
+         "der Termin",
+         "appointment"
+        ],
+        [
+         "die Größe",
+         "size"
+        ],
+        [
+         "das Angebot",
+         "special offer"
+        ]
+       ],
+       "id": "de_a2_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Ich stehe um sieben Uhr ___. (aufstehen)",
+       "answers": [
+        "auf"
+       ],
+       "explanation": "The separable prefix auf goes to the end.",
+       "id": "de_a2_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Wo bezahlt man im Supermarkt?",
+       "options": [
+        "an der Kasse",
+        "im Angebot",
+        "in der Größe"
+       ],
+       "answer": 0,
+       "explanation": "an der Kasse = at the checkout.",
+       "id": "de_a2_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_grammar",
+   "type": "grammar",
+   "title": "Modal verbs, accusative and dative",
+   "lessons": [
+    {
+     "id": "de_a2_grammar_1",
+     "title": "Modal verbs, accusative and dative",
+     "summary": "Say what you can, must and want to do, and choose the right case.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "",
+        "können (can)",
+        "müssen (must)",
+        "wollen (want)",
+        "dürfen (may)"
+       ],
+       "rows": [
+        [
+         "ich",
+         "kann",
+         "muss",
+         "will",
+         "darf"
+        ],
+        [
+         "du",
+         "kannst",
+         "musst",
+         "willst",
+         "darfst"
+        ],
+        [
+         "er/sie/es",
+         "kann",
+         "muss",
+         "will",
+         "darf"
+        ],
+        [
+         "wir/sie/Sie",
+         "können",
+         "müssen",
+         "wollen",
+         "dürfen"
+        ]
+       ]
+      },
+      {
+       "type": "text",
+       "text": "A modal verb stands in position 2; the main verb goes to the END in the infinitive: Ich muss heute arbeiten."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Case",
+        "masc.",
+        "fem.",
+        "neut.",
+        "plural"
+       ],
+       "rows": [
+        [
+         "Nominative (subject)",
+         "der",
+         "die",
+         "das",
+         "die"
+        ],
+        [
+         "Accusative (direct object)",
+         "den",
+         "die",
+         "das",
+         "die"
+        ],
+        [
+         "Dative (indirect object)",
+         "dem",
+         "der",
+         "dem",
+         "den (+n)"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Always dative after: aus, bei, mit, nach, seit, von, zu. Always accusative after: durch, für, gegen, ohne, um."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Ich ___ heute nicht kommen. (können)",
+       "answers": [
+        "kann"
+       ],
+       "explanation": "ich kann; the infinitive kommen goes to the end.",
+       "id": "de_a2_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Ich sehe ___ Mann.",
+       "options": [
+        "der",
+        "den",
+        "dem"
+       ],
+       "answer": 1,
+       "explanation": "sehen takes a direct object → accusative den.",
+       "id": "de_a2_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Ich fahre mit ___ Bus.",
+       "options": [
+        "der",
+        "den",
+        "dem"
+       ],
+       "answer": 2,
+       "explanation": "mit + dative: dem Bus.",
+       "id": "de_a2_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "Ich muss morgen arbeite.",
+       "answers": [
+        "Ich muss morgen arbeiten."
+       ],
+       "explanation": "After a modal verb: infinitive (arbeiten) at the end.",
+       "skill": "grammar",
+       "id": "de_a2_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Kannst",
+        "du",
+        "mir",
+        "helfen?"
+       ],
+       "translation": "Can you help me?",
+       "id": "de_a2_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_reading",
+   "type": "reading",
+   "title": "Reading: an email from Vienna",
+   "lessons": [
+    {
+     "id": "de_a2_reading_1",
+     "title": "Reading: an email from Vienna",
+     "summary": "An informal email about a trip, using the perfect tense and comparisons.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "E-Mail von Jonas",
+       "target": "Liebe Sara, wie geht es dir? Letzte Woche bin ich nach Wien gefahren. Die Stadt ist schöner als Berlin, finde ich! Am Samstag habe ich das Schloss Schönbrunn besucht und am Abend haben wir in einem Restaurant gegessen. Das Essen war sehr lecker, aber teurer als in Berlin. Nächsten Monat möchte ich dich besuchen. Hast du Zeit? Viele Grüße, Jonas",
+       "en": "Dear Sara, how are you? Last week I went to Vienna. The city is more beautiful than Berlin, I think! On Saturday I visited Schönbrunn Palace and in the evening we ate in a restaurant. The food was very tasty but more expensive than in Berlin. Next month I'd like to visit you. Do you have time? Best wishes, Jonas"
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Wohin ist Jonas gefahren?",
+       "options": [
+        "Berlin",
+        "Wien",
+        "Salzburg"
+       ],
+       "answer": 1,
+       "explanation": "„bin ich nach Wien gefahren“.",
+       "id": "de_a2_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was hat er am Samstag besucht?",
+       "options": [
+        "ein Museum",
+        "das Schloss Schönbrunn",
+        "einen Freund"
+       ],
+       "answer": 1,
+       "explanation": "„habe ich das Schloss Schönbrunn besucht“.",
+       "id": "de_a2_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Wie war das Essen?",
+       "options": [
+        "billig und schlecht",
+        "lecker, aber teurer als in Berlin",
+        "nicht lecker"
+       ],
+       "answer": 1,
+       "explanation": "„sehr lecker, aber teurer als in Berlin“.",
+       "id": "de_a2_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was möchte Jonas nächsten Monat machen?",
+       "options": [
+        "Sara besuchen",
+        "nach Wien fahren",
+        "arbeiten"
+       ],
+       "answer": 0,
+       "explanation": "„möchte ich dich besuchen“.",
+       "id": "de_a2_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_writing",
+   "type": "writing",
+   "title": "Writing: an informal email",
+   "lessons": [
+    {
+     "id": "de_a2_writing_1",
+     "title": "Writing: an informal email",
+     "summary": "Greeting, past events in the perfect tense, a question and a closing.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Part",
+        "Informal email"
+       ],
+       "rows": [
+        [
+         "Greeting",
+         "Liebe Sara, / Lieber Tom, / Hallo Max,"
+        ],
+        [
+         "Opening",
+         "Wie geht es dir?"
+        ],
+        [
+         "Past events",
+         "Am Wochenende bin ich … gegangen / habe ich … gemacht."
+        ],
+        [
+         "Question",
+         "Was hast du gemacht?"
+        ],
+        [
+         "Closing",
+         "Viele Grüße / Liebe Grüße, [Name]"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Perfect tense = haben/sein + past participle at the end. Verbs of movement (gehen, fahren) use sein."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Write an email (5–7 sentences) to a friend about your last weekend. Use the perfect tense.",
+       "minWords": 35,
+       "keywords": [
+        "liebe|lieber|hallo",
+        "habe|bin",
+        "grüße"
+       ],
+       "sample": "Lieber Tom, wie geht es dir? Am Wochenende bin ich mit meiner Schwester ins Kino gegangen. Danach haben wir Pizza gegessen. Am Sonntag habe ich lange geschlafen und dann für die Prüfung gelernt. Was hast du gemacht? Liebe Grüße, Anna",
+       "skill": "writing",
+       "id": "de_a2_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "Am Sonntag ___ ich lange geschlafen. (haben)",
+       "answers": [
+        "habe"
+       ],
+       "explanation": "schlafen takes haben: ich habe geschlafen.",
+       "id": "de_a2_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which closing is informal?",
+       "options": [
+        "Mit freundlichen Grüßen",
+        "Liebe Grüße",
+        "Sehr geehrte Damen und Herren"
+       ],
+       "answer": 1,
+       "explanation": "Liebe Grüße is for friends.",
+       "id": "de_a2_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_listening",
+   "type": "listening",
+   "title": "Listening: directions and announcements",
+   "lessons": [
+    {
+     "id": "de_a2_listening_1",
+     "title": "Listening: directions and announcements",
+     "summary": "Understand directions in the street and announcements at the station.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "geradeaus",
+         "en": "straight ahead"
+        },
+        {
+         "target": "links abbiegen",
+         "en": "turn left"
+        },
+        {
+         "target": "rechts",
+         "en": "right"
+        },
+        {
+         "target": "die Ampel",
+         "en": "traffic lights"
+        },
+        {
+         "target": "die Kreuzung",
+         "en": "crossroads"
+        },
+        {
+         "target": "gegenüber",
+         "en": "opposite"
+        },
+        {
+         "target": "das Gleis",
+         "en": "platform / track"
+        }
+       ]
+      },
+      {
+       "type": "example",
+       "target": "Gehen Sie geradeaus und dann die zweite Straße links.",
+       "en": "Go straight on and then take the second street on the left."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Gehen Sie geradeaus bis zur Ampel und dann rechts.",
+       "prompt": "Where do you turn right?",
+       "options": [
+        "at the traffic lights",
+        "at the church",
+        "at the station"
+       ],
+       "answer": 0,
+       "explanation": "bis zur Ampel = as far as the traffic lights.",
+       "skill": "listening",
+       "id": "de_a2_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Der Zug nach Köln fährt heute von Gleis sieben ab.",
+       "prompt": "Which platform?",
+       "options": [
+        "1",
+        "7",
+        "11"
+       ],
+       "answer": 1,
+       "explanation": "Gleis sieben.",
+       "skill": "listening",
+       "id": "de_a2_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Die Apotheke ist gegenüber vom Bahnhof.",
+       "prompt": "Where is the pharmacy?",
+       "options": [
+        "next to the station",
+        "opposite the station",
+        "behind the station"
+       ],
+       "answer": 1,
+       "explanation": "gegenüber = opposite.",
+       "skill": "listening",
+       "id": "de_a2_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "Ich bin um acht Uhr aufgestanden und habe gefrühstückt.",
+       "prompt": "What did the speaker do?",
+       "options": [
+        "got up at 8 and had breakfast",
+        "went to work at 8",
+        "had dinner at 8"
+       ],
+       "answer": 0,
+       "explanation": "aufgestanden = got up; gefrühstückt = had breakfast.",
+       "skill": "listening",
+       "id": "de_a2_listening_1_q4"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “the train”?",
+       "options": [
+        "der Zug",
+        "der Bus",
+        "das Flugzeug",
+        "die Fahrkarte"
+       ],
+       "images": [
+        "train",
+        "bus",
+        "airplane",
+        "ticket"
+       ],
+       "answer": 0,
+       "explanation": "der Zug = the train.",
+       "skill": "vocabulary",
+       "id": "de_a2_listening_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_speaking",
+   "type": "speaking",
+   "title": "Speaking: shopping and asking for help",
+   "lessons": [
+    {
+     "id": "de_a2_speaking_1",
+     "title": "Speaking: shopping and asking for help",
+     "summary": "Phrases for shops and the street.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "Kann ich das anprobieren?",
+       "en": "Can I try this on?"
+      },
+      {
+       "type": "example",
+       "target": "Haben Sie das eine Nummer größer?",
+       "en": "Do you have this one size bigger?"
+      },
+      {
+       "type": "example",
+       "target": "Kann ich mit Karte zahlen?",
+       "en": "Can I pay by card?"
+      },
+      {
+       "type": "example",
+       "target": "Wie komme ich zum Bahnhof?",
+       "en": "How do I get to the station?"
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Kann ich das anprobieren?",
+       "translation": "Can I try this on?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a2_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Haben Sie das eine Nummer größer?",
+       "translation": "Do you have this one size bigger?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a2_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Wie komme ich zum Bahnhof?",
+       "translation": "How do I get to the station?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_a2_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "You want to pay by card. You ask:",
+       "options": [
+        "Kann ich mit Karte zahlen?",
+        "Ich habe Karte.",
+        "Wo ist die Karte?"
+       ],
+       "answer": 0,
+       "explanation": "mit Karte zahlen = pay by card.",
+       "id": "de_a2_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_pronunciation",
+   "type": "pronunciation",
+   "title": "Word stress and separable verbs",
+   "lessons": [
+    {
+     "id": "de_a2_pronunciation_1",
+     "title": "Word stress and separable verbs",
+     "summary": "Where the stress falls changes how natural you sound.",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "Most German words stress the first syllable: ARbeit, MORgen. Separable prefixes are stressed: ANrufen, AUFstehen, EINkaufen. Inseparable prefixes (be-, ver-, er-, ge-, ent-) are never stressed: beSUchen, verSTEhen."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Separable (stressed prefix)",
+        "Inseparable (unstressed prefix)"
+       ],
+       "rows": [
+        [
+         "ANrufen",
+         "beSUchen"
+        ],
+        [
+         "AUFstehen",
+         "verSTEhen"
+        ],
+        [
+         "EINkaufen",
+         "erZÄHlen"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "anrufen",
+       "translation": "to call",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a2_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "verstehen",
+       "translation": "to understand",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a2_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Ich stehe um sieben Uhr auf.",
+       "translation": "I get up at seven.",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_a2_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Where is the stress in „einkaufen“?",
+       "options": [
+        "EIN-kaufen",
+        "ein-KAU-fen",
+        "einkau-FEN"
+       ],
+       "answer": 0,
+       "explanation": "Separable prefixes carry the stress.",
+       "id": "de_a2_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_conversation",
+   "type": "conversation",
+   "title": "Conversation: ordering and paying in a restaurant",
+   "lessons": [
+    {
+     "id": "de_a2_conversation_1",
+     "title": "Conversation: ordering and paying in a restaurant",
+     "summary": "A complete restaurant visit.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Im Restaurant",
+       "lines": [
+        {
+         "speaker": "Kellnerin",
+         "target": "Haben Sie schon gewählt?",
+         "en": "Have you decided?"
+        },
+        {
+         "speaker": "Gast",
+         "target": "Ja, ich nehme die Tomatensuppe und danach das Schnitzel.",
+         "en": "Yes, I'll have the tomato soup and then the schnitzel."
+        },
+        {
+         "speaker": "Kellnerin",
+         "target": "Und zu trinken?",
+         "en": "And to drink?"
+        },
+        {
+         "speaker": "Gast",
+         "target": "Eine Apfelschorle, bitte.",
+         "en": "An apple spritzer, please."
+        },
+        {
+         "speaker": "Gast",
+         "target": "Die Rechnung, bitte.",
+         "en": "The bill, please."
+        },
+        {
+         "speaker": "Kellnerin",
+         "target": "Zusammen oder getrennt?",
+         "en": "Together or separately?"
+        },
+        {
+         "speaker": "Gast",
+         "target": "Getrennt, bitte.",
+         "en": "Separately, please."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„Zusammen oder getrennt?“ asks whether you want to:",
+       "options": [
+        "pay together or separately",
+        "sit inside or outside",
+        "eat now or later"
+       ],
+       "answer": 0,
+       "explanation": "Common question when paying in groups.",
+       "id": "de_a2_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "nehme",
+        "die",
+        "Tomatensuppe."
+       ],
+       "translation": "I'll have the tomato soup.",
+       "id": "de_a2_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Best reply to „Haben Sie schon gewählt?“",
+       "options": [
+        "Ja, ich nehme das Schnitzel.",
+        "Nein, ich bin müde.",
+        "Ja, ich wähle Berlin."
+       ],
+       "answer": 0,
+       "explanation": "nehmen = to have/take (when ordering).",
+       "id": "de_a2_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "Die ___, bitte. (bill)",
+       "answers": [
+        "Rechnung"
+       ],
+       "explanation": "die Rechnung = the bill.",
+       "id": "de_a2_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: perfect tense and comparison",
+   "lessons": [
+    {
+     "id": "de_a2_exercises_1",
+     "title": "Mixed practice: perfect tense and comparison",
+     "summary": "Talk about the past and compare things.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Infinitive",
+        "Perfect"
+       ],
+       "rows": [
+        [
+         "machen",
+         "hat gemacht"
+        ],
+        [
+         "spielen",
+         "hat gespielt"
+        ],
+        [
+         "essen",
+         "hat gegessen"
+        ],
+        [
+         "gehen",
+         "ist gegangen"
+        ],
+        [
+         "fahren",
+         "ist gefahren"
+        ],
+        [
+         "kommen",
+         "ist gekommen"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "head": [
+        "Base",
+        "Comparative",
+        "Superlative"
+       ],
+       "rows": [
+        [
+         "gut",
+         "besser",
+         "am besten"
+        ],
+        [
+         "groß",
+         "größer",
+         "am größten"
+        ],
+        [
+         "viel",
+         "mehr",
+         "am meisten"
+        ],
+        [
+         "gern",
+         "lieber",
+         "am liebsten"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Comparison: größer als = bigger than; so groß wie = as big as."
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Gestern ___ ich nach Hause gefahren. (sein)",
+       "answers": [
+        "bin"
+       ],
+       "explanation": "fahren uses sein.",
+       "id": "de_a2_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "Berlin ist ___ als Bonn. (groß)",
+       "answers": [
+        "größer",
+        "groesser"
+       ],
+       "explanation": "groß → größer (with umlaut).",
+       "id": "de_a2_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Perfect of „essen“:",
+       "options": [
+        "hat gegessen",
+        "ist gegessen",
+        "hat geessen"
+       ],
+       "answer": 0,
+       "explanation": "essen → hat gegessen.",
+       "id": "de_a2_exercises_1_q3",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "I prefer tea to coffee.",
+       "answers": [
+        "Ich trinke lieber Tee als Kaffee.",
+        "Ich mag Tee lieber als Kaffee."
+       ],
+       "explanation": "lieber … als = rather … than.",
+       "skill": "translation",
+       "id": "de_a2_exercises_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "habe",
+        "gestern",
+        "Fußball",
+        "gespielt."
+       ],
+       "translation": "I played football yesterday.",
+       "id": "de_a2_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_a2_quiz",
+   "type": "quiz",
+   "title": "A2 quiz",
+   "lessons": [
+    {
+     "id": "de_a2_quiz_1",
+     "title": "A2 quiz",
+     "summary": "Five questions across A2.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Watch for case endings and the position of the verb."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Ich gebe ___ Frau das Buch.",
+       "options": [
+        "die",
+        "der",
+        "den"
+       ],
+       "answer": 1,
+       "explanation": "Indirect object → dative: der Frau.",
+       "id": "de_a2_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Perfect of „gehen“:",
+       "options": [
+        "hat gegangen",
+        "ist gegangen",
+        "ist gegeht"
+       ],
+       "answer": 1,
+       "explanation": "Movement → sein; irregular participle gegangen.",
+       "id": "de_a2_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Du ___ hier nicht rauchen. (not allowed)",
+       "options": [
+        "darfst",
+        "musst",
+        "kannst"
+       ],
+       "answer": 0,
+       "explanation": "nicht dürfen = not allowed.",
+       "id": "de_a2_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Comparative of „gut“:",
+       "options": [
+        "guter",
+        "besser",
+        "am besten"
+       ],
+       "answer": 1,
+       "explanation": "gut – besser – am besten.",
+       "id": "de_a2_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Separable verb: „Ich ___ dich morgen ___.“ (anrufen)",
+       "options": [
+        "rufe … an",
+        "anrufe … –",
+        "rufe … auf"
+       ],
+       "answer": 0,
+       "explanation": "Ich rufe dich morgen an.",
+       "id": "de_a2_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„pünktlich“ means:",
+   "options": [
+    "on time",
+    "cheap",
+    "tired"
+   ],
+   "answer": 0,
+   "explanation": "pünktlich = punctual/on time.",
+   "skill": "vocabulary",
+   "id": "de_a2_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Where do you try on clothes?",
+   "options": [
+    "in der Umkleidekabine",
+    "an der Kasse",
+    "am Gleis"
+   ],
+   "answer": 0,
+   "explanation": "die Umkleidekabine = fitting room.",
+   "skill": "vocabulary",
+   "id": "de_a2_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Ich gehe ohne ___ Freund.",
+   "options": [
+    "mein",
+    "meinen",
+    "meinem"
+   ],
+   "answer": 1,
+   "explanation": "ohne + accusative: meinen.",
+   "skill": "grammar",
+   "id": "de_a2_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Ich wohne bei ___ Eltern.",
+   "options": [
+    "meine",
+    "meinen",
+    "meiner"
+   ],
+   "answer": 1,
+   "explanation": "bei + dative plural: meinen Eltern.",
+   "skill": "grammar",
+   "id": "de_a2_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "Wir ___ am Montag arbeiten. (müssen)",
+   "answers": [
+    "müssen"
+   ],
+   "explanation": "wir müssen.",
+   "skill": "grammar",
+   "id": "de_a2_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "Ich habe nach Hamburg gefahren.",
+   "answers": [
+    "Ich bin nach Hamburg gefahren."
+   ],
+   "explanation": "fahren (movement) uses sein.",
+   "skill": "grammar",
+   "id": "de_a2_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Der Laden öffnet um 9 Uhr, aber am Samstag erst um 10 Uhr.“ When does it open on Saturday?",
+   "options": [
+    "9:00",
+    "10:00",
+    "it is closed"
+   ],
+   "answer": 1,
+   "explanation": "erst um 10 Uhr = not until 10.",
+   "skill": "reading",
+   "id": "de_a2_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Die Jacke kostet 80 Euro. Heute gibt es 20 % Rabatt.“ What is special today?",
+   "options": [
+    "a 20% discount",
+    "a free jacket",
+    "the shop is closed"
+   ],
+   "answer": 0,
+   "explanation": "Rabatt = discount.",
+   "skill": "reading",
+   "id": "de_a2_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Der Bus Nummer zwölf fährt alle zehn Minuten.",
+   "prompt": "How often does bus 12 run?",
+   "options": [
+    "every 10 minutes",
+    "every 12 minutes",
+    "at 10 o'clock"
+   ],
+   "answer": 0,
+   "explanation": "alle zehn Minuten = every ten minutes.",
+   "skill": "listening",
+   "id": "de_a2_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "Biegen Sie an der Kreuzung links ab.",
+   "prompt": "What should you do at the crossroads?",
+   "options": [
+    "turn left",
+    "turn right",
+    "go straight on"
+   ],
+   "answer": 0,
+   "explanation": "links abbiegen = turn left.",
+   "skill": "listening",
+   "id": "de_a2_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "I have to work today.",
+   "answers": [
+    "Ich muss heute arbeiten.",
+    "Heute muss ich arbeiten."
+   ],
+   "explanation": "Modal in position 2, infinitive at the end.",
+   "skill": "writing",
+   "id": "de_a2_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "At the end of a meal you say:",
+   "options": [
+    "Die Rechnung, bitte.",
+    "Guten Appetit!",
+    "Haben Sie gewählt?"
+   ],
+   "answer": 0,
+   "explanation": "Ask for the bill.",
+   "skill": "conversation",
+   "id": "de_a2_exam_q12"
+  }
+ ]
+}

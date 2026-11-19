@@ -1,0 +1,65 @@
+{
+ "id": "de_a1_days",
+ "lang": "de",
+ "level": "A1",
+ "title": "Days & Time",
+ "order": 6,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_montag",
+   "front": "Montag",
+   "back": "Monday"
+  },
+  {
+   "id": "de_dienstag",
+   "front": "Dienstag",
+   "back": "Tuesday"
+  },
+  {
+   "id": "de_mittwoch",
+   "front": "Mittwoch",
+   "back": "Wednesday"
+  },
+  {
+   "id": "de_donnerstag",
+   "front": "Donnerstag",
+   "back": "Thursday"
+  },
+  {
+   "id": "de_freitag",
+   "front": "Freitag",
+   "back": "Friday"
+  },
+  {
+   "id": "de_samstag",
+   "front": "Samstag",
+   "back": "Saturday"
+  },
+  {
+   "id": "de_sonntag",
+   "front": "Sonntag",
+   "back": "Sunday"
+  },
+  {
+   "id": "de_heute",
+   "front": "heute",
+   "back": "today"
+  },
+  {
+   "id": "de_morgen",
+   "front": "morgen",
+   "back": "tomorrow"
+  },
+  {
+   "id": "de_gestern",
+   "front": "gestern",
+   "back": "yesterday"
+  },
+  {
+   "id": "de_uhr",
+   "front": "Wie spät ist es?",
+   "back": "What time is it?"
+  }
+ ]
+}

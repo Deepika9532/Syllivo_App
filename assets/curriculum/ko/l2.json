@@ -1,0 +1,1219 @@
+{
+ "id": "ko_l2",
+ "lang": "ko",
+ "code": "L2",
+ "order": 2,
+ "version": 2,
+ "title": "Beginner",
+ "description": "Everyday conversations, particles, basic sentence structure, present/past/future, polite speech, family, food and shopping.",
+ "alignment": "Content aligned with TOPIK I, levels 1–2. TOPIK tests reading and listening; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Everyday conversations",
+  "Particles",
+  "Subject & object markers",
+  "Sentence structure",
+  "Present, past & future",
+  "Polite speech",
+  "Family, food & shopping",
+  "Basic listening & reading"
+ ],
+ "modules": [
+  {
+   "id": "ko_l2_vocabulary",
+   "type": "vocabulary",
+   "title": "Family, food and shopping",
+   "lessons": [
+    {
+     "id": "ko_l2_vocabulary_1",
+     "title": "Family, food and shopping",
+     "summary": "Everyday nouns and verbs for daily life.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "가족",
+         "en": "family",
+         "pron": "ga-jok"
+        },
+        {
+         "target": "어머니",
+         "en": "mother",
+         "pron": "eo-meo-ni"
+        },
+        {
+         "target": "아버지",
+         "en": "father",
+         "pron": "a-beo-ji"
+        },
+        {
+         "target": "동생",
+         "en": "younger sibling",
+         "pron": "dong-saeng"
+        },
+        {
+         "target": "음식",
+         "en": "food",
+         "pron": "eum-sik"
+        },
+        {
+         "target": "물",
+         "en": "water",
+         "pron": "mul"
+        },
+        {
+         "target": "사다",
+         "en": "to buy",
+         "pron": "sa-da"
+        },
+        {
+         "target": "먹다",
+         "en": "to eat",
+         "pron": "meok-da"
+        },
+        {
+         "target": "마시다",
+         "en": "to drink",
+         "pron": "ma-si-da"
+        },
+        {
+         "target": "가다",
+         "en": "to go",
+         "pron": "ga-da"
+        },
+        {
+         "target": "가게",
+         "en": "shop",
+         "pron": "ga-ge"
+        },
+        {
+         "target": "비싸다",
+         "en": "to be expensive",
+         "pron": "bi-ssa-da"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„먹다“ means:",
+       "options": [
+        "to eat",
+        "to drink",
+        "to go"
+       ],
+       "answer": 0,
+       "explanation": "먹다 = eat.",
+       "id": "ko_l2_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "어머니",
+         "mother"
+        ],
+        [
+         "동생",
+         "younger sibling"
+        ],
+        [
+         "가게",
+         "shop"
+        ],
+        [
+         "물",
+         "water"
+        ]
+       ],
+       "id": "ko_l2_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Opposite of „비싸다“:",
+       "options": [
+        "싸다",
+        "크다",
+        "작다"
+       ],
+       "answer": 0,
+       "explanation": "싸다 = cheap.",
+       "id": "ko_l2_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "물을 ___. (drink: dictionary form)",
+       "answers": [
+        "마시다"
+       ],
+       "explanation": "마시다 = to drink.",
+       "id": "ko_l2_vocabulary_1_q4",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “water”?",
+       "options": [
+        "물",
+        "밥",
+        "고기",
+        "과일"
+       ],
+       "images": [
+        "water",
+        "rice",
+        "meat",
+        "fruit"
+       ],
+       "answer": 0,
+       "explanation": "물 = water.",
+       "skill": "vocabulary",
+       "id": "ko_l2_vocabulary_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_grammar",
+   "type": "grammar",
+   "title": "Particles and tenses (polite style)",
+   "lessons": [
+    {
+     "id": "ko_l2_grammar_1",
+     "title": "Particles and tenses (polite style)",
+     "summary": "은/는, 이/가, 을/를, 에/에서 and -아요/어요, -았/었어요, -(으)ㄹ 거예요.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Particles"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Particle",
+        "After consonant / vowel",
+        "Function",
+        "Example"
+       ],
+       "rows": [
+        [
+         "topic",
+         "은 / 는",
+         "as for …",
+         "저는 학생이에요."
+        ],
+        [
+         "subject",
+         "이 / 가",
+         "new info / who does it",
+         "동생이 와요."
+        ],
+        [
+         "object",
+         "을 / 를",
+         "what is acted on",
+         "밥을 먹어요."
+        ],
+        [
+         "place (destination/time)",
+         "에",
+         "to / at (time)",
+         "학교에 가요."
+        ],
+        [
+         "place (action)",
+         "에서",
+         "at (where it happens)",
+         "집에서 공부해요."
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Polite present -아요/어요"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Rule",
+        "Dictionary form",
+        "Polite present"
+       ],
+       "rows": [
+        [
+         "last vowel ㅏ/ㅗ → 아요",
+         "가다",
+         "가요"
+        ],
+        [
+         "other vowels → 어요",
+         "먹다",
+         "먹어요"
+        ],
+        [
+         "하다 → 해요",
+         "공부하다",
+         "공부해요"
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Past and future"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Tense",
+        "Form",
+        "Example"
+       ],
+       "rows": [
+        [
+         "Past",
+         "-았/었어요, 했어요",
+         "먹었어요 (ate)"
+        ],
+        [
+         "Future / plan",
+         "-(으)ㄹ 거예요",
+         "갈 거예요 (will go)"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "저___ 커피를 마셔요.",
+       "options": [
+        "는",
+        "은"
+       ],
+       "answer": 0,
+       "explanation": "저 ends in a vowel → 는.",
+       "id": "ko_l2_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "밥___ 먹어요.",
+       "options": [
+        "을",
+        "를"
+       ],
+       "answer": 0,
+       "explanation": "밥 ends in a consonant → 을.",
+       "id": "ko_l2_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "I study at home: 집___ 공부해요.",
+       "options": [
+        "에서",
+        "에"
+       ],
+       "answer": 0,
+       "explanation": "Action location → 에서.",
+       "id": "ko_l2_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "어제 영화를 ___. (보다, past)",
+       "answers": [
+        "봤어요",
+        "보았어요"
+       ],
+       "explanation": "보다 → 봤어요.",
+       "id": "ko_l2_grammar_1_q4",
+       "skill": "grammar"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "내일",
+        "친구를",
+        "만날",
+        "거예요."
+       ],
+       "explanation": "Future: -(으)ㄹ 거예요.",
+       "translation": "I'll meet a friend tomorrow.",
+       "id": "ko_l2_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_reading",
+   "type": "reading",
+   "title": "Reading: Jiyu's weekend",
+   "lessons": [
+    {
+     "id": "ko_l2_reading_1",
+     "title": "Reading: Jiyu's weekend",
+     "summary": "A short diary using past and future tenses.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "주말",
+       "target": "지난 주말에 저는 가족하고 시장에 갔어요. 시장에서 과일하고 생선을 샀어요. 과일이 아주 싸고 맛있었어요. 저녁에 집에서 어머니하고 요리했어요. 다음 주말에는 친구하고 영화를 볼 거예요.",
+       "en": "Last weekend I went to the market with my family. At the market we bought fruit and fish. The fruit was very cheap and tasty. In the evening I cooked at home with my mother. Next weekend I'm going to watch a film with a friend."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "시장",
+         "en": "market",
+         "pron": "si-jang"
+        },
+        {
+         "target": "과일",
+         "en": "fruit",
+         "pron": "gwa-il"
+        },
+        {
+         "target": "생선",
+         "en": "fish (food)",
+         "pron": "saeng-seon"
+        },
+        {
+         "target": "-하고",
+         "en": "and / with",
+         "pron": "ha-go"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Where did they go last weekend?",
+       "options": [
+        "a market",
+        "a cinema",
+        "a school"
+       ],
+       "answer": 0,
+       "explanation": "시장에 갔어요.",
+       "id": "ko_l2_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What did they buy?",
+       "options": [
+        "fruit and fish",
+        "meat and rice",
+        "clothes"
+       ],
+       "answer": 0,
+       "explanation": "과일하고 생선.",
+       "id": "ko_l2_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What will the writer do next weekend?",
+       "options": [
+        "watch a film with a friend",
+        "cook with mother",
+        "go to the market"
+       ],
+       "answer": 0,
+       "explanation": "영화를 볼 거예요.",
+       "id": "ko_l2_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "How was the fruit?",
+       "options": [
+        "cheap and tasty",
+        "expensive",
+        "not fresh"
+       ],
+       "answer": 0,
+       "explanation": "싸고 맛있었어요.",
+       "id": "ko_l2_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_writing",
+   "type": "writing",
+   "title": "Writing: my day",
+   "lessons": [
+    {
+     "id": "ko_l2_writing_1",
+     "title": "Writing: my day",
+     "summary": "Describe your day with times, places and particles.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "저는 일곱 시에 일어나요.",
+       "en": "I get up at seven.",
+       "pron": "jeo-neun il-gop si-e i-reo-na-yo"
+      },
+      {
+       "type": "example",
+       "target": "회사에서 일해요.",
+       "en": "I work at the company."
+      },
+      {
+       "type": "example",
+       "target": "저녁에 친구하고 밥을 먹었어요.",
+       "en": "In the evening I ate with a friend."
+      },
+      {
+       "type": "tip",
+       "text": "Hours use native Korean numbers (한 시, 두 시, 세 시 …); minutes use Sino-Korean (십 분, 삼십 분)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Write 4–5 sentences about what you did yesterday. Use -았/었어요 and at least two particles.",
+       "minWords": 12,
+       "keywords": [
+        "을|를",
+        "에|에서",
+        "었어요|았어요|했어요"
+       ],
+       "sample": "어제 저는 아침 여덟 시에 일어났어요. 회사에서 일했어요. 점심에 동료하고 비빔밥을 먹었어요. 저녁에는 집에서 한국어를 공부했어요.",
+       "skill": "writing",
+       "id": "ko_l2_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "저는 아홉 시___ 학교에 가요. (at nine)",
+       "answers": [
+        "에"
+       ],
+       "explanation": "Time + 에.",
+       "id": "ko_l2_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“I worked at the company”:",
+       "options": [
+        "회사에서 일했어요.",
+        "회사에 일했어요.",
+        "회사를 일했어요."
+       ],
+       "answer": 0,
+       "explanation": "Place of action → 에서.",
+       "id": "ko_l2_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_listening",
+   "type": "listening",
+   "title": "Listening: shopping and plans",
+   "lessons": [
+    {
+     "id": "ko_l2_listening_1",
+     "title": "Listening: shopping and plans",
+     "summary": "Native numbers for counting things; Sino-Korean for prices.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Native number",
+        "Counting things (개)"
+       ],
+       "rows": [
+        [
+         "하나",
+         "한 개"
+        ],
+        [
+         "둘",
+         "두 개"
+        ],
+        [
+         "셋",
+         "세 개"
+        ],
+        [
+         "넷",
+         "네 개"
+        ],
+        [
+         "다섯",
+         "다섯 개"
+        ]
+       ]
+      },
+      {
+       "type": "example",
+       "target": "사과 세 개 주세요.",
+       "en": "Three apples, please."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "사과 세 개 주세요.",
+       "prompt": "How many apples?",
+       "options": [
+        "3",
+        "2",
+        "4"
+       ],
+       "answer": 0,
+       "explanation": "세 개 = three items.",
+       "skill": "listening",
+       "id": "ko_l2_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "이 가방은 만 오천 원이에요.",
+       "prompt": "How much is the bag?",
+       "options": [
+        "15,000 won",
+        "50,000 won",
+        "1,500 won"
+       ],
+       "answer": 0,
+       "explanation": "만 오천 = 15,000.",
+       "skill": "listening",
+       "id": "ko_l2_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "내일 친구하고 도서관에 갈 거예요.",
+       "prompt": "What will the speaker do tomorrow?",
+       "options": [
+        "go to the library with a friend",
+        "go shopping alone",
+        "stay home"
+       ],
+       "answer": 0,
+       "explanation": "도서관 = library.",
+       "skill": "listening",
+       "id": "ko_l2_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "어제 비가 와서 집에 있었어요.",
+       "prompt": "What did the speaker do yesterday?",
+       "options": [
+        "stayed at home",
+        "went out",
+        "went to work"
+       ],
+       "answer": 0,
+       "explanation": "집에 있었어요.",
+       "skill": "listening",
+       "id": "ko_l2_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_speaking",
+   "type": "speaking",
+   "title": "Speaking: in a shop and a restaurant",
+   "lessons": [
+    {
+     "id": "ko_l2_speaking_1",
+     "title": "Speaking: in a shop and a restaurant",
+     "summary": "Ask, order and pay politely.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "이거 얼마예요?",
+       "en": "How much is this?"
+      },
+      {
+       "type": "example",
+       "target": "비빔밥 하나 주세요.",
+       "en": "One bibimbap, please."
+      },
+      {
+       "type": "example",
+       "target": "카드로 계산할게요.",
+       "en": "I'll pay by card."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "이거 얼마예요?",
+       "translation": "How much is this?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l2_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "비빔밥 하나 주세요.",
+       "translation": "One bibimbap, please.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l2_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "카드로 계산할게요.",
+       "translation": "I'll pay by card.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l2_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "To ask for something politely you add:",
+       "options": [
+        "주세요",
+        "있어요",
+        "가요"
+       ],
+       "answer": 0,
+       "explanation": "N + 주세요 = please give me N.",
+       "id": "ko_l2_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_pronunciation",
+   "type": "pronunciation",
+   "title": "Plain, tense and aspirated consonants",
+   "lessons": [
+    {
+     "id": "ko_l2_pronunciation_1",
+     "title": "Plain, tense and aspirated consonants",
+     "summary": "ㄱ/ㄲ/ㅋ, ㄷ/ㄸ/ㅌ, ㅂ/ㅃ/ㅍ, ㅈ/ㅉ/ㅊ, ㅅ/ㅆ — the hardest contrast for learners.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Plain (soft)",
+        "Tense (tight, no breath)",
+        "Aspirated (strong breath)"
+       ],
+       "rows": [
+        [
+         "가 (ga)",
+         "까 (kka)",
+         "카 (ka)"
+        ],
+        [
+         "다 (da)",
+         "따 (tta)",
+         "타 (ta)"
+        ],
+        [
+         "바 (ba)",
+         "빠 (ppa)",
+         "파 (pa)"
+        ],
+        [
+         "자 (ja)",
+         "짜 (jja)",
+         "차 (cha)"
+        ],
+        [
+         "사 (sa)",
+         "싸 (ssa)",
+         "—"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Hold a tissue in front of your mouth: it should move a lot for 카, a little for 가, and not at all for 까."
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "불",
+       "translation": "fire",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "ko_l2_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "뿔",
+       "translation": "horn",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "ko_l2_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "풀",
+       "translation": "grass",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "ko_l2_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which syllable is aspirated?",
+       "options": [
+        "타",
+        "다",
+        "따"
+       ],
+       "answer": 0,
+       "explanation": "ㅌ is aspirated.",
+       "id": "ko_l2_pronunciation_1_q4",
+       "skill": "pronunciation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„싸다“ (cheap) vs „사다“ (buy): the difference is:",
+       "options": [
+        "tense ㅆ vs plain ㅅ",
+        "vowel length",
+        "tone"
+       ],
+       "answer": 0,
+       "explanation": "ㅆ is tense.",
+       "id": "ko_l2_pronunciation_1_q5",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_conversation",
+   "type": "conversation",
+   "title": "Conversation: ordering food",
+   "lessons": [
+    {
+     "id": "ko_l2_conversation_1",
+     "title": "Conversation: ordering food",
+     "summary": "A complete restaurant exchange in polite style.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "식당에서",
+       "lines": [
+        {
+         "speaker": "직원",
+         "target": "어서 오세요. 몇 분이세요?",
+         "en": "Welcome. How many people?",
+         "pron": "eo-seo o-se-yo. myeot bun-i-se-yo"
+        },
+        {
+         "speaker": "손님",
+         "target": "두 명이에요.",
+         "en": "Two people.",
+         "pron": "du myeong-i-e-yo"
+        },
+        {
+         "speaker": "직원",
+         "target": "뭐 드릴까요?",
+         "en": "What can I get you?",
+         "pron": "mwo deu-ril-kka-yo"
+        },
+        {
+         "speaker": "손님",
+         "target": "김치찌개 하나하고 불고기 하나 주세요.",
+         "en": "One kimchi stew and one bulgogi, please.",
+         "pron": "gim-chi-jji-gae ha-na-ha-go bul-go-gi ha-na ju-se-yo"
+        },
+        {
+         "speaker": "손님",
+         "target": "여기 계산해 주세요.",
+         "en": "The bill, please.",
+         "pron": "yeo-gi gye-san-hae ju-se-yo"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„몇 분이세요?“ asks:",
+       "options": [
+        "how many people",
+        "what time",
+        "what you want"
+       ],
+       "answer": 0,
+       "explanation": "몇 분 = how many people (honorific).",
+       "id": "ko_l2_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "불고기",
+        "하나",
+        "주세요."
+       ],
+       "translation": "One bulgogi, please.",
+       "id": "ko_l2_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "To ask for the bill:",
+       "options": [
+        "계산해 주세요.",
+        "어서 오세요.",
+        "맛있게 드세요."
+       ],
+       "answer": 0,
+       "explanation": "계산 = paying the bill.",
+       "id": "ko_l2_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "두 ___이에요. (people, counter)",
+       "answers": [
+        "명"
+       ],
+       "explanation": "명 counts people.",
+       "id": "ko_l2_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: particles and tenses",
+   "lessons": [
+    {
+     "id": "ko_l2_exercises_1",
+     "title": "Mixed practice: particles and tenses",
+     "summary": "Choose the right particle and tense.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Ask: Is it the topic (은/는)? the doer (이/가)? the object (을/를)? a destination (에) or where the action happens (에서)?"
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "동생___ 학교에 가요. (new information: my sibling)",
+       "options": [
+        "이",
+        "가"
+       ],
+       "answer": 0,
+       "explanation": "동생 ends in ㅇ → 이.",
+       "id": "ko_l2_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "커피___ 마셔요.",
+       "answers": [
+        "를"
+       ],
+       "explanation": "커피 ends in a vowel → 를.",
+       "id": "ko_l2_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "I went to the market.",
+       "answers": [
+        "시장에 갔어요.",
+        "저는 시장에 갔어요."
+       ],
+       "explanation": "가다 → 갔어요.",
+       "skill": "translation",
+       "id": "ko_l2_exercises_1_q3"
+      },
+      {
+       "type": "correction",
+       "prompt": "어제 친구를 만날 거예요.",
+       "answers": [
+        "어제 친구를 만났어요."
+       ],
+       "explanation": "어제 (yesterday) needs past tense.",
+       "skill": "grammar",
+       "id": "ko_l2_exercises_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "저는",
+        "도서관에서",
+        "공부해요."
+       ],
+       "translation": "I study at the library.",
+       "id": "ko_l2_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l2_quiz",
+   "type": "quiz",
+   "title": "Level 2 quiz",
+   "lessons": [
+    {
+     "id": "ko_l2_quiz_1",
+     "title": "Level 2 quiz",
+     "summary": "Five questions across Level 2.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Check consonant/vowel endings before choosing a particle."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "물___ 마셔요.",
+       "options": [
+        "을",
+        "를"
+       ],
+       "answer": 0,
+       "explanation": "물 ends in ㄹ → 을.",
+       "id": "ko_l2_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Polite present of „먹다“:",
+       "options": [
+        "먹어요",
+        "먹아요",
+        "먹해요"
+       ],
+       "answer": 0,
+       "explanation": "ㅓ vowel → 어요.",
+       "id": "ko_l2_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Future of „가다“:",
+       "options": [
+        "갈 거예요",
+        "갔어요",
+        "가요"
+       ],
+       "answer": 0,
+       "explanation": "-(으)ㄹ 거예요.",
+       "id": "ko_l2_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Counter for people:",
+       "options": [
+        "명",
+        "개",
+        "권"
+       ],
+       "answer": 0,
+       "explanation": "명.",
+       "id": "ko_l2_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„주세요“ means:",
+       "options": [
+        "please give me",
+        "it is",
+        "goodbye"
+       ],
+       "answer": 0,
+       "explanation": "Request.",
+       "id": "ko_l2_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„아버지“ means:",
+   "options": [
+    "father",
+    "mother",
+    "brother"
+   ],
+   "answer": 0,
+   "explanation": "아버지 = father.",
+   "skill": "vocabulary",
+   "id": "ko_l2_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„사다“ means:",
+   "options": [
+    "to buy",
+    "to live",
+    "to go"
+   ],
+   "answer": 0,
+   "explanation": "사다 = buy.",
+   "skill": "vocabulary",
+   "id": "ko_l2_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "학교___ 가요. (to school)",
+   "options": [
+    "에",
+    "에서",
+    "를"
+   ],
+   "answer": 0,
+   "explanation": "Destination → 에.",
+   "skill": "grammar",
+   "id": "ko_l2_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "식당___ 밥을 먹어요. (at the restaurant)",
+   "options": [
+    "에서",
+    "에",
+    "이"
+   ],
+   "answer": 0,
+   "explanation": "Action location → 에서.",
+   "skill": "grammar",
+   "id": "ko_l2_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "어제 책을 ___. (읽다, past)",
+   "answers": [
+    "읽었어요"
+   ],
+   "explanation": "읽다 → 읽었어요.",
+   "skill": "grammar",
+   "id": "ko_l2_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "저는 사과를 먹아요.",
+   "answers": [
+    "저는 사과를 먹어요."
+   ],
+   "explanation": "먹다 → 먹어요.",
+   "skill": "grammar",
+   "id": "ko_l2_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „오늘은 바빠요. 내일 전화할 거예요.“ When will the writer call?",
+   "options": [
+    "tomorrow",
+    "today",
+    "yesterday"
+   ],
+   "answer": 0,
+   "explanation": "내일.",
+   "skill": "reading",
+   "id": "ko_l2_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „이 식당은 싸고 맛있어요.“ The restaurant is…",
+   "options": [
+    "cheap and tasty",
+    "expensive",
+    "closed"
+   ],
+   "answer": 0,
+   "explanation": "싸고 맛있어요.",
+   "skill": "reading",
+   "id": "ko_l2_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "커피 두 잔 주세요.",
+   "prompt": "How many coffees?",
+   "options": [
+    "2",
+    "1",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "두 잔 = two cups.",
+   "skill": "listening",
+   "id": "ko_l2_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "어제 집에서 쉬었어요.",
+   "prompt": "What did the speaker do yesterday?",
+   "options": [
+    "rested at home",
+    "worked",
+    "travelled"
+   ],
+   "answer": 0,
+   "explanation": "쉬었어요 = rested.",
+   "skill": "listening",
+   "id": "ko_l2_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "I eat rice.",
+   "answers": [
+    "밥을 먹어요.",
+    "저는 밥을 먹어요."
+   ],
+   "explanation": "Object particle 을.",
+   "skill": "writing",
+   "id": "ko_l2_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "At a restaurant, to order bulgogi:",
+   "options": [
+    "불고기 주세요.",
+    "불고기예요.",
+    "불고기 있어요?"
+   ],
+   "answer": 0,
+   "explanation": "N 주세요.",
+   "skill": "conversation",
+   "id": "ko_l2_exam_q12"
+  }
+ ]
+}

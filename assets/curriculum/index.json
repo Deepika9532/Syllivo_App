@@ -1,0 +1,18 @@
+{
+ "de": [
+  "assets/curriculum/de/a1.json",
+  "assets/curriculum/de/a2.json",
+  "assets/curriculum/de/b1.json",
+  "assets/curriculum/de/b2.json",
+  "assets/curriculum/de/c1.json",
+  "assets/curriculum/de/c2.json"
+ ],
+ "ko": [
+  "assets/curriculum/ko/l1.json",
+  "assets/curriculum/ko/l2.json",
+  "assets/curriculum/ko/l3.json",
+  "assets/curriculum/ko/l4.json",
+  "assets/curriculum/ko/l5.json",
+  "assets/curriculum/ko/l6.json"
+ ]
+}

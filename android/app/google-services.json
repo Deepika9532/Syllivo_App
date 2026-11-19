@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579024269602",
+    "project_id": "syllivo-language-app",
+    "storage_bucket": "syllivo-language-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579024269602:android:e90de998c1cf8713e0b57b",
+        "android_client_info": {
+          "package_name": "com.example.syllivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgHkT9cMj9ZoIEfQnnw5GkNE1m-NAKjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579024269602:android:37042fb8829ee810e0b57b",
+        "android_client_info": {
+          "package_name": "com.lingo.lingo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgHkT9cMj9ZoIEfQnnw5GkNE1m-NAKjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

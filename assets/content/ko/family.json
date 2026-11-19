@@ -1,0 +1,82 @@
+{
+ "id": "ko_b1_family",
+ "lang": "ko",
+ "level": "Beginner",
+ "title": "Family",
+ "order": 6,
+ "version": 1,
+ "cards": [
+  {
+   "id": "ko_gajok",
+   "front": "가족",
+   "romanization": "gajok",
+   "back": "family"
+  },
+  {
+   "id": "ko_eomma",
+   "front": "엄마",
+   "romanization": "eomma",
+   "back": "mom"
+  },
+  {
+   "id": "ko_appa",
+   "front": "아빠",
+   "romanization": "appa",
+   "back": "dad"
+  },
+  {
+   "id": "ko_eomeoni",
+   "front": "어머니",
+   "romanization": "eomeoni",
+   "back": "mother (polite)"
+  },
+  {
+   "id": "ko_abeoji",
+   "front": "아버지",
+   "romanization": "abeoji",
+   "back": "father (polite)"
+  },
+  {
+   "id": "ko_hyeong",
+   "front": "형",
+   "romanization": "hyeong",
+   "back": "older brother (said by a male)"
+  },
+  {
+   "id": "ko_oppa",
+   "front": "오빠",
+   "romanization": "oppa",
+   "back": "older brother (said by a female)"
+  },
+  {
+   "id": "ko_nuna",
+   "front": "누나",
+   "romanization": "nuna",
+   "back": "older sister (said by a male)"
+  },
+  {
+   "id": "ko_eonni",
+   "front": "언니",
+   "romanization": "eonni",
+   "back": "older sister (said by a female)"
+  },
+  {
+   "id": "ko_dongsaeng",
+   "front": "동생",
+   "romanization": "dongsaeng",
+   "back": "younger sibling"
+  },
+  {
+   "id": "ko_halmeoni",
+   "front": "할머니",
+   "romanization": "halmeoni",
+   "back": "grandmother"
+  },
+  {
+   "id": "ko_harabeoji",
+   "front": "할아버지",
+   "romanization": "harabeoji",
+   "back": "grandfather"
+  }
+ ]
+}

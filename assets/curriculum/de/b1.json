@@ -1,0 +1,1202 @@
+{
+ "id": "de_b1",
+ "lang": "de",
+ "code": "B1",
+ "order": 3,
+ "version": 2,
+ "title": "Intermediate",
+ "description": "Independent conversations about work, education, health and travel. Subordinate and relative clauses, Präteritum and Konjunktiv II.",
+ "alignment": "Oriented to CEFR B1 descriptors. Practice content, not an official certification.",
+ "topics": [
+  "Work & education",
+  "Health & appointments",
+  "Travel experiences",
+  "Opinions & explanations",
+  "Präteritum",
+  "Subordinate clauses",
+  "Relative clauses",
+  "Konjunktiv II"
+ ],
+ "modules": [
+  {
+   "id": "de_b1_vocabulary",
+   "type": "vocabulary",
+   "title": "Work, education and health",
+   "lessons": [
+    {
+     "id": "de_b1_vocabulary_1",
+     "title": "Work, education and health",
+     "summary": "Vocabulary for applications, training and visiting the doctor.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "die Bewerbung",
+         "en": "job application"
+        },
+        {
+         "target": "das Vorstellungsgespräch",
+         "en": "job interview"
+        },
+        {
+         "target": "die Erfahrung",
+         "en": "experience"
+        },
+        {
+         "target": "die Ausbildung",
+         "en": "vocational training"
+        },
+        {
+         "target": "kündigen",
+         "en": "to resign / give notice"
+        },
+        {
+         "target": "die Krankenversicherung",
+         "en": "health insurance"
+        },
+        {
+         "target": "die Überweisung",
+         "en": "referral (medical) / bank transfer"
+        },
+        {
+         "target": "sich krankmelden",
+         "en": "to call in sick"
+        },
+        {
+         "target": "die Sprechstunde",
+         "en": "consultation hours"
+        },
+        {
+         "target": "verschreiben",
+         "en": "to prescribe"
+        },
+        {
+         "target": "die Weiterbildung",
+         "en": "further training"
+        },
+        {
+         "target": "das Zeugnis",
+         "en": "certificate / reference"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Ein „Vorstellungsgespräch“ ist:",
+       "options": [
+        "a job interview",
+        "a presentation",
+        "a phone call"
+       ],
+       "answer": 0,
+       "explanation": "sich vorstellen = to introduce oneself.",
+       "id": "de_b1_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "die Bewerbung",
+         "application"
+        ],
+        [
+         "kündigen",
+         "to resign"
+        ],
+        [
+         "die Erfahrung",
+         "experience"
+        ],
+        [
+         "verschreiben",
+         "to prescribe"
+        ]
+       ],
+       "id": "de_b1_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "Ich habe Fieber und muss mich heute ___. (call in sick)",
+       "answers": [
+        "krankmelden"
+       ],
+       "explanation": "sich krankmelden = to call in sick.",
+       "id": "de_b1_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Der Arzt ___ mir ein Medikament.",
+       "options": [
+        "verschreibt",
+        "kündigt",
+        "bewirbt"
+       ],
+       "answer": 0,
+       "explanation": "verschreiben = to prescribe.",
+       "id": "de_b1_vocabulary_1_q4",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “the medicine”?",
+       "options": [
+        "der Arzt",
+        "das Medikament",
+        "der Computer",
+        "das Geld"
+       ],
+       "images": [
+        "doctor",
+        "medicine",
+        "computer",
+        "money"
+       ],
+       "answer": 1,
+       "explanation": "das Medikament = the medicine; der Arzt = the doctor.",
+       "skill": "vocabulary",
+       "id": "de_b1_vocabulary_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_grammar",
+   "type": "grammar",
+   "title": "Subordinate clauses, relative clauses, Präteritum and Konjunktiv II",
+   "lessons": [
+    {
+     "id": "de_b1_grammar_1",
+     "title": "Subordinate clauses, relative clauses, Präteritum and Konjunktiv II",
+     "summary": "The structures that let you explain, connect and speculate.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Subordinate clauses"
+      },
+      {
+       "type": "text",
+       "text": "After weil (because), dass (that), obwohl (although), wenn (if/when), ob (whether) the conjugated verb goes to the END."
+      },
+      {
+       "type": "example",
+       "target": "Ich lerne Deutsch, weil ich in Berlin arbeiten möchte.",
+       "en": "I'm learning German because I want to work in Berlin."
+      },
+      {
+       "type": "heading",
+       "text": "Relative clauses"
+      },
+      {
+       "type": "table",
+       "head": [
+        "",
+        "masc.",
+        "fem.",
+        "neut.",
+        "plural"
+       ],
+       "rows": [
+        [
+         "Nominative",
+         "der",
+         "die",
+         "das",
+         "die"
+        ],
+        [
+         "Accusative",
+         "den",
+         "die",
+         "das",
+         "die"
+        ],
+        [
+         "Dative",
+         "dem",
+         "der",
+         "dem",
+         "denen"
+        ]
+       ]
+      },
+      {
+       "type": "example",
+       "target": "Das ist der Mann, den ich gestern gesehen habe.",
+       "en": "That's the man (whom) I saw yesterday."
+      },
+      {
+       "type": "heading",
+       "text": "Präteritum (simple past) — mainly in writing and for sein, haben, modals"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Infinitive",
+        "ich / er"
+       ],
+       "rows": [
+        [
+         "sein",
+         "war"
+        ],
+        [
+         "haben",
+         "hatte"
+        ],
+        [
+         "gehen",
+         "ging"
+        ],
+        [
+         "kommen",
+         "kam"
+        ],
+        [
+         "machen",
+         "machte"
+        ],
+        [
+         "können",
+         "konnte"
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Konjunktiv II — wishes, polite requests, hypotheses"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Use",
+        "Form",
+        "Example"
+       ],
+       "rows": [
+        [
+         "most verbs",
+         "würde + infinitive",
+         "Ich würde gern reisen."
+        ],
+        [
+         "haben",
+         "hätte",
+         "Wenn ich Zeit hätte, …"
+        ],
+        [
+         "sein",
+         "wäre",
+         "Das wäre toll."
+        ],
+        [
+         "können",
+         "könnte",
+         "Könnten Sie mir helfen?"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "komme",
+        "nicht,",
+        "weil",
+        "ich",
+        "krank",
+        "bin."
+       ],
+       "explanation": "After weil the verb goes to the end.",
+       "translation": "I'm not coming because I'm ill.",
+       "id": "de_b1_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Das ist der Mann, ___ ich gestern gesehen habe.",
+       "options": [
+        "der",
+        "den",
+        "dem"
+       ],
+       "answer": 1,
+       "explanation": "Object of sehen, masculine → den.",
+       "id": "de_b1_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "Wenn ich Zeit ___, würde ich mehr reisen. (haben)",
+       "answers": [
+        "hätte"
+       ],
+       "explanation": "Konjunktiv II of haben: hätte.",
+       "id": "de_b1_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "Ich weiß, dass er kommt morgen.",
+       "answers": [
+        "Ich weiß, dass er morgen kommt."
+       ],
+       "explanation": "Verb at the end of the dass-clause.",
+       "skill": "grammar",
+       "id": "de_b1_grammar_1_q4"
+      },
+      {
+       "type": "fill",
+       "prompt": "Als Kind ___ ich in Köln. (wohnen, Präteritum)",
+       "answers": [
+        "wohnte"
+       ],
+       "explanation": "Regular verbs: stem + -te.",
+       "id": "de_b1_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_reading",
+   "type": "reading",
+   "title": "Reading: working from home",
+   "lessons": [
+    {
+     "id": "de_b1_reading_1",
+     "title": "Reading: working from home",
+     "summary": "An article-style text with opinions and contrast.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "Homeoffice – Fluch oder Segen?",
+       "target": "Seit einigen Jahren arbeiten viele Menschen in Deutschland teilweise im Homeoffice. Die meisten Beschäftigten schätzen die Flexibilität, weil sie keine Zeit im Verkehr verlieren. Andere vermissen jedoch den Kontakt zu ihren Kolleginnen und Kollegen. Viele Firmen bieten deshalb ein Modell an, bei dem man zwei oder drei Tage pro Woche ins Büro kommt. Fachleute meinen, dass dieses hybride Modell auch in Zukunft beliebt bleiben wird.",
+       "en": "For some years many people in Germany have worked partly from home. Most employees value the flexibility because they don't lose time in traffic. Others, however, miss contact with their colleagues. Many companies therefore offer a model in which you come to the office two or three days a week. Experts think this hybrid model will remain popular in the future."
+      },
+      {
+       "type": "tip",
+       "text": "Signal words help you follow an argument: jedoch (however), deshalb (therefore), weil (because)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Warum mögen viele das Homeoffice?",
+       "options": [
+        "Sie verlieren keine Zeit im Verkehr.",
+        "Sie verdienen mehr Geld.",
+        "Sie haben mehr Kollegen."
+       ],
+       "answer": 0,
+       "explanation": "„weil sie keine Zeit im Verkehr verlieren“.",
+       "id": "de_b1_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was vermissen manche?",
+       "options": [
+        "den Kontakt zu Kollegen",
+        "das Mittagessen",
+        "ihren Computer"
+       ],
+       "answer": 0,
+       "explanation": "„vermissen … den Kontakt“.",
+       "id": "de_b1_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Was ist das „hybride Modell“ im Text?",
+       "options": [
+        "nur Homeoffice",
+        "teils Büro, teils zu Hause",
+        "nur Büro"
+       ],
+       "answer": 1,
+       "explanation": "Two or three days a week in the office.",
+       "id": "de_b1_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„jedoch“ shows:",
+       "options": [
+        "a contrast",
+        "a reason",
+        "a time"
+       ],
+       "answer": 0,
+       "explanation": "jedoch = however.",
+       "id": "de_b1_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_writing",
+   "type": "writing",
+   "title": "Writing: giving your opinion",
+   "lessons": [
+    {
+     "id": "de_b1_writing_1",
+     "title": "Writing: giving your opinion",
+     "summary": "Structure a short opinion text with advantages and disadvantages.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Function",
+        "Phrase"
+       ],
+       "rows": [
+        [
+         "Give an opinion",
+         "Meiner Meinung nach … / Ich bin der Meinung, dass …"
+        ],
+        [
+         "Contrast",
+         "Einerseits … andererseits …"
+        ],
+        [
+         "Advantage",
+         "Ein Vorteil ist, dass …"
+        ],
+        [
+         "Disadvantage",
+         "Ein Nachteil ist, dass …"
+        ],
+        [
+         "Conclude",
+         "Insgesamt finde ich …"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "After „Meiner Meinung nach“ the verb comes next (position 2): Meiner Meinung nach IST das praktisch."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Is working from home a good idea? Give your opinion with at least one advantage and one disadvantage (60+ words).",
+       "minWords": 60,
+       "keywords": [
+        "meinung|finde|denke",
+        "vorteil|einerseits",
+        "nachteil|andererseits",
+        "weil|dass"
+       ],
+       "sample": "Meiner Meinung nach ist das Homeoffice eine gute Idee, aber nicht für jeden. Ein Vorteil ist, dass man keine Zeit im Verkehr verliert und flexibler arbeiten kann. Ein Nachteil ist, dass man die Kollegen seltener sieht. Andererseits kann man sich zu Hause oft besser konzentrieren. Insgesamt finde ich ein hybrides Modell am besten, weil es beide Vorteile verbindet.",
+       "skill": "writing",
+       "id": "de_b1_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "Meiner Meinung ___ ist das praktisch.",
+       "answers": [
+        "nach"
+       ],
+       "explanation": "Meiner Meinung nach = in my opinion.",
+       "id": "de_b1_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which phrase introduces a disadvantage?",
+       "options": [
+        "Ein Nachteil ist, dass …",
+        "Ein Vorteil ist, dass …",
+        "Zum Beispiel …"
+       ],
+       "answer": 0,
+       "explanation": "Nachteil = disadvantage.",
+       "id": "de_b1_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_listening",
+   "type": "listening",
+   "title": "Listening: at the doctor's",
+   "lessons": [
+    {
+     "id": "de_b1_listening_1",
+     "title": "Listening: at the doctor's",
+     "summary": "Appointments, opening hours and instructions.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "In der Praxis",
+       "lines": [
+        {
+         "speaker": "Ärztin",
+         "target": "Was fehlt Ihnen denn?",
+         "en": "What's the matter?"
+        },
+        {
+         "speaker": "Patient",
+         "target": "Ich habe seit drei Tagen Halsschmerzen und Fieber.",
+         "en": "I've had a sore throat and fever for three days."
+        },
+        {
+         "speaker": "Ärztin",
+         "target": "Ich verschreibe Ihnen ein Medikament. Bleiben Sie zwei Tage zu Hause.",
+         "en": "I'll prescribe you some medicine. Stay at home for two days."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "Die Praxis ist am Mittwochnachmittag geschlossen.",
+       "prompt": "When is the practice closed?",
+       "options": [
+        "Wednesday afternoon",
+        "Monday morning",
+        "all day Wednesday"
+       ],
+       "answer": 0,
+       "explanation": "Mittwochnachmittag = Wednesday afternoon.",
+       "skill": "listening",
+       "id": "de_b1_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "Nehmen Sie die Tabletten dreimal täglich nach dem Essen.",
+       "prompt": "How should the tablets be taken?",
+       "options": [
+        "three times a day after meals",
+        "twice a day before meals",
+        "once a day"
+       ],
+       "answer": 0,
+       "explanation": "dreimal täglich nach dem Essen.",
+       "skill": "listening",
+       "id": "de_b1_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "Ich hätte gern einen Termin für nächste Woche, am liebsten vormittags.",
+       "prompt": "What does the caller want?",
+       "options": [
+        "an appointment next week, ideally in the morning",
+        "an appointment today",
+        "to cancel an appointment"
+       ],
+       "answer": 0,
+       "explanation": "am liebsten vormittags = preferably in the morning.",
+       "skill": "listening",
+       "id": "de_b1_listening_1_q3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_speaking",
+   "type": "speaking",
+   "title": "Speaking: appointments and opinions",
+   "lessons": [
+    {
+     "id": "de_b1_speaking_1",
+     "title": "Speaking: appointments and opinions",
+     "summary": "Polite requests and clear opinions.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "Ich würde gern einen Termin vereinbaren.",
+       "en": "I'd like to make an appointment."
+      },
+      {
+       "type": "example",
+       "target": "Könnten Sie das bitte wiederholen?",
+       "en": "Could you repeat that, please?"
+      },
+      {
+       "type": "example",
+       "target": "Ich bin der Meinung, dass wir mehr Zeit brauchen.",
+       "en": "I think we need more time."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "Ich würde gern einen Termin vereinbaren.",
+       "translation": "I'd like to make an appointment.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b1_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "Ich bin der Meinung, dass wir mehr Zeit brauchen.",
+       "translation": "I think we need more time.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b1_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "Könnten Sie das bitte wiederholen?",
+       "translation": "Could you repeat that, please?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "de_b1_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which request is polite?",
+       "options": [
+        "Könnten Sie mir helfen?",
+        "Helfen Sie mir!",
+        "Du hilfst mir."
+       ],
+       "answer": 0,
+       "explanation": "Konjunktiv II (könnten) makes requests polite.",
+       "id": "de_b1_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_pronunciation",
+   "type": "pronunciation",
+   "title": "Vowel length and final devoicing",
+   "lessons": [
+    {
+     "id": "de_b1_pronunciation_1",
+     "title": "Vowel length and final devoicing",
+     "summary": "Long vs short vowels change meaning; final b, d, g sound like p, t, k.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Long vowel",
+        "Short vowel"
+       ],
+       "rows": [
+        [
+         "der Staat (state)",
+         "die Stadt (city)"
+        ],
+        [
+         "die Miete (rent)",
+         "die Mitte (middle)"
+        ],
+        [
+         "der Ofen (oven)",
+         "offen (open)"
+        ]
+       ]
+      },
+      {
+       "type": "text",
+       "text": "A doubled consonant after a vowel usually means the vowel is short (Mitte). A vowel + h or a double vowel is long (Sohn, Staat)."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Written",
+        "Sounds like"
+       ],
+       "rows": [
+        [
+         "Hund",
+         "Hunt"
+        ],
+        [
+         "Tag",
+         "Tak"
+        ],
+        [
+         "gelb",
+         "gelp"
+        ],
+        [
+         "wichtig",
+         "wichtich"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "die Miete",
+       "translation": "the rent",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b1_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "die Mitte",
+       "translation": "the middle",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b1_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "Der Hund ist wichtig.",
+       "translation": "The dog is important.",
+       "prompt": "",
+       "skill": "pronunciation",
+       "id": "de_b1_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "In „Tag“, the final g sounds like:",
+       "options": [
+        "k",
+        "g",
+        "ch"
+       ],
+       "answer": 0,
+       "explanation": "Final devoicing: g → k.",
+       "id": "de_b1_pronunciation_1_q4",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_conversation",
+   "type": "conversation",
+   "title": "Conversation: a job interview",
+   "lessons": [
+    {
+     "id": "de_b1_conversation_1",
+     "title": "Conversation: a job interview",
+     "summary": "Typical questions and strong answers.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "Im Vorstellungsgespräch",
+       "lines": [
+        {
+         "speaker": "Interviewer",
+         "target": "Erzählen Sie etwas über sich.",
+         "en": "Tell me about yourself."
+        },
+        {
+         "speaker": "Bewerberin",
+         "target": "Ich habe Informatik studiert und arbeite seit drei Jahren als Entwicklerin.",
+         "en": "I studied computer science and have worked as a developer for three years."
+        },
+        {
+         "speaker": "Interviewer",
+         "target": "Warum möchten Sie bei uns arbeiten?",
+         "en": "Why do you want to work for us?"
+        },
+        {
+         "speaker": "Bewerberin",
+         "target": "Weil Ihre Firma innovative Projekte macht und ich mich weiterentwickeln möchte.",
+         "en": "Because your company does innovative projects and I want to develop further."
+        },
+        {
+         "speaker": "Interviewer",
+         "target": "Was sind Ihre Stärken?",
+         "en": "What are your strengths?"
+        },
+        {
+         "speaker": "Bewerberin",
+         "target": "Ich bin zuverlässig und arbeite gern im Team.",
+         "en": "I'm reliable and like working in a team."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Best answer to „Warum möchten Sie bei uns arbeiten?“",
+       "options": [
+        "Weil Ihre Projekte mich interessieren.",
+        "Ich habe Hunger.",
+        "Ich wohne in Berlin."
+       ],
+       "answer": 0,
+       "explanation": "Give a reason related to the company.",
+       "id": "de_b1_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Ich",
+        "arbeite",
+        "gern",
+        "im",
+        "Team."
+       ],
+       "translation": "I like working in a team.",
+       "id": "de_b1_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "Ich arbeite ___ drei Jahren als Entwicklerin. (for)",
+       "answers": [
+        "seit"
+       ],
+       "explanation": "seit + dative for a duration continuing now.",
+       "id": "de_b1_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„zuverlässig“ means:",
+       "options": [
+        "reliable",
+        "creative",
+        "ambitious"
+       ],
+       "answer": 0,
+       "explanation": "zuverlässig = reliable.",
+       "id": "de_b1_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: B1 structures",
+   "lessons": [
+    {
+     "id": "de_b1_exercises_1",
+     "title": "Mixed practice: B1 structures",
+     "summary": "Clauses, relative pronouns and Konjunktiv II together.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Check three things: Is the verb at the end of the subordinate clause? Is the relative pronoun's case right? Is it a real or imagined situation?"
+      }
+     ],
+     "questions": [
+      {
+       "type": "fill",
+       "prompt": "Ich weiß nicht, ___ er heute kommt. (whether)",
+       "answers": [
+        "ob"
+       ],
+       "explanation": "ob = whether (yes/no).",
+       "id": "de_b1_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "Das ist die Frau, ___ ich geholfen habe.",
+       "answers": [
+        "der"
+       ],
+       "explanation": "helfen takes the dative: der (feminine).",
+       "id": "de_b1_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "If I were rich, I would travel.",
+       "answers": [
+        "Wenn ich reich wäre, würde ich reisen."
+       ],
+       "explanation": "wäre + würde … reisen.",
+       "skill": "translation",
+       "id": "de_b1_exercises_1_q3"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "Obwohl",
+        "es",
+        "regnet,",
+        "gehen",
+        "wir",
+        "spazieren."
+       ],
+       "explanation": "A subordinate clause first: the main verb follows the comma.",
+       "translation": "Although it's raining, we're going for a walk.",
+       "id": "de_b1_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "correction",
+       "prompt": "Gestern ich ging ins Kino.",
+       "answers": [
+        "Gestern ging ich ins Kino."
+       ],
+       "explanation": "Verb in position 2 after Gestern.",
+       "skill": "grammar",
+       "id": "de_b1_exercises_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de_b1_quiz",
+   "type": "quiz",
+   "title": "B1 quiz",
+   "lessons": [
+    {
+     "id": "de_b1_quiz_1",
+     "title": "B1 quiz",
+     "summary": "Five questions across B1.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Several answers may look possible — choose the one that is grammatically correct."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Ich bleibe zu Hause, ___ ich krank bin.",
+       "options": [
+        "weil",
+        "denn",
+        "deshalb"
+       ],
+       "answer": 0,
+       "explanation": "weil + verb at the end.",
+       "id": "de_b1_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Die Kinder, ___ ich Geschenke gegeben habe, …",
+       "options": [
+        "die",
+        "denen",
+        "den"
+       ],
+       "answer": 1,
+       "explanation": "Dative plural: denen.",
+       "id": "de_b1_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Präteritum of „gehen“ (er):",
+       "options": [
+        "gehte",
+        "ging",
+        "gang"
+       ],
+       "answer": 1,
+       "explanation": "gehen → ging.",
+       "id": "de_b1_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„Das wäre schön“ expresses:",
+       "options": [
+        "a hypothetical / wish",
+        "a fact in the past",
+        "an order"
+       ],
+       "answer": 0,
+       "explanation": "Konjunktiv II.",
+       "id": "de_b1_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„die Überweisung“ at the doctor's is:",
+       "options": [
+        "a referral",
+        "a bill",
+        "a prescription"
+       ],
+       "answer": 0,
+       "explanation": "A referral to a specialist.",
+       "id": "de_b1_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„die Ausbildung“ is:",
+   "options": [
+    "vocational training",
+    "a holiday",
+    "a salary"
+   ],
+   "answer": 0,
+   "explanation": "Ausbildung = vocational training.",
+   "skill": "vocabulary",
+   "id": "de_b1_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Someone who „kündigt“:",
+   "options": [
+    "resigns",
+    "gets promoted",
+    "applies"
+   ],
+   "answer": 0,
+   "explanation": "kündigen = give notice.",
+   "skill": "vocabulary",
+   "id": "de_b1_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Ich glaube, ___ das stimmt.",
+   "options": [
+    "dass",
+    "ob",
+    "wenn"
+   ],
+   "answer": 0,
+   "explanation": "glauben, dass …",
+   "skill": "grammar",
+   "id": "de_b1_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Das Buch, ___ du mir geliehen hast, ist toll.",
+   "options": [
+    "der",
+    "das",
+    "dem"
+   ],
+   "answer": 1,
+   "explanation": "neuter accusative: das.",
+   "skill": "grammar",
+   "id": "de_b1_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "Wenn ich du ___, würde ich das machen. (sein)",
+   "answers": [
+    "wäre"
+   ],
+   "explanation": "wenn ich du wäre = if I were you.",
+   "skill": "grammar",
+   "id": "de_b1_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "Ich bin müde, weil ich habe schlecht geschlafen.",
+   "answers": [
+    "Ich bin müde, weil ich schlecht geschlafen habe."
+   ],
+   "explanation": "Verb at the end after weil.",
+   "skill": "grammar",
+   "id": "de_b1_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Obwohl die Firma Gewinn macht, werden 200 Stellen gestrichen.“ What happens?",
+   "options": [
+    "200 jobs are cut despite profits",
+    "200 people are hired",
+    "the firm makes a loss"
+   ],
+   "answer": 0,
+   "explanation": "obwohl = although; Stellen streichen = cut jobs.",
+   "skill": "reading",
+   "id": "de_b1_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „Bewerbungen bitte bis zum 15. März per E-Mail.“ How should you apply?",
+   "options": [
+    "by email by 15 March",
+    "by post after 15 March",
+    "in person"
+   ],
+   "answer": 0,
+   "explanation": "bis zum = by; per E-Mail.",
+   "skill": "reading",
+   "id": "de_b1_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "Wegen Bauarbeiten fährt die Linie fünf heute nur bis zum Hauptbahnhof.",
+   "prompt": "What's different today?",
+   "options": [
+    "line 5 only goes to the main station",
+    "line 5 is free",
+    "line 5 starts later"
+   ],
+   "answer": 0,
+   "explanation": "nur bis zum Hauptbahnhof.",
+   "skill": "listening",
+   "id": "de_b1_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "Könnten wir den Termin auf Donnerstag verschieben?",
+   "prompt": "What does the speaker want?",
+   "options": [
+    "to move the appointment to Thursday",
+    "to cancel it",
+    "to make it longer"
+   ],
+   "answer": 0,
+   "explanation": "verschieben = postpone/move.",
+   "skill": "listening",
+   "id": "de_b1_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm learning German because I want to study in Germany.",
+   "answers": [
+    "Ich lerne Deutsch, weil ich in Deutschland studieren möchte.",
+    "Ich lerne Deutsch, weil ich in Deutschland studieren will."
+   ],
+   "explanation": "weil + verb at the end.",
+   "skill": "writing",
+   "id": "de_b1_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "In a meeting you didn't understand. You say:",
+   "options": [
+    "Könnten Sie das bitte wiederholen?",
+    "Was?",
+    "Nein."
+   ],
+   "answer": 0,
+   "explanation": "Polite Konjunktiv II request.",
+   "skill": "conversation",
+   "id": "de_b1_exam_q12"
+  }
+ ]
+}

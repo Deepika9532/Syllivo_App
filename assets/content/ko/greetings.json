@@ -1,0 +1,77 @@
+{
+ "id": "ko_b1_greetings",
+ "lang": "ko",
+ "level": "Beginner",
+ "title": "Greetings & Basics",
+ "order": 3,
+ "version": 2,
+ "cards": [
+  {
+   "id": "ko_annyeong",
+   "front": "안녕하세요",
+   "romanization": "annyeonghaseyo",
+   "back": "Hello"
+  },
+  {
+   "id": "ko_gamsa",
+   "front": "감사합니다",
+   "romanization": "gamsahamnida",
+   "back": "Thank you"
+  },
+  {
+   "id": "ko_ne",
+   "front": "네",
+   "romanization": "ne",
+   "back": "Yes"
+  },
+  {
+   "id": "ko_aniyo",
+   "front": "아니요",
+   "romanization": "aniyo",
+   "back": "No"
+  },
+  {
+   "id": "ko_joesong",
+   "front": "죄송합니다",
+   "romanization": "joesonghamnida",
+   "back": "I'm sorry"
+  },
+  {
+   "id": "ko_gaseyo",
+   "front": "안녕히 가세요",
+   "romanization": "annyeonghi gaseyo",
+   "back": "Goodbye (to someone leaving)"
+  },
+  {
+   "id": "ko_gyeseyo",
+   "front": "안녕히 계세요",
+   "romanization": "annyeonghi gyeseyo",
+   "back": "Goodbye (when you are leaving)"
+  },
+  {
+   "id": "ko_bangap",
+   "front": "만나서 반갑습니다",
+   "romanization": "mannaseo bangapseumnida",
+   "back": "Nice to meet you"
+  },
+  {
+   "id": "ko_gwaenchana",
+   "front": "괜찮아요",
+   "romanization": "gwaenchanayo",
+   "back": "It's okay"
+  },
+  {
+   "id": "ko_juseyo",
+   "front": "주세요",
+   "romanization": "juseyo",
+   "back": "Please give me",
+   "example": "물 주세요. (Water, please.)"
+  },
+  {
+   "id": "ko_ireum",
+   "front": "이름이 뭐예요?",
+   "romanization": "ireumi mwoyeyo?",
+   "back": "What's your name?"
+  }
+ ]
+}

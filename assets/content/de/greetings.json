@@ -1,0 +1,73 @@
+{
+ "id": "de_a1_greetings",
+ "lang": "de",
+ "level": "A1",
+ "title": "Greetings & Basics",
+ "order": 1,
+ "version": 1,
+ "cards": [
+  {
+   "id": "de_hallo",
+   "front": "Hallo",
+   "back": "Hello",
+   "example": "Hallo, wie geht's?"
+  },
+  {
+   "id": "de_guten_morgen",
+   "front": "Guten Morgen",
+   "back": "Good morning"
+  },
+  {
+   "id": "de_guten_tag",
+   "front": "Guten Tag",
+   "back": "Good day / Hello (formal)"
+  },
+  {
+   "id": "de_guten_abend",
+   "front": "Guten Abend",
+   "back": "Good evening"
+  },
+  {
+   "id": "de_tschuess",
+   "front": "Tschüss",
+   "back": "Bye"
+  },
+  {
+   "id": "de_auf_wiedersehen",
+   "front": "Auf Wiedersehen",
+   "back": "Goodbye (formal)"
+  },
+  {
+   "id": "de_danke",
+   "front": "Danke",
+   "back": "Thank you",
+   "example": "Danke schön!"
+  },
+  {
+   "id": "de_bitte",
+   "front": "Bitte",
+   "back": "Please / You're welcome"
+  },
+  {
+   "id": "de_entschuldigung",
+   "front": "Entschuldigung",
+   "back": "Excuse me / Sorry"
+  },
+  {
+   "id": "de_ja",
+   "front": "Ja",
+   "back": "Yes"
+  },
+  {
+   "id": "de_nein",
+   "front": "Nein",
+   "back": "No"
+  },
+  {
+   "id": "de_wie_heisst_du",
+   "front": "Wie heißt du?",
+   "back": "What's your name?",
+   "example": "Ich heiße Anna."
+  }
+ ]
+}

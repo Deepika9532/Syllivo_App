@@ -1,0 +1,1127 @@
+{
+ "id": "ko_l3",
+ "lang": "ko",
+ "code": "L3",
+ "order": 3,
+ "version": 2,
+ "title": "Lower Intermediate",
+ "description": "Expanded vocabulary, grammar patterns and connectors, descriptive sentences, travel situations, and intermediate reading and listening.",
+ "alignment": "Content aligned with TOPIK I, level 2 → TOPIK II, level 3 bridge. TOPIK tests reading and listening; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Expanded vocabulary",
+  "Grammar patterns",
+  "Daily-life conversations",
+  "Connectors",
+  "Descriptive sentences",
+  "Travel situations",
+  "Intermediate reading",
+  "Listening comprehension"
+ ],
+ "modules": [
+  {
+   "id": "ko_l3_vocabulary",
+   "type": "vocabulary",
+   "title": "Travel and descriptions",
+   "lessons": [
+    {
+     "id": "ko_l3_vocabulary_1",
+     "title": "Travel and descriptions",
+     "summary": "Words for trips, weather and describing places.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "여행",
+         "en": "trip, travel",
+         "pron": "yeo-haeng"
+        },
+        {
+         "target": "기차",
+         "en": "train",
+         "pron": "gi-cha"
+        },
+        {
+         "target": "표",
+         "en": "ticket",
+         "pron": "pyo"
+        },
+        {
+         "target": "예약하다",
+         "en": "to reserve",
+         "pron": "ye-yak-ha-da"
+        },
+        {
+         "target": "날씨",
+         "en": "weather",
+         "pron": "nal-ssi"
+        },
+        {
+         "target": "덥다",
+         "en": "to be hot (weather)",
+         "pron": "deop-da"
+        },
+        {
+         "target": "춥다",
+         "en": "to be cold (weather)",
+         "pron": "chup-da"
+        },
+        {
+         "target": "조용하다",
+         "en": "to be quiet",
+         "pron": "jo-yong-ha-da"
+        },
+        {
+         "target": "유명하다",
+         "en": "to be famous",
+         "pron": "yu-myeong-ha-da"
+        },
+        {
+         "target": "경치",
+         "en": "scenery",
+         "pron": "gyeong-chi"
+        },
+        {
+         "target": "숙소",
+         "en": "accommodation",
+         "pron": "suk-so"
+        },
+        {
+         "target": "관광지",
+         "en": "tourist spot",
+         "pron": "gwan-gwang-ji"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„예약하다“ means:",
+       "options": [
+        "to reserve",
+        "to travel",
+        "to arrive"
+       ],
+       "answer": 0,
+       "explanation": "예약 = reservation.",
+       "id": "ko_l3_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "기차",
+         "train"
+        ],
+        [
+         "날씨",
+         "weather"
+        ],
+        [
+         "경치",
+         "scenery"
+        ],
+        [
+         "숙소",
+         "accommodation"
+        ]
+       ],
+       "id": "ko_l3_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Opposite of „덥다“:",
+       "options": [
+        "춥다",
+        "조용하다",
+        "유명하다"
+       ],
+       "answer": 0,
+       "explanation": "hot ↔ cold.",
+       "id": "ko_l3_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "제주도는 ___ 관광지예요. (famous: 유명하다 + -(으)ㄴ)",
+       "answers": [
+        "유명한"
+       ],
+       "explanation": "Adjective before noun: 유명한.",
+       "id": "ko_l3_vocabulary_1_q4",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "image",
+       "prompt": "Which one is “train”?",
+       "options": [
+        "기차",
+        "버스",
+        "비행기",
+        "표"
+       ],
+       "images": [
+        "train",
+        "bus",
+        "airplane",
+        "ticket"
+       ],
+       "answer": 0,
+       "explanation": "기차 = train; 비행기 = airplane.",
+       "skill": "vocabulary",
+       "id": "ko_l3_vocabulary_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_grammar",
+   "type": "grammar",
+   "title": "Connectors and describing nouns",
+   "lessons": [
+    {
+     "id": "ko_l3_grammar_1",
+     "title": "Connectors and describing nouns",
+     "summary": "-고, -지만, -아서/어서, -(으)니까, -(으)면 and adjective + -(으)ㄴ.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Connector",
+        "Meaning",
+        "Example"
+       ],
+       "rows": [
+        [
+         "-고",
+         "and (then)",
+         "밥을 먹고 공부해요."
+        ],
+        [
+         "-지만",
+         "but",
+         "비싸지만 좋아요."
+        ],
+        [
+         "-아서/어서",
+         "because / so (not with commands)",
+         "피곤해서 일찍 잤어요."
+        ],
+        [
+         "-(으)니까",
+         "because (OK with commands/suggestions)",
+         "비가 오니까 우산을 가져가세요."
+        ],
+        [
+         "-(으)면",
+         "if / when",
+         "시간이 있으면 같이 가요."
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "head": [
+        "Describing a noun",
+        "Form",
+        "Example"
+       ],
+       "rows": [
+        [
+         "adjective (present)",
+         "-(으)ㄴ",
+         "조용한 카페 (a quiet café)"
+        ],
+        [
+         "verb (present)",
+         "-는",
+         "제가 읽는 책 (the book I'm reading)"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "-아서/어서 never takes a past tense marker: 피곤했어서 ✗ → 피곤해서 ✓."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "비가 와서 ___.",
+       "options": [
+        "집에 있었어요",
+        "우산을 가져가세요",
+        "같이 가요"
+       ],
+       "answer": 0,
+       "explanation": "-아서 cannot be followed by a command or suggestion.",
+       "id": "ko_l3_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "한국어는 어렵___ 재미있어요. (but)",
+       "answers": [
+        "지만"
+       ],
+       "explanation": "-지만 = but.",
+       "id": "ko_l3_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“a quiet café”:",
+       "options": [
+        "조용한 카페",
+        "조용하는 카페",
+        "조용하고 카페"
+       ],
+       "answer": 0,
+       "explanation": "Adjective → -(으)ㄴ.",
+       "id": "ko_l3_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "어제 피곤했어서 일찍 잤어요.",
+       "answers": [
+        "어제 피곤해서 일찍 잤어요."
+       ],
+       "explanation": "No past tense before -아서/어서.",
+       "skill": "grammar",
+       "id": "ko_l3_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "시간이",
+        "있으면",
+        "같이",
+        "가요."
+       ],
+       "translation": "If you have time, let's go together.",
+       "id": "ko_l3_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_reading",
+   "type": "reading",
+   "title": "Reading: a trip to Gyeongju",
+   "lessons": [
+    {
+     "id": "ko_l3_reading_1",
+     "title": "Reading: a trip to Gyeongju",
+     "summary": "A travel blog with connectors and descriptions.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "경주 여행",
+       "target": "지난달에 친구하고 경주에 갔어요. 서울에서 기차를 타고 두 시간쯤 걸렸어요. 경주는 오래된 도시라서 유명한 관광지가 많아요. 불국사는 경치가 아름답고 조용했지만 사람이 조금 많았어요. 날씨가 더워서 오후에는 숙소에서 쉬었어요. 다음에는 가을에 가고 싶어요.",
+       "en": "Last month I went to Gyeongju with a friend. We took the train from Seoul and it took about two hours. Gyeongju is an old city, so there are many famous sights. Bulguksa had beautiful scenery and was peaceful, but there were quite a few people. Because the weather was hot, we rested at our accommodation in the afternoon. Next time I want to go in autumn."
+      },
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "오래되다",
+         "en": "to be old (not new)",
+         "pron": "o-rae-doe-da"
+        },
+        {
+         "target": "걸리다",
+         "en": "to take (time)",
+         "pron": "geol-li-da"
+        },
+        {
+         "target": "-고 싶다",
+         "en": "want to",
+         "pron": "go sip-da"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "How did they travel?",
+       "options": [
+        "by train",
+        "by plane",
+        "by bus"
+       ],
+       "answer": 0,
+       "explanation": "기차를 타고.",
+       "id": "ko_l3_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Why are there many sights in Gyeongju?",
+       "options": [
+        "It's an old city.",
+        "It's the capital.",
+        "It's by the sea."
+       ],
+       "answer": 0,
+       "explanation": "오래된 도시라서.",
+       "id": "ko_l3_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Why did they rest in the afternoon?",
+       "options": [
+        "It was hot.",
+        "It rained.",
+        "They were ill."
+       ],
+       "answer": 0,
+       "explanation": "날씨가 더워서.",
+       "id": "ko_l3_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "When does the writer want to go next time?",
+       "options": [
+        "autumn",
+        "summer",
+        "winter"
+       ],
+       "answer": 0,
+       "explanation": "가을.",
+       "id": "ko_l3_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_writing",
+   "type": "writing",
+   "title": "Writing: describing a place",
+   "lessons": [
+    {
+     "id": "ko_l3_writing_1",
+     "title": "Writing: describing a place",
+     "summary": "Use adjectives and connectors to describe somewhere you know.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "제 고향은 조용하고 아름다운 도시예요.",
+       "en": "My hometown is a quiet and beautiful city."
+      },
+      {
+       "type": "example",
+       "target": "음식이 맛있지만 조금 비싸요.",
+       "en": "The food is tasty but a bit expensive."
+      },
+      {
+       "type": "tip",
+       "text": "Aim for variety: one -고, one -지만 and one -아서/어서 in your paragraph."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "Describe your hometown or a favourite place in 4–6 sentences. Use -고, -지만 and -아서/어서.",
+       "minWords": 20,
+       "keywords": [
+        "고",
+        "지만",
+        "서"
+       ],
+       "sample": "제 고향은 하이데라바드예요. 하이데라바드는 크고 역사가 오래된 도시예요. 음식이 맵지만 정말 맛있어요. 여름에는 날씨가 더워서 저녁에 산책해요. 유명한 관광지도 많아서 여행객이 많이 와요.",
+       "skill": "writing",
+       "id": "ko_l3_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "날씨가 좋___ 공원에 갔어요. (because)",
+       "answers": [
+        "아서"
+       ],
+       "explanation": "좋다 → 좋아서.",
+       "id": "ko_l3_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“a famous restaurant”:",
+       "options": [
+        "유명한 식당",
+        "유명하는 식당",
+        "유명해서 식당"
+       ],
+       "answer": 0,
+       "explanation": "-(으)ㄴ.",
+       "id": "ko_l3_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_listening",
+   "type": "listening",
+   "title": "Listening: stations and reservations",
+   "lessons": [
+    {
+     "id": "ko_l3_listening_1",
+     "title": "Listening: stations and reservations",
+     "summary": "Announcements and phone calls when travelling.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "출발",
+         "en": "departure"
+        },
+        {
+         "target": "도착",
+         "en": "arrival"
+        },
+        {
+         "target": "번 출구",
+         "en": "exit number"
+        },
+        {
+         "target": "갈아타다",
+         "en": "to transfer (lines)"
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "이번 역은 시청역입니다. 1호선으로 갈아타실 분은 이번 역에서 내리십시오.",
+       "prompt": "What should you do to transfer to Line 1?",
+       "options": [
+        "get off at this station",
+        "stay on the train",
+        "go to exit 1"
+       ],
+       "answer": 0,
+       "explanation": "이번 역에서 내리십시오.",
+       "skill": "listening",
+       "id": "ko_l3_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "부산행 기차는 오후 세 시 반에 출발합니다.",
+       "prompt": "When does the train to Busan leave?",
+       "options": [
+        "3:30 pm",
+        "3:00 pm",
+        "1:30 pm"
+       ],
+       "answer": 0,
+       "explanation": "세 시 반.",
+       "skill": "listening",
+       "id": "ko_l3_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "이번 주 토요일에 두 명 예약하고 싶어요.",
+       "prompt": "What does the caller want?",
+       "options": [
+        "a reservation for two this Saturday",
+        "to cancel on Saturday",
+        "a table for one today"
+       ],
+       "answer": 0,
+       "explanation": "두 명 예약.",
+       "skill": "listening",
+       "id": "ko_l3_listening_1_q3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_speaking",
+   "type": "speaking",
+   "title": "Speaking: travel situations",
+   "lessons": [
+    {
+     "id": "ko_l3_speaking_1",
+     "title": "Speaking: travel situations",
+     "summary": "Buy tickets, ask the way and make requests.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "부산 가는 표 한 장 주세요.",
+       "en": "One ticket to Busan, please."
+      },
+      {
+       "type": "example",
+       "target": "이 근처에 화장실이 어디에 있어요?",
+       "en": "Where is a restroom near here?"
+      },
+      {
+       "type": "example",
+       "target": "사진 좀 찍어 주시겠어요?",
+       "en": "Could you take a photo for me?"
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "부산 가는 표 한 장 주세요.",
+       "translation": "One ticket to Busan, please.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l3_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "이 근처에 화장실이 어디에 있어요?",
+       "translation": "Is there a restroom near here?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l3_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "사진 좀 찍어 주시겠어요?",
+       "translation": "Could you take a photo for me?",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l3_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Counter for tickets:",
+       "options": [
+        "장",
+        "명",
+        "개"
+       ],
+       "answer": 0,
+       "explanation": "장 counts flat things like tickets and paper.",
+       "id": "ko_l3_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_pronunciation",
+   "type": "pronunciation",
+   "title": "Sound changes: nasalisation",
+   "lessons": [
+    {
+     "id": "ko_l3_pronunciation_1",
+     "title": "Sound changes: nasalisation",
+     "summary": "Why 감사합니다 sounds like [감사함니다].",
+     "blocks": [
+      {
+       "type": "text",
+       "text": "When ㄱ, ㄷ, ㅂ sounds meet ㄴ or ㅁ, they become nasal: ㅂ→ㅁ, ㄷ→ㄴ, ㄱ→ㅇ."
+      },
+      {
+       "type": "table",
+       "head": [
+        "Spelling",
+        "Pronounced",
+        "Rule"
+       ],
+       "rows": [
+        [
+         "합니다",
+         "[함니다]",
+         "ㅂ + ㄴ → ㅁ + ㄴ"
+        ],
+        [
+         "거짓말",
+         "[거진말]",
+         "ㄷ-sound + ㅁ → ㄴ"
+        ],
+        [
+         "한국말",
+         "[한궁말]",
+         "ㄱ + ㅁ → ㅇ + ㅁ"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "감사합니다",
+       "translation": "thank you",
+       "prompt": "Say [감사함니다]",
+       "skill": "pronunciation",
+       "id": "ko_l3_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "한국말",
+       "translation": "Korean language",
+       "prompt": "Say [한궁말]",
+       "skill": "pronunciation",
+       "id": "ko_l3_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "입니다",
+       "translation": "it is (formal)",
+       "prompt": "Say [임니다]",
+       "skill": "pronunciation",
+       "id": "ko_l3_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„합니다“ is pronounced:",
+       "options": [
+        "[함니다]",
+        "[합니다] with a clear p",
+        "[하니다]"
+       ],
+       "answer": 0,
+       "explanation": "Nasalisation.",
+       "id": "ko_l3_pronunciation_1_q4",
+       "skill": "pronunciation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„한국말“ is pronounced:",
+       "options": [
+        "[한궁말]",
+        "[한국말]",
+        "[항국말]"
+       ],
+       "answer": 0,
+       "explanation": "ㄱ before ㅁ → ㅇ.",
+       "id": "ko_l3_pronunciation_1_q5",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_conversation",
+   "type": "conversation",
+   "title": "Conversation: checking in",
+   "lessons": [
+    {
+     "id": "ko_l3_conversation_1",
+     "title": "Conversation: checking in",
+     "summary": "At a guesthouse front desk.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "숙소에서",
+       "lines": [
+        {
+         "speaker": "직원",
+         "target": "어서 오세요. 예약하셨어요?",
+         "en": "Welcome. Do you have a reservation?"
+        },
+        {
+         "speaker": "손님",
+         "target": "네, 라비 이름으로 2박 예약했어요.",
+         "en": "Yes, I booked two nights under the name Ravi."
+        },
+        {
+         "speaker": "직원",
+         "target": "여권 좀 보여 주시겠어요?",
+         "en": "Could you show me your passport?"
+        },
+        {
+         "speaker": "손님",
+         "target": "여기 있어요. 아침 식사는 몇 시부터예요?",
+         "en": "Here it is. From what time is breakfast?"
+        },
+        {
+         "speaker": "직원",
+         "target": "일곱 시부터 아홉 시까지예요.",
+         "en": "From seven to nine."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "„2박“ means:",
+       "options": [
+        "two nights",
+        "two people",
+        "two rooms"
+       ],
+       "answer": 0,
+       "explanation": "박 counts nights.",
+       "id": "ko_l3_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "여권",
+        "좀",
+        "보여",
+        "주시겠어요?"
+       ],
+       "translation": "Could you show me your passport?",
+       "id": "ko_l3_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Breakfast is served:",
+       "options": [
+        "7–9",
+        "6–8",
+        "8–10"
+       ],
+       "answer": 0,
+       "explanation": "일곱 시부터 아홉 시까지.",
+       "id": "ko_l3_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "일곱 시___ 아홉 시까지 (from)",
+       "answers": [
+        "부터"
+       ],
+       "explanation": "-부터 … -까지 = from … to.",
+       "id": "ko_l3_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: Level 3",
+   "lessons": [
+    {
+     "id": "ko_l3_exercises_1",
+     "title": "Mixed practice: Level 3",
+     "summary": "Connectors and descriptive forms.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "If the second clause is a command or suggestion, use -(으)니까, not -아서/어서."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "늦었___ 택시를 타세요. (because; command follows)",
+       "options": [
+        "으니까",
+        "어서"
+       ],
+       "answer": 0,
+       "explanation": "Command → -(으)니까.",
+       "id": "ko_l3_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "밥을 먹___ 커피를 마셨어요. (and then)",
+       "answers": [
+        "고"
+       ],
+       "explanation": "-고.",
+       "id": "ko_l3_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "It's expensive but good.",
+       "answers": [
+        "비싸지만 좋아요."
+       ],
+       "explanation": "-지만.",
+       "skill": "translation",
+       "id": "ko_l3_exercises_1_q3"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "제가",
+        "좋아하는",
+        "음식은",
+        "김치찌개예요."
+       ],
+       "translation": "The food I like is kimchi stew.",
+       "id": "ko_l3_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "correction",
+       "prompt": "어제 바빠서 전화하세요.",
+       "answers": [
+        "어제 바빠서 전화 못 했어요.",
+        "어제 바빠서 전화를 못 했어요."
+       ],
+       "explanation": "-아서 can't be followed by a command.",
+       "skill": "grammar",
+       "id": "ko_l3_exercises_1_q5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l3_quiz",
+   "type": "quiz",
+   "title": "Level 3 quiz",
+   "lessons": [
+    {
+     "id": "ko_l3_quiz_1",
+     "title": "Level 3 quiz",
+     "summary": "Five questions across Level 3.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Watch the restrictions on -아서/어서."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "“If it rains, I'll stay home.”",
+       "options": [
+        "비가 오면 집에 있을 거예요.",
+        "비가 와서 집에 있을 거예요.",
+        "비가 오고 집에 있을 거예요."
+       ],
+       "answer": 0,
+       "explanation": "-(으)면 = if.",
+       "id": "ko_l3_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "“a person who works hard”:",
+       "options": [
+        "열심히 일하는 사람",
+        "열심히 일한 사람이에요",
+        "열심히 일해서 사람"
+       ],
+       "answer": 0,
+       "explanation": "Verb → -는.",
+       "id": "ko_l3_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„경치“ means:",
+       "options": [
+        "scenery",
+        "price",
+        "luggage"
+       ],
+       "answer": 0,
+       "explanation": "경치 = scenery.",
+       "id": "ko_l3_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Pronunciation of „입니다“:",
+       "options": [
+        "[임니다]",
+        "[입니다]",
+        "[이니다]"
+       ],
+       "answer": 0,
+       "explanation": "Nasalisation.",
+       "id": "ko_l3_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "-지만 means:",
+       "options": [
+        "but",
+        "and",
+        "if"
+       ],
+       "answer": 0,
+       "explanation": "Contrast.",
+       "id": "ko_l3_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„도착“ means:",
+   "options": [
+    "arrival",
+    "departure",
+    "transfer"
+   ],
+   "answer": 0,
+   "explanation": "도착 = arrival.",
+   "skill": "vocabulary",
+   "id": "ko_l3_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„조용하다“ means:",
+   "options": [
+    "to be quiet",
+    "to be famous",
+    "to be cold"
+   ],
+   "answer": 0,
+   "explanation": "quiet.",
+   "skill": "vocabulary",
+   "id": "ko_l3_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "배가 고파___ 밥을 먹었어요.",
+   "options": [
+    "서",
+    "지만",
+    "면"
+   ],
+   "answer": 0,
+   "explanation": "Reason → -아서/어서.",
+   "skill": "grammar",
+   "id": "ko_l3_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "시간이 없___ 내일 만나요. (suggestion follows)",
+   "options": [
+    "으니까",
+    "어서"
+   ],
+   "answer": 0,
+   "explanation": "Suggestion → -(으)니까.",
+   "skill": "grammar",
+   "id": "ko_l3_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "이 옷은 예쁘___ 비싸요. (but)",
+   "answers": [
+    "지만"
+   ],
+   "explanation": "-지만.",
+   "skill": "grammar",
+   "id": "ko_l3_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "친절하는 사람",
+   "answers": [
+    "친절한 사람"
+   ],
+   "explanation": "Adjective → -(으)ㄴ.",
+   "skill": "grammar",
+   "id": "ko_l3_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „주말이라서 사람이 많았지만 경치가 정말 좋았어요.“ What was good?",
+   "options": [
+    "the scenery",
+    "the crowd",
+    "the weather"
+   ],
+   "answer": 0,
+   "explanation": "경치가 좋았어요.",
+   "skill": "reading",
+   "id": "ko_l3_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „표가 매진돼서 다음 기차를 탔어요.“ Why did they take the next train?",
+   "options": [
+    "tickets sold out",
+    "they were late",
+    "the train broke"
+   ],
+   "answer": 0,
+   "explanation": "매진 = sold out.",
+   "skill": "reading",
+   "id": "ko_l3_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "서울역에서 출발하는 기차는 오전 열 시에 도착합니다.",
+   "prompt": "When does the train arrive?",
+   "options": [
+    "10 am",
+    "10 pm",
+    "2 am"
+   ],
+   "answer": 0,
+   "explanation": "오전 열 시.",
+   "skill": "listening",
+   "id": "ko_l3_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "2번 출구로 나가서 오른쪽으로 가세요.",
+   "prompt": "Which exit?",
+   "options": [
+    "2",
+    "3",
+    "12"
+   ],
+   "answer": 0,
+   "explanation": "2번 출구.",
+   "skill": "listening",
+   "id": "ko_l3_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "If you have time, let's go together.",
+   "answers": [
+    "시간이 있으면 같이 가요.",
+    "시간 있으면 같이 가요."
+   ],
+   "explanation": "-(으)면.",
+   "skill": "writing",
+   "id": "ko_l3_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "At the hotel desk, “I have a reservation”:",
+   "options": [
+    "예약했어요.",
+    "예약해요?",
+    "예약할 거예요?"
+   ],
+   "answer": 0,
+   "explanation": "Past: I reserved.",
+   "skill": "conversation",
+   "id": "ko_l3_exam_q12"
+  }
+ ]
+}

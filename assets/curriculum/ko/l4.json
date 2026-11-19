@@ -1,0 +1,1173 @@
+{
+ "id": "ko_l4",
+ "lang": "ko",
+ "code": "L4",
+ "order": 4,
+ "version": 1,
+ "title": "Intermediate",
+ "description": "Complex sentences, honorifics and speech levels, opinions and feelings, longer conversations and practical writing.",
+ "alignment": "Content aligned with TOPIK II, levels 3–4. TOPIK tests reading and listening, plus writing in TOPIK II; it does not test speaking, so this level's speaking and pronunciation modules go beyond exam preparation. Not an official TOPIK result.",
+ "topics": [
+  "Complex sentences",
+  "Honorifics",
+  "Speech levels",
+  "Giving opinions",
+  "Expressing feelings",
+  "Longer conversations",
+  "Practical writing",
+  "Intermediate TOPIK preparation"
+ ],
+ "modules": [
+  {
+   "id": "ko_l4_vocabulary",
+   "type": "vocabulary",
+   "title": "Feelings, opinions and honorific words",
+   "lessons": [
+    {
+     "id": "ko_l4_vocabulary_1",
+     "title": "Feelings, opinions and honorific words",
+     "summary": "Express emotions and use respectful vocabulary.",
+     "blocks": [
+      {
+       "type": "vocab",
+       "items": [
+        {
+         "target": "기쁘다",
+         "en": "to be glad",
+         "pron": "gi-ppeu-da"
+        },
+        {
+         "target": "슬프다",
+         "en": "to be sad"
+        },
+        {
+         "target": "걱정되다",
+         "en": "to be worried"
+        },
+        {
+         "target": "실망하다",
+         "en": "to be disappointed"
+        },
+        {
+         "target": "의견",
+         "en": "opinion"
+        },
+        {
+         "target": "찬성하다",
+         "en": "to agree / be in favour"
+        },
+        {
+         "target": "반대하다",
+         "en": "to oppose"
+        }
+       ]
+      },
+      {
+       "type": "table",
+       "head": [
+        "Plain",
+        "Honorific",
+        "Meaning"
+       ],
+       "rows": [
+        [
+         "집",
+         "댁",
+         "home"
+        ],
+        [
+         "나이",
+         "연세",
+         "age"
+        ],
+        [
+         "밥",
+         "진지",
+         "meal"
+        ],
+        [
+         "있다",
+         "계시다",
+         "to be (somewhere)"
+        ],
+        [
+         "먹다",
+         "드시다 / 잡수시다",
+         "to eat"
+        ],
+        [
+         "자다",
+         "주무시다",
+         "to sleep"
+        ],
+        [
+         "말",
+         "말씀",
+         "words / speech"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Use honorific words when talking ABOUT someone older or senior — and never about yourself."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Honorific of „나이“:",
+       "options": [
+        "연세",
+        "댁",
+        "진지"
+       ],
+       "answer": 0,
+       "explanation": "연세 = age (honorific).",
+       "id": "ko_l4_vocabulary_1_q1",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "기쁘다",
+         "glad"
+        ],
+        [
+         "슬프다",
+         "sad"
+        ],
+        [
+         "걱정되다",
+         "worried"
+        ],
+        [
+         "찬성하다",
+         "to agree"
+        ]
+       ],
+       "id": "ko_l4_vocabulary_1_q2",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Talking about your grandfather sleeping:",
+       "options": [
+        "할아버지께서 주무세요.",
+        "할아버지가 자요.",
+        "할아버지께서 자요."
+       ],
+       "answer": 0,
+       "explanation": "주무시다 + 께서.",
+       "id": "ko_l4_vocabulary_1_q3",
+       "skill": "vocabulary"
+      },
+      {
+       "type": "fill",
+       "prompt": "할머니 ___에 가요. (to grandmother's home, honorific)",
+       "answers": [
+        "댁"
+       ],
+       "explanation": "댁 = home (honorific).",
+       "id": "ko_l4_vocabulary_1_q4",
+       "skill": "vocabulary"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_grammar",
+   "type": "grammar",
+   "title": "Honorifics, speech levels and giving opinions",
+   "lessons": [
+    {
+     "id": "ko_l4_grammar_1",
+     "title": "Honorifics, speech levels and giving opinions",
+     "summary": "-(으)시-, 께서/께, three speech levels, -는 것 같다 and -다고 생각하다.",
+     "blocks": [
+      {
+       "type": "heading",
+       "text": "Subject honorific -(으)시-"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Plain",
+        "Honorific",
+        "Example"
+       ],
+       "rows": [
+        [
+         "가요",
+         "가세요",
+         "선생님께서 학교에 가세요."
+        ],
+        [
+         "읽어요",
+         "읽으세요",
+         "아버지께서 신문을 읽으세요."
+        ],
+        [
+         "이/가",
+         "께서",
+         "subject particle"
+        ],
+        [
+         "에게",
+         "께",
+         "to (someone senior)"
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Speech levels"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Level",
+        "Use",
+        "Example"
+       ],
+       "rows": [
+        [
+         "합니다체 (formal polite)",
+         "presentations, news, first business contact",
+         "감사합니다. 시작하겠습니다."
+        ],
+        [
+         "해요체 (informal polite)",
+         "most everyday polite talk",
+         "고마워요. 시작할게요."
+        ],
+        [
+         "반말 (plain/informal)",
+         "close friends, younger people",
+         "고마워. 시작할게."
+        ]
+       ]
+      },
+      {
+       "type": "heading",
+       "text": "Opinions and impressions"
+      },
+      {
+       "type": "table",
+       "head": [
+        "Pattern",
+        "Meaning",
+        "Example"
+       ],
+       "rows": [
+        [
+         "-는 것 같아요",
+         "it seems / I think (soft)",
+         "비가 올 것 같아요."
+        ],
+        [
+         "-다고 생각해요",
+         "I think that …",
+         "이 계획이 좋다고 생각해요."
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "Switching to 반말 without being invited can sound rude. Wait for “말 놓으세요” (please speak casually)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Honorific of „가요“:",
+       "options": [
+        "가세요",
+        "가요세",
+        "가시요"
+       ],
+       "answer": 0,
+       "explanation": "-(으)세요.",
+       "id": "ko_l4_grammar_1_q1",
+       "skill": "grammar"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Formal polite style:",
+       "options": [
+        "감사합니다.",
+        "고마워요.",
+        "고마워."
+       ],
+       "answer": 0,
+       "explanation": "합니다체.",
+       "id": "ko_l4_grammar_1_q2",
+       "skill": "grammar"
+      },
+      {
+       "type": "fill",
+       "prompt": "내일 비가 올 것 ___. (it seems)",
+       "answers": [
+        "같아요"
+       ],
+       "explanation": "-(으)ㄹ 것 같아요.",
+       "id": "ko_l4_grammar_1_q3",
+       "skill": "grammar"
+      },
+      {
+       "type": "correction",
+       "prompt": "선생님이 지금 자요.",
+       "answers": [
+        "선생님께서 지금 주무세요.",
+        "선생님이 지금 주무세요."
+       ],
+       "explanation": "Use 주무시다 (and ideally 께서) for a teacher.",
+       "skill": "grammar",
+       "id": "ko_l4_grammar_1_q4"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "저는",
+        "이",
+        "계획이",
+        "좋다고",
+        "생각해요."
+       ],
+       "translation": "I think this plan is good.",
+       "id": "ko_l4_grammar_1_q5",
+       "skill": "grammar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_reading",
+   "type": "reading",
+   "title": "Reading: an opinion column",
+   "lessons": [
+    {
+     "id": "ko_l4_reading_1",
+     "title": "Reading: an opinion column",
+     "summary": "Arguments for and against a four-day school week.",
+     "blocks": [
+      {
+       "type": "passage",
+       "title": "주 4일 수업, 어떻게 생각하세요?",
+       "target": "요즘 일부 학교에서 주 4일 수업을 시범적으로 운영하고 있다. 찬성하는 사람들은 학생들이 충분히 쉬면 집중력이 높아진다고 말한다. 반면에 반대하는 사람들은 수업 시간이 줄어들어 학습량이 부족해질 것 같다고 걱정한다. 또한 부모가 일하는 가정은 아이를 돌보기가 어려워질 수 있다. 결국 중요한 것은 학생들에게 실제로 도움이 되는지 확인하는 것이다.",
+       "en": "Recently some schools have been trialling a four-day school week. Supporters say that if students rest enough, their concentration improves. On the other hand, opponents worry that with fewer class hours students may not learn enough. Also, families where parents work may find childcare harder. In the end, what matters is checking whether it actually helps students."
+      },
+      {
+       "type": "tip",
+       "text": "Written Korean often uses the plain -다 style (운영하고 있다, 말한다) instead of -아요/어요."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "What do supporters say?",
+       "options": [
+        "Rest improves concentration.",
+        "Students learn more hours.",
+        "Parents prefer it."
+       ],
+       "answer": 0,
+       "explanation": "집중력이 높아진다.",
+       "id": "ko_l4_reading_1_q1",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "What do opponents worry about?",
+       "options": [
+        "less learning time",
+        "too much homework",
+        "expensive buses"
+       ],
+       "answer": 0,
+       "explanation": "학습량이 부족해질 것 같다.",
+       "id": "ko_l4_reading_1_q2",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„반면에“ signals:",
+       "options": [
+        "contrast",
+        "result",
+        "example"
+       ],
+       "answer": 0,
+       "explanation": "반면에 = on the other hand.",
+       "id": "ko_l4_reading_1_q3",
+       "skill": "reading"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Which families may struggle?",
+       "options": [
+        "those where parents work",
+        "those with many children",
+        "those far from school"
+       ],
+       "answer": 0,
+       "explanation": "부모가 일하는 가정.",
+       "id": "ko_l4_reading_1_q4",
+       "skill": "reading"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_writing",
+   "type": "writing",
+   "title": "Writing: a short opinion paragraph",
+   "lessons": [
+    {
+     "id": "ko_l4_writing_1",
+     "title": "Writing: a short opinion paragraph",
+     "summary": "Practical writing in the plain written style.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Function",
+        "Expression"
+       ],
+       "rows": [
+        [
+         "Opinion",
+         "나는 …다고 생각한다."
+        ],
+        [
+         "Reason",
+         "왜냐하면 …기 때문이다."
+        ],
+        [
+         "Contrast",
+         "반면에 …"
+        ],
+        [
+         "Conclusion",
+         "따라서 …"
+        ]
+       ]
+      },
+      {
+       "type": "tip",
+       "text": "TOPIK II writing tasks expect the plain written style (-다), not -아요/어요."
+      }
+     ],
+     "questions": [
+      {
+       "type": "write",
+       "prompt": "In 5–7 sentences of plain written style (-다), give your opinion on the four-day school week with a reason and a contrast.",
+       "minWords": 30,
+       "keywords": [
+        "생각한다|생각합니다",
+        "때문",
+        "반면|하지만|그러나"
+       ],
+       "sample": "나는 주 4일 수업에 찬성한다고 생각한다. 왜냐하면 학생들이 충분히 쉬면 공부에 더 집중할 수 있기 때문이다. 또한 주말에 가족과 보내는 시간이 늘어난다. 반면에 수업 시간이 줄어드는 문제가 있다. 따라서 학교는 수업 내용을 효율적으로 바꿔야 한다.",
+       "skill": "writing",
+       "id": "ko_l4_writing_1_q1"
+      },
+      {
+       "type": "fill",
+       "prompt": "늦게 일어났기 ___에 지각했다. (because)",
+       "answers": [
+        "때문"
+       ],
+       "explanation": "-기 때문에.",
+       "id": "ko_l4_writing_1_q2",
+       "skill": "writing"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Plain written form of „가요“:",
+       "options": [
+        "간다",
+        "가요다",
+        "갑니다요"
+       ],
+       "answer": 0,
+       "explanation": "Verb with vowel stem → -ㄴ다.",
+       "id": "ko_l4_writing_1_q3",
+       "skill": "writing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_listening",
+   "type": "listening",
+   "title": "Listening: feelings and opinions",
+   "lessons": [
+    {
+     "id": "ko_l4_listening_1",
+     "title": "Listening: feelings and opinions",
+     "summary": "Recognise tone and opinion in conversation.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Listen for -는 것 같아요 (softened opinion) and -네요 (surprise / realisation)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "listening",
+       "audio": "시험을 잘 못 봐서 너무 속상해요.",
+       "prompt": "How does the speaker feel?",
+       "options": [
+        "upset",
+        "excited",
+        "relaxed"
+       ],
+       "answer": 0,
+       "explanation": "속상하다 = upset.",
+       "skill": "listening",
+       "id": "ko_l4_listening_1_q1"
+      },
+      {
+       "type": "listening",
+       "audio": "저는 그 의견에 반대해요. 비용이 너무 많이 드는 것 같아요.",
+       "prompt": "Why does the speaker disagree?",
+       "options": [
+        "it seems too costly",
+        "it takes too long",
+        "it is unsafe"
+       ],
+       "answer": 0,
+       "explanation": "비용이 많이 들다.",
+       "skill": "listening",
+       "id": "ko_l4_listening_1_q2"
+      },
+      {
+       "type": "listening",
+       "audio": "할머니께서 다음 주에 저희 집에 오세요.",
+       "prompt": "Who is coming next week?",
+       "options": [
+        "grandmother",
+        "a friend",
+        "a teacher"
+       ],
+       "answer": 0,
+       "explanation": "할머니께서 오세요.",
+       "skill": "listening",
+       "id": "ko_l4_listening_1_q3"
+      },
+      {
+       "type": "listening",
+       "audio": "발표는 다음 주 월요일 오전 열 시에 시작하겠습니다.",
+       "prompt": "When does the presentation start?",
+       "options": [
+        "next Monday 10 am",
+        "this Monday 10 am",
+        "next Monday 10 pm"
+       ],
+       "answer": 0,
+       "explanation": "다음 주 월요일 오전 열 시.",
+       "skill": "listening",
+       "id": "ko_l4_listening_1_q4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_speaking",
+   "type": "speaking",
+   "title": "Speaking: polite opinions and feelings",
+   "lessons": [
+    {
+     "id": "ko_l4_speaking_1",
+     "title": "Speaking: polite opinions and feelings",
+     "summary": "Speak about feelings and views respectfully.",
+     "blocks": [
+      {
+       "type": "example",
+       "target": "제 생각에는 그 방법이 더 좋은 것 같아요.",
+       "en": "In my view, that method seems better."
+      },
+      {
+       "type": "example",
+       "target": "말씀 잘 들었습니다.",
+       "en": "Thank you for your words. (formal)"
+      },
+      {
+       "type": "example",
+       "target": "걱정하지 마세요.",
+       "en": "Don't worry."
+      }
+     ],
+     "questions": [
+      {
+       "type": "speak",
+       "audio": "제 생각에는 그 방법이 더 좋은 것 같아요.",
+       "translation": "In my view, that method seems better.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l4_speaking_1_q1"
+      },
+      {
+       "type": "speak",
+       "audio": "말씀 잘 들었습니다.",
+       "translation": "I listened carefully to what you said.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l4_speaking_1_q2"
+      },
+      {
+       "type": "speak",
+       "audio": "걱정하지 마세요.",
+       "translation": "Don't worry.",
+       "prompt": "",
+       "skill": "speaking",
+       "id": "ko_l4_speaking_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "To speak to your boss in a meeting, use:",
+       "options": [
+        "합니다체 / 해요체 with honorifics",
+        "반말",
+        "plain -다 style"
+       ],
+       "answer": 0,
+       "explanation": "Respectful levels.",
+       "id": "ko_l4_speaking_1_q4",
+       "skill": "speaking"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_pronunciation",
+   "type": "pronunciation",
+   "title": "Sound changes: tensification and ㅎ",
+   "lessons": [
+    {
+     "id": "ko_l4_pronunciation_1",
+     "title": "Sound changes: tensification and ㅎ",
+     "summary": "Hidden tense consonants and the weakened ㅎ.",
+     "blocks": [
+      {
+       "type": "table",
+       "head": [
+        "Spelling",
+        "Pronounced",
+        "Note"
+       ],
+       "rows": [
+        [
+         "학교",
+         "[학꾜]",
+         "ㄱ final + ㄱ → ㄲ"
+        ],
+        [
+         "식당",
+         "[식땅]",
+         "ㄱ + ㄷ → ㄸ"
+        ],
+        [
+         "좋아요",
+         "[조아요]",
+         "ㅎ disappears before a vowel"
+        ],
+        [
+         "축하해요",
+         "[추카해요]",
+         "ㄱ + ㅎ → ㅋ"
+        ],
+        [
+         "입학",
+         "[이팍]",
+         "ㅂ + ㅎ → ㅍ"
+        ]
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "pronounce",
+       "audio": "학교",
+       "translation": "school",
+       "prompt": "Say [학꾜]",
+       "skill": "pronunciation",
+       "id": "ko_l4_pronunciation_1_q1"
+      },
+      {
+       "type": "pronounce",
+       "audio": "좋아요",
+       "translation": "good",
+       "prompt": "Say [조아요]",
+       "skill": "pronunciation",
+       "id": "ko_l4_pronunciation_1_q2"
+      },
+      {
+       "type": "pronounce",
+       "audio": "축하해요",
+       "translation": "congratulations",
+       "prompt": "Say [추카해요]",
+       "skill": "pronunciation",
+       "id": "ko_l4_pronunciation_1_q3"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„식당“ is pronounced:",
+       "options": [
+        "[식땅]",
+        "[식당] soft",
+        "[시당]"
+       ],
+       "answer": 0,
+       "explanation": "Tensification.",
+       "id": "ko_l4_pronunciation_1_q4",
+       "skill": "pronunciation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„좋아요“ is pronounced:",
+       "options": [
+        "[조아요]",
+        "[좋하요]",
+        "[조타요]"
+       ],
+       "answer": 0,
+       "explanation": "ㅎ drops before a vowel.",
+       "id": "ko_l4_pronunciation_1_q5",
+       "skill": "pronunciation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_conversation",
+   "type": "conversation",
+   "title": "Conversation: talking with a senior colleague",
+   "lessons": [
+    {
+     "id": "ko_l4_conversation_1",
+     "title": "Conversation: talking with a senior colleague",
+     "summary": "Mixing honorifics naturally at work.",
+     "blocks": [
+      {
+       "type": "dialogue",
+       "title": "회사에서",
+       "lines": [
+        {
+         "speaker": "민지",
+         "target": "부장님, 주말 잘 보내셨어요?",
+         "en": "Did you have a good weekend, sir?"
+        },
+        {
+         "speaker": "부장",
+         "target": "네, 가족들하고 바다에 다녀왔어요. 민지 씨는요?",
+         "en": "Yes, I went to the seaside with my family. And you, Minji?"
+        },
+        {
+         "speaker": "민지",
+         "target": "저는 집에서 쉬었어요. 그런데 내일 회의 자료는 언제까지 드리면 될까요?",
+         "en": "I rested at home. By when should I give you the materials for tomorrow's meeting?"
+        },
+        {
+         "speaker": "부장",
+         "target": "오늘 오후 다섯 시까지 보내 주세요.",
+         "en": "Please send them by 5 pm today."
+        }
+       ]
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Why does Minji use „드리다“?",
+       "options": [
+        "She is giving something to a senior.",
+        "It is the future tense.",
+        "It is a question marker."
+       ],
+       "answer": 0,
+       "explanation": "드리다 = humble 'give'.",
+       "id": "ko_l4_conversation_1_q1",
+       "skill": "conversation"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "주말",
+        "잘",
+        "보내셨어요?"
+       ],
+       "translation": "Did you have a good weekend? (honorific)",
+       "id": "ko_l4_conversation_1_q2",
+       "skill": "conversation"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Deadline for the materials:",
+       "options": [
+        "5 pm today",
+        "tomorrow morning",
+        "this weekend"
+       ],
+       "answer": 0,
+       "explanation": "오늘 오후 다섯 시까지.",
+       "id": "ko_l4_conversation_1_q3",
+       "skill": "conversation"
+      },
+      {
+       "type": "fill",
+       "prompt": "언제까지 ___면 될까요? (give, humble)",
+       "answers": [
+        "드리"
+       ],
+       "explanation": "드리다 → 드리면.",
+       "id": "ko_l4_conversation_1_q4",
+       "skill": "conversation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_exercises",
+   "type": "exercises",
+   "title": "Mixed practice: Level 4",
+   "lessons": [
+    {
+     "id": "ko_l4_exercises_1",
+     "title": "Mixed practice: Level 4",
+     "summary": "Honorifics, speech levels and opinion patterns.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Check who you are talking about (subject honorifics) and who you are talking to (speech level)."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "어머니께서 저녁을 ___.",
+       "options": [
+        "드세요",
+        "먹어요",
+        "먹으세요"
+       ],
+       "answer": 0,
+       "explanation": "먹다 → 드시다 for elders.",
+       "id": "ko_l4_exercises_1_q1",
+       "skill": "exercises"
+      },
+      {
+       "type": "fill",
+       "prompt": "선생님께 선물을 ___. (gave, humble, past polite)",
+       "answers": [
+        "드렸어요",
+        "드렸습니다"
+       ],
+       "explanation": "드리다 → 드렸어요.",
+       "id": "ko_l4_exercises_1_q2",
+       "skill": "exercises"
+      },
+      {
+       "type": "translate",
+       "prompt": "I think it will be hard.",
+       "answers": [
+        "어려울 것 같아요.",
+        "어려울 거라고 생각해요."
+       ],
+       "explanation": "-(으)ㄹ 것 같아요.",
+       "skill": "translation",
+       "id": "ko_l4_exercises_1_q3"
+      },
+      {
+       "type": "match",
+       "prompt": "",
+       "pairs": [
+        [
+         "합니다체",
+         "formal polite"
+        ],
+        [
+         "해요체",
+         "informal polite"
+        ],
+        [
+         "반말",
+         "casual"
+        ],
+        [
+         "-(으)시-",
+         "subject honorific"
+        ]
+       ],
+       "id": "ko_l4_exercises_1_q4",
+       "skill": "exercises"
+      },
+      {
+       "type": "order",
+       "prompt": "",
+       "words": [
+        "할아버지께서",
+        "신문을",
+        "읽으세요."
+       ],
+       "translation": "Grandfather is reading the newspaper.",
+       "id": "ko_l4_exercises_1_q5",
+       "skill": "exercises"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ko_l4_quiz",
+   "type": "quiz",
+   "title": "Level 4 quiz",
+   "lessons": [
+    {
+     "id": "ko_l4_quiz_1",
+     "title": "Level 4 quiz",
+     "summary": "Five questions across Level 4.",
+     "blocks": [
+      {
+       "type": "tip",
+       "text": "Decide the relationship first, then the form."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "prompt": "Honorific of „있다“ (person):",
+       "options": [
+        "계시다",
+        "있으시다",
+        "드시다"
+       ],
+       "answer": 0,
+       "explanation": "계시다.",
+       "id": "ko_l4_quiz_1_q1",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "Subject particle for elders:",
+       "options": [
+        "께서",
+        "이/가",
+        "께"
+       ],
+       "answer": 0,
+       "explanation": "께서.",
+       "id": "ko_l4_quiz_1_q2",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„-는 것 같아요“ makes a statement:",
+       "options": [
+        "softer / less certain",
+        "stronger",
+        "past"
+       ],
+       "answer": 0,
+       "explanation": "Hedging.",
+       "id": "ko_l4_quiz_1_q3",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„실망하다“ means:",
+       "options": [
+        "to be disappointed",
+        "to be relieved",
+        "to be proud"
+       ],
+       "answer": 0,
+       "explanation": "disappointed.",
+       "id": "ko_l4_quiz_1_q4",
+       "skill": "quiz"
+      },
+      {
+       "type": "mcq",
+       "prompt": "„학교“ is pronounced:",
+       "options": [
+        "[학꾜]",
+        "[하교]",
+        "[학교] soft"
+       ],
+       "answer": 0,
+       "explanation": "Tensification.",
+       "id": "ko_l4_quiz_1_q5",
+       "skill": "quiz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "exam": [
+  {
+   "type": "mcq",
+   "prompt": "„말씀“ is the honorific of:",
+   "options": [
+    "말",
+    "밥",
+    "집"
+   ],
+   "answer": 0,
+   "explanation": "말 → 말씀.",
+   "skill": "vocabulary",
+   "id": "ko_l4_exam_q1"
+  },
+  {
+   "type": "mcq",
+   "prompt": "„반대하다“ means:",
+   "options": [
+    "to oppose",
+    "to agree",
+    "to repeat"
+   ],
+   "answer": 0,
+   "explanation": "oppose.",
+   "skill": "vocabulary",
+   "id": "ko_l4_exam_q2"
+  },
+  {
+   "type": "mcq",
+   "prompt": "사장님께서 회의실에 ___.",
+   "options": [
+    "계세요",
+    "있어요",
+    "있으세요요"
+   ],
+   "answer": 0,
+   "explanation": "계시다 → 계세요.",
+   "skill": "grammar",
+   "id": "ko_l4_exam_q3"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Formal style for a presentation:",
+   "options": [
+    "시작하겠습니다.",
+    "시작할게.",
+    "시작해."
+   ],
+   "answer": 0,
+   "explanation": "합니다체.",
+   "skill": "grammar",
+   "id": "ko_l4_exam_q4"
+  },
+  {
+   "type": "fill",
+   "prompt": "이 영화가 재미있을 것 ___. (seems)",
+   "answers": [
+    "같아요"
+   ],
+   "explanation": "-(으)ㄹ 것 같아요.",
+   "skill": "grammar",
+   "id": "ko_l4_exam_q5"
+  },
+  {
+   "type": "correction",
+   "prompt": "할머니가 밥을 먹어요.",
+   "answers": [
+    "할머니께서 진지를 드세요.",
+    "할머니께서 진지를 잡수세요."
+   ],
+   "explanation": "Use honorific particle, noun and verb.",
+   "skill": "grammar",
+   "id": "ko_l4_exam_q6"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „찬성하는 의견도 있지만 반대하는 사람이 더 많다.“",
+   "options": [
+    "More people oppose it.",
+    "More people support it.",
+    "Nobody has an opinion."
+   ],
+   "answer": 0,
+   "explanation": "반대하는 사람이 더 많다.",
+   "skill": "reading",
+   "id": "ko_l4_exam_q7"
+  },
+  {
+   "type": "mcq",
+   "prompt": "Read: „비용 문제 때문에 계획이 연기되었다.“ Why was the plan postponed?",
+   "options": [
+    "cost",
+    "weather",
+    "staff"
+   ],
+   "answer": 0,
+   "explanation": "비용 = cost.",
+   "skill": "reading",
+   "id": "ko_l4_exam_q8"
+  },
+  {
+   "type": "listening",
+   "audio": "요즘 일이 많아서 좀 피곤한 것 같아요.",
+   "prompt": "How does the speaker seem?",
+   "options": [
+    "a bit tired",
+    "very happy",
+    "angry"
+   ],
+   "answer": 0,
+   "explanation": "피곤한 것 같아요.",
+   "skill": "listening",
+   "id": "ko_l4_exam_q9"
+  },
+  {
+   "type": "listening",
+   "audio": "교수님께서 내일 연구실에 안 계십니다.",
+   "prompt": "Where won't the professor be tomorrow?",
+   "options": [
+    "in the office/lab",
+    "at home",
+    "in class"
+   ],
+   "answer": 0,
+   "explanation": "연구실 = office/lab.",
+   "skill": "listening",
+   "id": "ko_l4_exam_q10"
+  },
+  {
+   "type": "translate",
+   "prompt": "I think this plan is good.",
+   "answers": [
+    "이 계획이 좋다고 생각해요.",
+    "저는 이 계획이 좋다고 생각해요.",
+    "이 계획이 좋은 것 같아요."
+   ],
+   "explanation": "-다고 생각해요.",
+   "skill": "writing",
+   "id": "ko_l4_exam_q11"
+  },
+  {
+   "type": "mcq",
+   "prompt": "To a senior: “Please have some food.”",
+   "options": [
+    "많이 드세요.",
+    "많이 먹어.",
+    "많이 먹어라."
+   ],
+   "answer": 0,
+   "explanation": "드시다.",
+   "skill": "conversation",
+   "id": "ko_l4_exam_q12"
+  }
+ ]
+}
